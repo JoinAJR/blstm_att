@@ -5,6 +5,9 @@ import datetime
 import time
 
 from att_lstm import AttLSTM
+from bilstm_without_att import BiLSTM
+from birnn_without_att import BiRNN
+from lstm_without_att import LSTM
 import data_helpers
 import utils
 from configure import FLAGS
@@ -17,7 +20,7 @@ warnings.filterwarnings("ignore", category=sklearn.exceptions.UndefinedMetricWar
 
 def train():
     with tf.device('/cpu:0'):
-        x_text, y = data_helpers.load_data_and_labels(FLAGS.train_path)
+        x_text, y, desc1, desc2, wType, type_index = data_helpers.load_data_and_labels(FLAGS.train_path)
 
     # Build vocabulary
     # Example: x_text[3] = "A misty <e1>ridge</e1> uprises from the <e2>surge</e2>."
@@ -26,11 +29,35 @@ def train():
     # [27 39 40 41 42  1 43  0  0 ... 0]
     # dimension = FLAGS.max_sentence_length
     vocab_processor = tf.contrib.learn.preprocessing.VocabularyProcessor(FLAGS.max_sentence_length)
-    x = np.array(list(vocab_processor.fit_transform(x_text)))
+    vacab_list = list(vocab_processor.fit_transform(x_text + wType))
+
+    all_narray = np.array(vacab_list)
+    narray_len = len(all_narray)/2
+
+    x = all_narray[:int(narray_len)]
+    wType_np = all_narray[int(narray_len):]
+
+    for idx in range(0, len(wType_np)):
+        type_num = 0
+        if type_index[idx][0] != -1:
+            type_num = type_num + 1
+            word1_id = wType_np[idx][0]
+            wType_np[idx][0] = 0
+            wType_np[idx][type_index[idx][0]] = word1_id
+        if type_index[idx][1] != -1:
+            word2_id = wType_np[idx][0]
+            if type_num != 0:
+                word2_id = wType_np[idx][1]
+                wType_np[idx][1] = 0
+            else:
+                wType_np[idx][0] = 0
+            wType_np[idx][type_index[idx][1]] = word2_id
+
     print("Text Vocabulary Size: {:d}".format(len(vocab_processor.vocabulary_)))
     print("x = {0}".format(x.shape))
     print("y = {0}".format(y.shape))
     print("")
+
 
     # Randomly shuffle data to split into train and test(dev)
     np.random.seed(10)
@@ -38,20 +65,27 @@ def train():
     x_shuffled = x[shuffle_indices]
     y_shuffled = y[shuffle_indices]
 
+    x_type_shuffled = wType_np[shuffle_indices]
+
     # Split train/test set
     # TODO: This is very crude, should use cross-validation
     dev_sample_index = -1 * int(FLAGS.dev_sample_percentage * float(len(y)))
     x_train, x_dev = x_shuffled[:dev_sample_index], x_shuffled[dev_sample_index:]
     y_train, y_dev = y_shuffled[:dev_sample_index], y_shuffled[dev_sample_index:]
+
+    x_train_type, x_dev_type = x_type_shuffled[:dev_sample_index], x_type_shuffled[dev_sample_index:]
     print("Train/Dev split: {:d}/{:d}\n".format(len(y_train), len(y_dev)))
 
     with tf.Graph().as_default():
         session_conf = tf.ConfigProto(
             allow_soft_placement=FLAGS.allow_soft_placement,
-            log_device_placement=FLAGS.log_device_placement)
+            log_device_placement=FLAGS.log_device_placement) 
         session_conf.gpu_options.allow_growth = FLAGS.gpu_allow_growth
         sess = tf.Session(config=session_conf)
         with sess.as_default():
+            # model = LSTM(
+            # model = BiRNN(
+            # model = BiLSTM(
             model = AttLSTM(
                 sequence_length=x_train.shape[1],
                 num_classes=y_train.shape[1],
@@ -106,14 +140,15 @@ def train():
                 print("Success to load pre-trained word2vec model!\n")
 
             # Generate batches
-            batches = data_helpers.batch_iter(list(zip(x_train, y_train)), FLAGS.batch_size, FLAGS.num_epochs)
+            batches = data_helpers.batch_iter(list(zip(x_train, y_train,x_train_type)), FLAGS.batch_size, FLAGS.num_epochs)
             # Training loop. For each batch...
             best_f1 = 0.0  # For save checkpoint(model)
             for batch in batches:
-                x_batch, y_batch = zip(*batch)
+                x_batch, y_batch, x_type_batch = zip(*batch)
                 # Train
                 feed_dict = {
                     model.input_text: x_batch,
+                    model.input_type: x_type_batch,
                     model.input_y: y_batch,
                     model.emb_dropout_keep_prob: FLAGS.emb_dropout_keep_prob,
                     model.rnn_dropout_keep_prob: FLAGS.rnn_dropout_keep_prob,
@@ -133,6 +168,7 @@ def train():
                     print("\nEvaluation:")
                     feed_dict = {
                         model.input_text: x_dev,
+                        model.input_type: x_dev_type,
                         model.input_y: y_dev,
                         model.emb_dropout_keep_prob: 1.0,
                         model.rnn_dropout_keep_prob: 1.0,
@@ -143,9 +179,9 @@ def train():
                     dev_summary_writer.add_summary(summaries, step)
 
                     time_str = datetime.datetime.now().isoformat()
-                    f1 = f1_score(np.argmax(y_dev, axis=1), predictions, labels=np.array(range(1, 19)), average="macro")
+                    f1 = f1_score(np.argmax(y_dev, axis=1), predictions, labels=np.array(range(6)), average="micro")
                     print("{}: step {}, loss {:g}, acc {:g}".format(time_str, step, loss, accuracy))
-                    print("[UNOFFICIAL] (2*9+1)-Way Macro-Average F1 Score (excluding Other): {:g}\n".format(f1))
+                    print("[UNOFFICIAL] (2*9+1)-Way Macro-Average F1 Score : {:g}\n".format(f1))
 
                     # Model checkpoint
                     if best_f1 < f1:

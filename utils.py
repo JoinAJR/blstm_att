@@ -1,5 +1,13 @@
 import numpy as np
 
+class2label_2 = {'-1': 0,
+               '0': 1, '1': 2,
+               '2': 3}
+
+label2class_2 = {'0': -1,
+               '1': 0, '2': 1,
+               '3': 2}
+
 
 class2label = {'Other': 0,
                'Message-Topic(e1,e2)': 1, 'Message-Topic(e2,e1)': 2,

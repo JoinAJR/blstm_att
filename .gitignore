@@ -93,3 +93,6 @@ logdir/
 
 resource/
 runs/
+
+#word_vector
+word_vector/

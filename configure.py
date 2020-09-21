@@ -1,7 +1,7 @@
 import argparse
 import sys
 
-
+# 设置各项参数：训练集路径，测试集路径，最大句子长度，用于验证的训练数据百分比
 def parse_args():
     """
     Parse input arguments
@@ -9,20 +9,31 @@ def parse_args():
     parser = argparse.ArgumentParser()
 
     # Data loading params
-    parser.add_argument("--train_path", default="SemEval2010_task8_all_data/SemEval2010_task8_training/TRAIN_FILE.TXT",
-                        type=str, help="Path of train data")
-    parser.add_argument("--test_path", default="SemEval2010_task8_all_data/SemEval2010_task8_testing_keys/TEST_FILE_FULL.TXT",
-                        type=str, help="Path of test data")
-    parser.add_argument("--max_sentence_length", default=90,
+    parser.add_argument("--train_path",
+                        default="clinic_data/train_has_ID_all_1_1000(new)_countFeatrue.txt",
+                        type=str, help="Path of train data")  # default del_1960_train.txt
+    parser.add_argument("--test_path", default="clinic_data/test_has_ID_all(new).txt",
+                        type=str, help="Path of test data")  # default del_840_test.txt #our_test.txt
+    parser.add_argument("--max_sentence_length", default=300,
                         type=int, help="Max sentence length in data")
     parser.add_argument("--dev_sample_percentage", default=0.1,
                         type=float, help="Percentage of the training data to use for validation")
 
+    # # # Data loading params
+    # parser.add_argument("--train_path", default="SemEval2010_task8_all_data/SemEval2010_task8_training/del_1960_train.txt",
+    #                     type=str, help="Path of train data")#default del_1960_train.txt
+    # parser.add_argument("--test_path", default="SemEval2010_task8_all_data/SemEval2010_task8_testing_keys/our_test.txt",
+    #                     type=str, help="Path of test data")#default del_840_test.txt #our_test.txt
+    # parser.add_argument("--max_sentence_length", default=65,
+    #                     type=int, help="Max sentence length in data")
+    # parser.add_argument("--dev_sample_percentage", default=0.1,
+    #                     type=float, help="Percentage of the training data to use for validation")
+
     # Model Hyper-parameters
     # Embeddings
-    parser.add_argument("--embedding_path", default=None,
+    parser.add_argument("--embedding_path", default="word_vector/cc.zh.300.vec",
                         type=str, help="Path of pre-trained word embeddings (glove)")
-    parser.add_argument("--embedding_dim", default=100,
+    parser.add_argument("--embedding_dim", default=300,
                         type=int, help="Dimensionality of word embedding (default: 100)")
     parser.add_argument("--emb_dropout_keep_prob", default=0.7,
                         type=float, help="Dropout keep probability of embedding layer (default: 0.7)")
@@ -57,10 +68,11 @@ def parse_args():
                         type=float, help="Decay rate for learning rate (Default: 0.9)")
 
     # Testing parameters
-    parser.add_argument("--checkpoint_dir", default="",
+    parser.add_argument("--checkpoint_dir",
+                        default="C:/joinajr/research_code/REL/凌佳君大数据服务器代码及训练模型/凌佳君/Attention-Based-BiLSTM-relation-extraction_ljj/runs/1599913041/checkpoints",
                         type=str, help="Checkpoint directory from training run")
 
-    # Misc Parameters
+        # Misc Parameters
     parser.add_argument("--allow_soft_placement", default=True,
                         type=bool, help="Allow device soft device placement")
     parser.add_argument("--log_device_placement", default=False,

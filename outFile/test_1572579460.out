@@ -1,0 +1,64 @@
+nohup: ignoring input
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.633 seconds.
+Prefix dict has been built succesfully.
+WARNING:tensorflow:From /usr/anaconda2/envs/py3/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/preprocessing/text.py:203: tokenizer (from tensorflow.contrib.learn.python.learn.preprocessing.text) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tensorflow/transform or tf.data.
+2020-02-08 20:05:20.054589: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 AVX512F FMA
+2020-02-08 20:05:21.340659: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1432] Found device 0 with properties: 
+name: Tesla V100-SXM2-16GB major: 7 minor: 0 memoryClockRate(GHz): 1.53
+pciBusID: 0000:8b:00.0
+totalMemory: 15.78GiB freeMemory: 15.37GiB
+2020-02-08 20:05:21.340710: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1511] Adding visible gpu devices: 0
+2020-02-08 20:05:21.815868: I tensorflow/core/common_runtime/gpu/gpu_device.cc:982] Device interconnect StreamExecutor with strength 1 edge matrix:
+2020-02-08 20:05:21.815913: I tensorflow/core/common_runtime/gpu/gpu_device.cc:988]      0 
+2020-02-08 20:05:21.815921: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1001] 0:   N 
+2020-02-08 20:05:21.816259: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 14874 MB memory) -> physical GPU (device: 0, name: Tesla V100-SXM2-16GB, pci bus id: 0000:8b:00.0, compute capability: 7.0)
+
+TRAIN_PATH=clinic_data/train_has_ID_all_1_1000(new).txt
+TEST_PATH=clinic_data/test_has_ID_all(new).txt
+MAX_SENTENCE_LENGTH=300
+DEV_SAMPLE_PERCENTAGE=0.1
+EMBEDDING_PATH=None
+EMBEDDING_DIM=150
+EMB_DROPOUT_KEEP_PROB=0.7
+HIDDEN_SIZE=100
+RNN_DROPOUT_KEEP_PROB=0.7
+DESC=
+DROPOUT_KEEP_PROB=0.5
+L2_REG_LAMBDA=1e-05
+BATCH_SIZE=10
+NUM_EPOCHS=100
+DISPLAY_EVERY=10
+EVALUATE_EVERY=100
+NUM_CHECKPOINTS=5
+LEARNING_RATE=1.0
+DECAY_RATE=0.9
+CHECKPOINT_DIR=/home/ontoweb/0+J/Attention-Based-BiLSTM-relation-extraction1.1/runs/1572579460/checkpoints
+ALLOW_SOFT_PLACEMENT=True
+LOG_DEVICE_PLACEMENT=False
+GPU_ALLOW_GROWTH=True
+
+clinic_data/test_has_ID_all(new).txt
+max sentence length = 483
+
+[0 0 0 ... 1 1 1]
+===the prediction result===
+	0	1	2	3	4	5
+0	2531	45	59	150	34	2
+1	54	2507	59	22	176	3
+2	49	39	103	6	16	3
+3	192	19	20	148	13	0
+4	23	164	24	2	178	1
+5	25	25	7	1	5	3
+[89.7, 88.9, 47.699999999999996, 37.8, 45.4, 4.5] [88.1, 89.60000000000001, 37.9, 45.0, 42.199999999999996, 25.0] [88.9, 89.2, 42.2, 41.1, 43.7, 7.6]
+beforeacc:89.7%,recall:88.1%,f1:88.9%
+afteracc:88.9%,recall:89.60000000000001%,f1:89.2%
+simultaneousacc:47.699999999999996%,recall:37.9%,f1:42.2%
+includeacc:37.8%,recall:45.0%,f1:41.1%
+be_includedacc:45.4%,recall:42.199999999999996%,f1:43.7%
+vagueacc:4.5%,recall:25.0%,f1:7.6%
+acc_avg:52.3%,recall_avg:54.6%,f1:0.8154442456768038%
+modelFile:/home/ontoweb/0+J/Attention-Based-BiLSTM-relation-extraction1.1/runs/1572579460/checkpoints

@@ -7,6 +7,9 @@ class AttLSTM:
                  hidden_size, l2_reg_lambda=0.0):
         # Placeholders for input, output and dropout
         self.input_text = tf.placeholder(tf.int32, shape=[None, sequence_length], name='input_text')
+
+        self.input_type = tf.placeholder(tf.int32, shape=[None, sequence_length], name='input_type')
+
         self.input_y = tf.placeholder(tf.float32, shape=[None, num_classes], name='input_y')
         self.emb_dropout_keep_prob = tf.placeholder(tf.float32, name='emb_dropout_keep_prob')
         self.rnn_dropout_keep_prob = tf.placeholder(tf.float32, name='rnn_dropout_keep_prob')
@@ -18,6 +21,12 @@ class AttLSTM:
         with tf.device('/cpu:0'), tf.variable_scope("word-embeddings"):
             self.W_text = tf.Variable(tf.random_uniform([vocab_size, embedding_size], -0.25, 0.25), name="W_text")
             self.embedded_chars = tf.nn.embedding_lookup(self.W_text, self.input_text)
+
+            # input_text_emb = tf.nn.embedding_lookup(self.W_text, self.input_text)
+            # input_type_emb = tf.nn.embedding_lookup(self.W_text, self.input_type)
+            #
+            # self.embedded_chars = tf.add(input_text_emb, input_type_emb)
+
 
         # Dropout for Word Embedding
         with tf.variable_scope('dropout-embeddings'):
@@ -43,7 +52,7 @@ class AttLSTM:
         # Dropout
         with tf.variable_scope('dropout'):
             self.h_drop = tf.nn.dropout(self.attn, self.dropout_keep_prob)
-
+            # self.h_drop = tf.nn.dropout(self.rnn_outputs, self.dropout_keep_prob)
         # Fully connected layer
         with tf.variable_scope('output'):
             self.logits = tf.layers.dense(self.h_drop, num_classes, kernel_initializer=initializer())

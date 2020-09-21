@@ -1,0 +1,48 @@
+nohup: ignoring input
+/home/ontoweb/.conda/envs/py36/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:523: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+/home/ontoweb/.conda/envs/py36/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:524: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+/home/ontoweb/.conda/envs/py36/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:525: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+/home/ontoweb/.conda/envs/py36/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:526: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+/home/ontoweb/.conda/envs/py36/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:527: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+/home/ontoweb/.conda/envs/py36/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:532: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 6.147 seconds.
+Prefix dict has been built succesfully.
+WARNING:tensorflow:From /home/ontoweb/.conda/envs/py36/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/preprocessing/text.py:203: tokenizer (from tensorflow.contrib.learn.python.learn.preprocessing.text) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tensorflow/transform or tf.data.
+2019-11-04 11:21:42.626080: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+
+TRAIN_PATH=clinic_data/train_has_ID_all_1_1000(new).txt
+TEST_PATH=clinic_data/forAuto_has_ID_1001_2069_all.txt
+MAX_SENTENCE_LENGTH=300
+DEV_SAMPLE_PERCENTAGE=0.1
+EMBEDDING_PATH=None
+EMBEDDING_DIM=150
+EMB_DROPOUT_KEEP_PROB=0.7
+HIDDEN_SIZE=100
+RNN_DROPOUT_KEEP_PROB=0.7
+DESC=
+DROPOUT_KEEP_PROB=0.5
+L2_REG_LAMBDA=1e-05
+BATCH_SIZE=10
+NUM_EPOCHS=100
+DISPLAY_EVERY=10
+EVALUATE_EVERY=100
+NUM_CHECKPOINTS=5
+LEARNING_RATE=1.0
+DECAY_RATE=0.9
+CHECKPOINT_DIR=/home/ontoweb/0+J/Attention-Based-BiLSTM-relation-extraction1.1/runs/1572577057/checkpoints
+ALLOW_SOFT_PLACEMENT=True
+LOG_DEVICE_PLACEMENT=False
+GPU_ALLOW_GROWTH=True
+
+max sentence length = 738
+
