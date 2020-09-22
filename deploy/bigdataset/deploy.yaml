@@ -8,19 +8,19 @@ spec:
   template:
     spec:
       initContainers:
-      - name: prepare-word_vector
-        # hub.data.wust.edu.cn:30880/ygtao/mnist-word_vector:v1.0
-        image: $word_vector_IMAGE
-        command: ['sh', '-c', 'mv /word_vector/* /tempdir;echo the init container is used to prepare word_vector for your code!']
+      - name: prepare-wordvector
+        # hub.data.wust.edu.cn:30880/ygtao/mnist-wordvector:v1.0
+        image: $wordvector_IMAGE
+        command: ['sh', '-c', 'mv /wordvector/* /tempdir;echo the init container is used to prepare wordvector for your code!']
         volumeMounts:
-        - name: shared-word_vector
+        - name: shared-wordvector
           mountPath: /tempdir
       containers:
         - name: $APP_NAME-$BUILD_NUMBER
           image: $REGISTRY/$HARBOR_NAMESPACE/$APP_NAME:SNAPSHOT-$BUILD_NUMBER
           volumeMounts:
-          - name: shared-word_vector
-            mountPath: /word_vector
+          - name: shared-wordvector
+            mountPath: /wordvector
           resources:
             limits:
               nvidia.com/gpu: 1
@@ -29,5 +29,5 @@ spec:
        - name: $HARBOR_LOGIN_SECRET_NAME
       restartPolicy: Never
       volumes:
-      - name: shared-word_vector
+      - name: shared-wordvector
         emptyDir: {}
