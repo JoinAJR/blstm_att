@@ -10,7 +10,8 @@ WORKDIR /home/blstm_att
 # step4 安装依赖
 RUN pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 RUN pip install -r requirements.txt
-RUN chmod +x /home/blstm_att/runshell.sh
+# RUN chmod +x /home/blstm_att/runshell.sh
 
 # step5 设置容器启动时的运行命令，这里我们直接运行python程序
-CMD ["/home/blstm_att/runshell.sh"]
+# CMD ["/home/blstm_att/runshell.sh"]
+ENTRYPOINT ["python", "/home/blstm_att/train_origin.py"]
