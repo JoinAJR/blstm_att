@@ -31,7 +31,7 @@ def parse_args():
 
     # Model Hyper-parameters
     # Embeddings
-    parser.add_argument("--embedding_path", default="word_vector/cc.zh.300.vec",
+    parser.add_argument("--embedding_path", default="/wordvector/cc.zh.300.vec",
                         type=str, help="Path of pre-trained word embeddings (glove)")
     parser.add_argument("--embedding_dim", default=300,
                         type=int, help="Dimensionality of word embedding (default: 100)")
