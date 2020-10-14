@@ -10,14 +10,20 @@ def parse_args():
 
     # Data loading params
     parser.add_argument("--train_path",
-                        default="clinic_data/train_has_ID_all_1_1000(new)_countFeatrue.txt",
+                        default="clinic_data/train_has_ID_all_1_1000(new)_forEtypeTrain_text.txt",
                         type=str, help="Path of train data")  # default del_1960_train.txt
-    parser.add_argument("--test_path", default="clinic_data/test_has_ID_all(new).txt",
+    parser.add_argument("--test_path", default="clinic_data/test_has_ID_all(new)_forEtypeTest_text.txt",
                         type=str, help="Path of test data")  # default del_840_test.txt #our_test.txt
     parser.add_argument("--max_sentence_length", default=300,
                         type=int, help="Max sentence length in data")
     parser.add_argument("--dev_sample_percentage", default=0.1,
                         type=float, help="Percentage of the training data to use for validation")
+
+    parser.add_argument("--train_etype_path", default="clinic_data/train_has_ID_all_1_1000(new)_forEtypeTrain_etype.txt",
+                        type=str, help="Path of train_etype data")  # default del_840_test.txt #our_test.txt
+    parser.add_argument("--test_etype_path", default="clinic_data/test_has_ID_all(new)_forEtypeTest_etype.txt",
+                        type=str, help="Path of train_etype data")  # default del_840_test.txt #our_test.txt
+
 
     # # # Data loading params
     # parser.add_argument("--train_path", default="SemEval2010_task8_all_data/SemEval2010_task8_training/del_1960_train.txt",
@@ -31,7 +37,7 @@ def parse_args():
 
     # Model Hyper-parameters
     # Embeddings
-    parser.add_argument("--embedding_path", default="word_vector/cc.zh.300.vec",
+    parser.add_argument("--embedding_path", default="",
                         type=str, help="Path of pre-trained word embeddings (glove)")
     parser.add_argument("--embedding_dim", default=300,
                         type=int, help="Dimensionality of word embedding (default: 100)")
@@ -52,9 +58,9 @@ def parse_args():
                         type=float, help="L2 regularization lambda (default: 1e-5)")
 
     # Training parameters
-    parser.add_argument("--batch_size", default=10,
+    parser.add_argument("--batch_size", default=32,
                         type=int, help="Batch Size (default: 10)")
-    parser.add_argument("--num_epochs", default=100,
+    parser.add_argument("--num_epochs", default=60,
                         type=int, help="Number of training epochs (Default: 100)")
     parser.add_argument("--display_every", default=10,
                         type=int, help="Number of iterations to display training information")
