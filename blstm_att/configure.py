@@ -39,6 +39,8 @@ def parse_args():
     # Embeddings
     parser.add_argument("--embedding_path", default="/wordvector/cc.zh.300.vec",
                         type=str, help="Path of pre-trained word embeddings (glove)")
+    # parser.add_argument("--embedding_path", default="",
+    #                     type=str, help="Path of pre-trained word embeddings (glove)")
     parser.add_argument("--embedding_dim", default=300,
                         type=int, help="Dimensionality of word embedding (default: 100)")
     parser.add_argument("--emb_dropout_keep_prob", default=0.7,
