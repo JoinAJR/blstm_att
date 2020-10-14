@@ -9,8 +9,77 @@ import utils_for_clinic
 from configure import FLAGS
 
 
+# 加载句子，关系，etype
+def load_data_and_labels_and_etypes(path,epath):
+    data = []
+    lines = [line.strip() for line in open(path, "r", encoding="utf-8")]
+    etype_lines = [line.strip() for line in open(epath, "r", encoding="utf-8")]
+    max_sentence_length = 0
+
+    # jieba.load_userdict("C:/ProgramData/Anaconda3/Lib/site-packages/jieba/user-dict.txt")
+    for idx in range(0, len(lines), 3):
+        id = lines[idx].split("\t")[0]
+        relation = lines[idx + 1]
+
+        etypes = etype_lines[idx].split("\t")[1]
+
+        sentence = lines[idx].split("\t")[1][0:]
+        sentence = sentence.replace('<e1>', ' e11 ')
+        sentence = sentence.replace('</e1>', ' e12 ')
+        sentence = sentence.replace('<e2>', ' e21 ')
+        sentence = sentence.replace('</e2>', ' e22 ')
+
+        tokens = jieba.cut(sentence, cut_all=False)
+        tokens_list = []
+        index = 0
+
+        for i in tokens:
+            tokens_list.append(i)
+
+        if max_sentence_length < len(tokens_list):
+            max_sentence_length = len(tokens_list)
+
+        sentence = " ".join(tokens_list)
+
+        data.append([id, sentence, relation, etypes])
+
+    print(path)
+    print("max sentence length = {}\n".format(max_sentence_length))
+
+    df = pd.DataFrame(data=data, columns=["id", "sentence", "relation", "etypes"])
+    df['label'] = [utils_for_clinic.class2label_2[r] for r in df['relation']]
+
+    # Text Data
+    x_text = df['sentence'].tolist()
+
+    # Label Data
+    y = df['label']
+
+    #etype Data
+    x_etypes = df['etypes'].tolist()
+
+    labels_flat = y.values.ravel()
+    labels_count = np.unique(labels_flat).shape[0]
+
+    # convert class labels from scalars to one-hot vectors
+    # 0  => [1 0 0 0]
+    # 1  => [0 1 0 0]
+    # ...
+    # 3 => [0 0 0 1]
+    def dense_to_one_hot(labels_dense, num_classes):
+        num_labels = labels_dense.shape[0]
+        index_offset = np.arange(num_labels) * num_classes
+        labels_one_hot = np.zeros((num_labels, num_classes))
+        labels_one_hot.flat[index_offset + labels_dense.ravel()] = 1
+        return labels_one_hot
+
+    labels = dense_to_one_hot(labels_flat, labels_count)
+    labels = labels.astype(np.uint8)
+
+    return x_text, labels, x_etypes
 
 
+# 加载句子，时序关系labels
 def load_data_and_labels(path):
     data = []
     lines = [line.strip() for line in open(path, "r", encoding="utf-8")]
