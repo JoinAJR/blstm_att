@@ -12,7 +12,7 @@ def parse_args():
     parser.add_argument("--train_path",
                         default="clinic_data/train_has_ID_all_1_1000(new)_forEtypeTrain_text_v1.1.txt",
                         type=str, help="Path of train data")  # default del_1960_train.txt
-    parser.add_argument("--test_path", default="clinic_data/test_has_ID_all(new)_forEtypeTest_text_v1.1.txt",
+    parser.add_argument("--test_path", default="clinic_data/test_has_ID_all(new)_forEtypeTrain_text_v1.1.txt",
                         type=str, help="Path of test data")  # default del_840_test.txt #our_test.txt
     parser.add_argument("--max_sentence_length", default=300,
                         type=int, help="Max sentence length in data")
@@ -21,7 +21,7 @@ def parse_args():
 
     parser.add_argument("--train_etype_path", default="clinic_data/train_has_ID_all_1_1000(new)_forEtypeTrain_etype_v1.1.txt",
                         type=str, help="Path of train_etype data")  # default del_840_test.txt #our_test.txt
-    parser.add_argument("--test_etype_path", default="clinic_data/test_has_ID_all(new)_forEtypeTest_etype_v1.1.txt",
+    parser.add_argument("--test_etype_path", default="clinic_data/test_has_ID_all(new)_forEtypeTrain_etype_v1.1.txt",
                         type=str, help="Path of train_etype data")  # default del_840_test.txt #our_test.txt
 
 
