@@ -1,0 +1,7870 @@
+1	diagnose measurement
+
+
+2	diagnose diagnose
+
+
+3	measurement diagnose
+
+
+4	treatment treatment
+
+
+5	treatment diagnose
+
+
+6	treatment visit_1
+
+
+7	treatment condition_8
+
+
+8	treatment diagnose
+
+
+9	treatment treatment
+
+
+10	treatment diagnose
+
+
+11	diagnose visit_1
+
+
+12	diagnose condition_8
+
+
+13	diagnose diagnose
+
+
+14	diagnose treatment
+
+
+15	diagnose diagnose
+
+
+16	visit_1 condition_8
+
+
+17	visit_1 diagnose
+
+
+18	visit_1 treatment
+
+
+19	visit_1 diagnose
+
+
+20	condition_8 diagnose
+
+
+21	condition_8 treatment
+
+
+22	condition_8 diagnose
+
+
+23	diagnose treatment
+
+
+24	diagnose diagnose
+
+
+25	treatment diagnose
+
+
+26	treatment treatment
+
+
+27	treatment treatment
+
+
+28	treatment measurement
+
+
+29	treatment treatment
+
+
+30	treatment measurement
+
+
+31	treatment measurement
+
+
+32	seeAdoctor_1 measurement
+
+
+33	seeAdoctor_1 symptom
+
+
+34	measurement symptom
+
+
+35	condition_4 diagnose
+
+
+36	condition_4 treatment
+
+
+37	condition_4 visit_2
+
+
+38	condition_4 condition_5
+
+
+39	condition_4 treatment
+
+
+40	diagnose treatment
+
+
+41	diagnose visit_2
+
+
+42	diagnose condition_5
+
+
+43	diagnose treatment
+
+
+44	treatment visit_2
+
+
+45	treatment condition_5
+
+
+46	treatment treatment
+
+
+47	visit_2 condition_5
+
+
+48	visit_2 treatment
+
+
+49	condition_5 treatment
+
+
+50	measurement seeAdoctor_2
+
+
+51	treatment treatment
+
+
+52	treatment condition_7
+
+
+53	treatment condition_7
+
+
+54	visit_1 treatment
+
+
+55	visit_1 treatment
+
+
+56	treatment treatment
+
+
+57	seeAdoctor_1 diagnose
+
+
+58	seeAdoctor_1 treatment
+
+
+59	diagnose treatment
+
+
+60	diagnose visit_1
+
+
+61	diagnose diagnose
+
+
+62	diagnose symptom
+
+
+63	visit_1 diagnose
+
+
+64	visit_1 symptom
+
+
+65	diagnose symptom
+
+
+66	diagnose diagnose
+
+
+67	symptom treatment
+
+
+68	seeAdoctor_1 diagnose
+
+
+69	seeAdoctor_1 diagnose
+
+
+70	seeAdoctor_1 condition_6
+
+
+71	seeAdoctor_1 diagnose
+
+
+72	diagnose diagnose
+
+
+73	diagnose condition_6
+
+
+74	diagnose diagnose
+
+
+75	diagnose condition_6
+
+
+76	diagnose diagnose
+
+
+77	condition_6 diagnose
+
+
+78	diagnose condition_7
+
+
+79	seeAdoctor_1 diagnose
+
+
+80	seeAdoctor_1 treatment
+
+
+81	seeAdoctor_1 condition_6
+
+
+82	seeAdoctor_1 diagnose
+
+
+83	seeAdoctor_1 treatment
+
+
+84	seeAdoctor_1 condition_4
+
+
+85	seeAdoctor_1 treatment
+
+
+86	seeAdoctor_1 diagnose
+
+
+87	diagnose treatment
+
+
+88	diagnose condition_6
+
+
+89	diagnose diagnose
+
+
+90	diagnose treatment
+
+
+91	diagnose condition_4
+
+
+92	diagnose treatment
+
+
+93	diagnose diagnose
+
+
+94	treatment condition_6
+
+
+95	treatment diagnose
+
+
+96	treatment treatment
+
+
+97	treatment condition_4
+
+
+98	treatment treatment
+
+
+99	treatment diagnose
+
+
+100	condition_6 diagnose
+
+
+101	condition_6 treatment
+
+
+102	condition_6 condition_4
+
+
+103	condition_6 treatment
+
+
+104	condition_6 diagnose
+
+
+105	diagnose treatment
+
+
+106	diagnose condition_4
+
+
+107	diagnose treatment
+
+
+108	diagnose diagnose
+
+
+109	treatment condition_4
+
+
+110	treatment treatment
+
+
+111	treatment diagnose
+
+
+112	condition_4 treatment
+
+
+113	condition_4 diagnose
+
+
+114	treatment diagnose
+
+
+115	seeAdoctor_1 diagnose
+
+
+116	seeAdoctor_1 treatment
+
+
+117	seeAdoctor_1 diagnose
+
+
+118	seeAdoctor_1 treatment
+
+
+119	seeAdoctor_1 condition_2
+
+
+120	seeAdoctor_1 condition_6
+
+
+121	diagnose treatment
+
+
+122	diagnose diagnose
+
+
+123	diagnose treatment
+
+
+124	diagnose condition_2
+
+
+125	diagnose condition_6
+
+
+126	treatment diagnose
+
+
+127	treatment treatment
+
+
+128	treatment condition_2
+
+
+129	treatment condition_6
+
+
+130	diagnose treatment
+
+
+131	diagnose condition_2
+
+
+132	diagnose condition_6
+
+
+133	treatment condition_2
+
+
+134	treatment condition_6
+
+
+135	condition_2 condition_6
+
+
+136	seeAdoctor_2 symptom
+
+
+137	seeAdoctor_1 treatment
+
+
+138	seeAdoctor_1 seeAdoctor_1
+
+
+139	seeAdoctor_1 condition_7
+
+
+140	treatment seeAdoctor_1
+
+
+141	treatment condition_7
+
+
+142	seeAdoctor_1 condition_7
+
+
+143	treament treatment
+
+
+144	treament condition_8
+
+
+145	treatment condition_8
+
+
+146	seeAdoctor_1 treatment
+
+
+147	seeAdoctor_1 seeAdoctor_1
+
+
+148	treatment seeAdoctor_1
+
+
+149	treatment treatment
+
+
+150	treatment treatment
+
+
+151	treatment condition_5
+
+
+152	treatment treatment
+
+
+153	treatment treatment
+
+
+154	treatment condition_5
+
+
+155	treatment treatment
+
+
+156	treatment condition_5
+
+
+157	treatment treatment
+
+
+158	condition_5 treatment
+
+
+159	diagnose treatment
+
+
+160	diagnose treatment
+
+
+161	diagnose diagnose
+
+
+162	diagnose diagnose
+
+
+163	diagnose treatment
+
+
+164	diagnose diagnose
+
+
+165	treatment treatment
+
+
+166	treatment diagnose
+
+
+167	treatment diagnose
+
+
+168	treatment treatment
+
+
+169	treatment diagnose
+
+
+170	treatment diagnose
+
+
+171	treatment diagnose
+
+
+172	treatment treatment
+
+
+173	treatment diagnose
+
+
+174	diagnose diagnose
+
+
+175	diagnose treatment
+
+
+176	diagnose diagnose
+
+
+177	diagnose treatment
+
+
+178	diagnose diagnose
+
+
+179	treatment diagnose
+
+
+180	treatment treatment
+
+
+181	treatment diagnose
+
+
+182	treatment diagnose
+
+
+183	treatment symptom
+
+
+184	treatment diagnose
+
+
+185	treatment diagnose
+
+
+186	treatment symptom
+
+
+187	diagnose diagnose
+
+
+188	diagnose symptom
+
+
+189	diagnose symptom
+
+
+190	treatment treatment
+
+
+191	treatment condition_6
+
+
+192	treatment treatment
+
+
+193	treatment condition_6
+
+
+194	treatment treatment
+
+
+195	condition_6 treatment
+
+
+196	treatment diagnose
+
+
+197	treatment seeAdoctor_1
+
+
+198	diagnose seeAdoctor_1
+
+
+199	treatment treatment
+
+
+200	treatment treatment
+
+
+201	treatment visit_1
+
+
+202	treatment treatment
+
+
+203	treatment condition_9
+
+
+204	treatment symptom
+
+
+205	treatment treatment
+
+
+206	treatment visit_1
+
+
+207	treatment treatment
+
+
+208	treatment condition_9
+
+
+209	treatment symptom
+
+
+210	treatment visit_1
+
+
+211	treatment treatment
+
+
+212	treatment condition_9
+
+
+213	treatment symptom
+
+
+214	visit_1 treatment
+
+
+215	visit_1 condition_9
+
+
+216	visit_1 symptom
+
+
+217	treatment condition_9
+
+
+218	treatment symptom
+
+
+219	condition_9 symptom
+
+
+220	treatment seeAdoctor_2
+
+
+221	treatment symptom
+
+
+222	treatment diagnose
+
+
+223	treatment symptom
+
+
+224	treatment diagnose
+
+
+225	seeAdoctor_2 symptom
+
+
+226	seeAdoctor_2 diagnose
+
+
+227	seeAdoctor_2 symptom
+
+
+228	seeAdoctor_2 diagnose
+
+
+229	symptom diagnose
+
+
+230	symptom symptom
+
+
+231	symptom diagnose
+
+
+232	diagnose symptom
+
+
+233	diagnose diagnose
+
+
+234	symptom diagnose
+
+
+235	diagnose diagnose
+
+
+236	diagnose treatment
+
+
+237	diagnose condition_8
+
+
+238	diagnose treatment
+
+
+239	diagnose condition_8
+
+
+240	treatment condition_8
+
+
+241	condition_1 seeAdoctor_2
+
+
+242	condition_1 treatment
+
+
+243	condition_1 seeAdoctor_2
+
+
+244	seeAdoctor_2 treatment
+
+
+245	seeAdoctor_2 seeAdoctor_2
+
+
+246	treatment seeAdoctor_2
+
+
+247	diagnose symptom
+
+
+248	seeAdoctor_1 visit_3
+
+
+249	seeAdoctor_1 condition_5
+
+
+250	visit_3 condition_5
+
+
+251	seeAdoctor_1 seeAdoctor_1
+
+
+252	seeAdoctor_1 symptom
+
+
+253	seeAdoctor_1 symptom
+
+
+254	condition_1 treatment
+
+
+255	condition_1 condition_7
+
+
+256	condition_1 condition_4
+
+
+257	condition_1 condition_7
+
+
+258	treatment condition_7
+
+
+259	treatment condition_4
+
+
+260	treatment condition_7
+
+
+261	condition_7 condition_4
+
+
+262	condition_7 condition_7
+
+
+263	condition_4 condition_7
+
+
+264	condition_1 condition_4
+
+
+265	condition_1 visit_1
+
+
+266	condition_1 treatment
+
+
+267	condition_1 treatment
+
+
+268	condition_1 symptom
+
+
+269	condition_1 treatment
+
+
+270	condition_1 condition_5
+
+
+271	condition_4 visit_1
+
+
+272	condition_4 treatment
+
+
+273	condition_4 treatment
+
+
+274	condition_4 symptom
+
+
+275	condition_4 treatment
+
+
+276	condition_4 condition_5
+
+
+277	visit_1 treatment
+
+
+278	visit_1 treatment
+
+
+279	visit_1 symptom
+
+
+280	visit_1 treatment
+
+
+281	visit_1 condition_5
+
+
+282	treatment treatment
+
+
+283	treatment symptom
+
+
+284	treatment treatment
+
+
+285	treatment condition_5
+
+
+286	treatment symptom
+
+
+287	treatment treatment
+
+
+288	treatment condition_5
+
+
+289	symptom treatment
+
+
+290	symptom condition_5
+
+
+291	treatment condition_5
+
+
+292	treatment condition_7
+
+
+293	measurement condition_1
+
+
+294	measurement treatment
+
+
+295	measurement condition_9
+
+
+296	measurement visit_3
+
+
+297	measurement treatment
+
+
+298	condition_1 treatment
+
+
+299	condition_1 condition_9
+
+
+300	condition_1 visit_3
+
+
+301	condition_1 treatment
+
+
+302	treatment condition_9
+
+
+303	treatment visit_3
+
+
+304	treatment treatment
+
+
+305	condition_9 visit_3
+
+
+306	condition_9 treatment
+
+
+307	visit_3 treatment
+
+
+308	diagnose visit_1
+
+
+309	diagnose visit_2
+
+
+310	diagnose condition_5
+
+
+311	diagnose treatment
+
+
+312	visit_1 visit_2
+
+
+313	visit_1 condition_5
+
+
+314	visit_1 treatment
+
+
+315	visit_2 condition_5
+
+
+316	visit_2 treatment
+
+
+317	condition_5 treatment
+
+
+318	condition_9 treatment
+
+
+319	condition_9 treament
+
+
+320	treatment treament
+
+
+321	seeAdoctor_1 treatment
+
+
+322	treatment diagnose
+
+
+323	treatment symptom
+
+
+324	treatment treatment
+
+
+325	symptom treatment
+
+
+326	treatment treatment
+
+
+327	visit_1 visit_3
+
+
+328	visit_1 symptom
+
+
+329	visit_1 visit_3
+
+
+330	visit_1 condition_7
+
+
+331	visit_3 symptom
+
+
+332	visit_3 visit_3
+
+
+333	visit_3 condition_7
+
+
+334	symptom visit_3
+
+
+335	symptom condition_7
+
+
+336	visit_3 condition_7
+
+
+337	treatment treatment
+
+
+338	visit_2 symptom
+
+
+339	treatment measurement
+
+
+340	treatment visit_3
+
+
+341	treatment treatment
+
+
+342	treatment diagnose
+
+
+343	treatment diagnose
+
+
+344	treatment condition_6
+
+
+345	treatment symptom
+
+
+346	treatment condition_6
+
+
+347	measurement visit_3
+
+
+348	measurement treatment
+
+
+349	measurement diagnose
+
+
+350	measurement diagnose
+
+
+351	measurement condition_6
+
+
+352	measurement symptom
+
+
+353	measurement condition_6
+
+
+354	visit_3 treatment
+
+
+355	visit_3 diagnose
+
+
+356	visit_3 diagnose
+
+
+357	visit_3 condition_6
+
+
+358	visit_3 symptom
+
+
+359	visit_3 condition_6
+
+
+360	treatment diagnose
+
+
+361	treatment diagnose
+
+
+362	treatment condition_6
+
+
+363	treatment symptom
+
+
+364	treatment condition_6
+
+
+365	diagnose diagnose
+
+
+366	diagnose condition_6
+
+
+367	diagnose symptom
+
+
+368	diagnose condition_6
+
+
+369	diagnose condition_6
+
+
+370	diagnose symptom
+
+
+371	diagnose condition_6
+
+
+372	condition_6 symptom
+
+
+373	condition_6 condition_6
+
+
+374	symptom condition_6
+
+
+375	diagnose treatment
+
+
+376	diagnose treatment
+
+
+377	diagnose seeAdoctor_2
+
+
+378	treatment treatment
+
+
+379	treatment seeAdoctor_2
+
+
+380	treatment seeAdoctor_2
+
+
+381	visit_1 treatment
+
+
+382	condition_1 treatment
+
+
+383	condition_1 symptom
+
+
+384	condition_1 visit_3
+
+
+385	condition_1 treatment
+
+
+386	condition_1 condition_7
+
+
+387	treatment symptom
+
+
+388	treatment visit_3
+
+
+389	treatment treatment
+
+
+390	treatment condition_7
+
+
+391	symptom visit_3
+
+
+392	symptom treatment
+
+
+393	symptom condition_7
+
+
+394	visit_3 treatment
+
+
+395	visit_3 condition_7
+
+
+396	treatment condition_7
+
+
+397	condition_6 treatment
+
+
+398	condition_6 condition_4
+
+
+399	condition_6 condition_6
+
+
+400	treatment condition_4
+
+
+401	treatment condition_6
+
+
+402	condition_4 condition_6
+
+
+403	visit_1 treatment
+
+
+404	visit_1 treatment
+
+
+405	visit_1 condition_6
+
+
+406	treatment treatment
+
+
+407	treatment condition_6
+
+
+408	treatment condition_6
+
+
+409	diagnose diagnose
+
+
+410	diagnose diagnose
+
+
+411	diagnose condition_6
+
+
+412	diagnose condition_6
+
+
+413	diagnose diagnose
+
+
+414	diagnose condition_6
+
+
+415	diagnose condition_6
+
+
+416	diagnose condition_6
+
+
+417	diagnose condition_6
+
+
+418	condition_6 condition_6
+
+
+419	symptom seeAdoctor_1
+
+
+420	symptom condition_6
+
+
+421	symptom diagnose
+
+
+422	symptom condition_5
+
+
+423	symptom symptom
+
+
+424	seeAdoctor_1 condition_6
+
+
+425	seeAdoctor_1 diagnose
+
+
+426	seeAdoctor_1 condition_5
+
+
+427	seeAdoctor_1 symptom
+
+
+428	condition_6 diagnose
+
+
+429	condition_6 condition_5
+
+
+430	condition_6 symptom
+
+
+431	diagnose condition_5
+
+
+432	diagnose symptom
+
+
+433	condition_5 symptom
+
+
+434	visit_1 condition_6
+
+
+435	visit_1 seeAdoctor_1
+
+
+436	visit_1 treatment
+
+
+437	visit_1 condition_7
+
+
+438	condition_6 seeAdoctor_1
+
+
+439	condition_6 treatment
+
+
+440	condition_6 condition_7
+
+
+441	seeAdoctor_1 treatment
+
+
+442	seeAdoctor_1 condition_7
+
+
+443	treatment condition_7
+
+
+444	condition_1 treatment
+
+
+445	condition_1 treatment
+
+
+446	condition_1 treatment
+
+
+447	condition_1 condition_7
+
+
+448	treatment treatment
+
+
+449	treatment treatment
+
+
+450	treatment condition_7
+
+
+451	treatment treatment
+
+
+452	treatment condition_7
+
+
+453	treatment condition_7
+
+
+454	treatment symptom
+
+
+455	symptom measurement
+
+
+456	symptom treatment
+
+
+457	symptom treatment
+
+
+458	symptom condition_5
+
+
+459	measurement treatment
+
+
+460	measurement treatment
+
+
+461	measurement condition_5
+
+
+462	treatment treatment
+
+
+463	treatment condition_5
+
+
+464	treatment condition_5
+
+
+465	measurement condition_5
+
+
+466	seeAdoctor_2 condition_5
+
+
+467	treatment treatment
+
+
+468	diagnose treatment
+
+
+469	treatment condition_5
+
+
+470	treatment symptom
+
+
+471	condition_5 symptom
+
+
+472	condition_7 diagnose
+
+
+473	condition_7 diagnose
+
+
+474	condition_7 treatment
+
+
+475	condition_7 measurement
+
+
+476	condition_7 treatment
+
+
+477	condition_7 seeAdoctor_2
+
+
+478	diagnose diagnose
+
+
+479	diagnose treatment
+
+
+480	diagnose measurement
+
+
+481	diagnose treatment
+
+
+482	diagnose seeAdoctor_2
+
+
+483	diagnose treatment
+
+
+484	diagnose measurement
+
+
+485	diagnose treatment
+
+
+486	diagnose seeAdoctor_2
+
+
+487	treatment measurement
+
+
+488	treatment treatment
+
+
+489	treatment seeAdoctor_2
+
+
+490	measurement treatment
+
+
+491	measurement seeAdoctor_2
+
+
+492	treatment seeAdoctor_2
+
+
+493	symptom diagnose
+
+
+494	symptom visit_1
+
+
+495	symptom treatment
+
+
+496	symptom condition_5
+
+
+497	diagnose visit_1
+
+
+498	diagnose treatment
+
+
+499	diagnose condition_5
+
+
+500	visit_1 treatment
+
+
+501	visit_1 condition_5
+
+
+502	treatment condition_5
+
+
+503	treatment treatment
+
+
+504	treatment condition_8
+
+
+505	treatment condition_8
+
+
+506	seeAdoctor_1 condition_8
+
+
+507	condition_1 condition_7
+
+
+508	condition_1 treatment
+
+
+509	condition_1 treatment
+
+
+510	condition_1 treatment
+
+
+511	condition_1 condition_5
+
+
+512	condition_7 treatment
+
+
+513	condition_7 treatment
+
+
+514	condition_7 treatment
+
+
+515	condition_7 condition_5
+
+
+516	treatment treatment
+
+
+517	treatment treatment
+
+
+518	treatment condition_5
+
+
+519	treatment treatment
+
+
+520	treatment condition_5
+
+
+521	treatment condition_5
+
+
+522	treatment condition_8
+
+
+523	diagnose diagnose
+
+
+524	diagnose condition_1
+
+
+525	diagnose condition_1
+
+
+526	diagnose condition_4
+
+
+527	condition_1 seeAdoctor_1
+
+
+528	condition_1 diagnose
+
+
+529	seeAdoctor_1 diagnose
+
+
+530	treatment visit_3
+
+
+531	treatment visit_2
+
+
+532	visit_3 visit_2
+
+
+533	visit_1 visit_1
+
+
+534	visit_1 treatment
+
+
+535	visit_1 treatment
+
+
+536	measurement measurement
+
+
+537	measurement visit_1
+
+
+538	measurement condition_7
+
+
+539	measurement visit_2
+
+
+540	measurement symptom
+
+
+541	measurement visit_1
+
+
+542	measurement condition_7
+
+
+543	measurement visit_2
+
+
+544	measurement symptom
+
+
+545	visit_1 condition_7
+
+
+546	visit_1 visit_2
+
+
+547	visit_1 symptom
+
+
+548	condition_7 visit_2
+
+
+549	condition_7 symptom
+
+
+550	visit_2 symptom
+
+
+551	seeAdoctor_1 treatment
+
+
+552	seeAdoctor_1 treatment
+
+
+553	treatment treatment
+
+
+554	condition_1 treatment
+
+
+555	condition_1 condition_7
+
+
+556	treatment condition_7
+
+
+557	visit_1 treatment
+
+
+558	symptom symptom
+
+
+559	symptom symptom
+
+
+560	symptom symptom
+
+
+561	symptom visit_1
+
+
+562	symptom visit_3
+
+
+563	symptom visit_1
+
+
+564	symptom visit_2
+
+
+565	symptom symptom
+
+
+566	symptom seeAdoctor_1
+
+
+567	symptom seeAdoctor_1
+
+
+568	symptom diagnose
+
+
+569	symptom diagnose
+
+
+570	symptom symptom
+
+
+571	symptom symptom
+
+
+572	symptom visit_1
+
+
+573	symptom visit_3
+
+
+574	symptom visit_1
+
+
+575	symptom visit_2
+
+
+576	symptom symptom
+
+
+577	symptom seeAdoctor_1
+
+
+578	symptom seeAdoctor_1
+
+
+579	symptom diagnose
+
+
+580	symptom diagnose
+
+
+581	symptom symptom
+
+
+582	symptom visit_1
+
+
+583	symptom visit_3
+
+
+584	symptom visit_1
+
+
+585	symptom visit_2
+
+
+586	symptom symptom
+
+
+587	symptom seeAdoctor_1
+
+
+588	symptom seeAdoctor_1
+
+
+589	symptom diagnose
+
+
+590	symptom diagnose
+
+
+591	symptom visit_1
+
+
+592	symptom visit_3
+
+
+593	symptom visit_1
+
+
+594	symptom visit_2
+
+
+595	symptom symptom
+
+
+596	symptom seeAdoctor_1
+
+
+597	symptom seeAdoctor_1
+
+
+598	symptom diagnose
+
+
+599	symptom diagnose
+
+
+600	visit_1 visit_3
+
+
+601	visit_1 visit_1
+
+
+602	visit_1 visit_2
+
+
+603	visit_1 symptom
+
+
+604	visit_1 seeAdoctor_1
+
+
+605	visit_1 seeAdoctor_1
+
+
+606	visit_1 diagnose
+
+
+607	visit_1 diagnose
+
+
+608	visit_3 visit_1
+
+
+609	visit_3 visit_2
+
+
+610	visit_3 symptom
+
+
+611	visit_3 seeAdoctor_1
+
+
+612	visit_3 seeAdoctor_1
+
+
+613	visit_3 diagnose
+
+
+614	visit_3 diagnose
+
+
+615	visit_1 visit_2
+
+
+616	visit_1 symptom
+
+
+617	visit_1 seeAdoctor_1
+
+
+618	visit_1 seeAdoctor_1
+
+
+619	visit_1 diagnose
+
+
+620	visit_1 diagnose
+
+
+621	visit_2 symptom
+
+
+622	visit_2 seeAdoctor_1
+
+
+623	visit_2 seeAdoctor_1
+
+
+624	visit_2 diagnose
+
+
+625	visit_2 diagnose
+
+
+626	symptom seeAdoctor_1
+
+
+627	symptom seeAdoctor_1
+
+
+628	symptom diagnose
+
+
+629	symptom diagnose
+
+
+630	seeAdoctor_1 seeAdoctor_1
+
+
+631	seeAdoctor_1 diagnose
+
+
+632	seeAdoctor_1 diagnose
+
+
+633	seeAdoctor_1 diagnose
+
+
+634	seeAdoctor_1 diagnose
+
+
+635	diagnose diagnose
+
+
+636	condition_1 seeAdoctor_1
+
+
+637	condition_1 visit_3
+
+
+638	condition_1 treatment
+
+
+639	condition_1 visit_1
+
+
+640	condition_1 condition_5
+
+
+641	condition_1 treatment
+
+
+642	seeAdoctor_1 visit_3
+
+
+643	seeAdoctor_1 treatment
+
+
+644	seeAdoctor_1 visit_1
+
+
+645	seeAdoctor_1 condition_5
+
+
+646	seeAdoctor_1 treatment
+
+
+647	visit_3 treatment
+
+
+648	visit_3 visit_1
+
+
+649	visit_3 condition_5
+
+
+650	visit_3 treatment
+
+
+651	treatment visit_1
+
+
+652	treatment condition_5
+
+
+653	treatment treatment
+
+
+654	visit_1 condition_5
+
+
+655	visit_1 treatment
+
+
+656	condition_5 treatment
+
+
+657	symptom diagnose
+
+
+658	symptom diagnose
+
+
+659	diagnose diagnose
+
+
+660	seeAdoctor_1 diagnose
+
+
+661	seeAdoctor_1 diagnose
+
+
+662	seeAdoctor_1 condition_8
+
+
+663	seeAdoctor_1 symptom
+
+
+664	seeAdoctor_1 measurement
+
+
+665	seeAdoctor_1 diagnose
+
+
+666	seeAdoctor_1 treatment
+
+
+667	seeAdoctor_1 symptom
+
+
+668	diagnose diagnose
+
+
+669	diagnose condition_8
+
+
+670	diagnose symptom
+
+
+671	diagnose measurement
+
+
+672	diagnose diagnose
+
+
+673	diagnose treatment
+
+
+674	diagnose symptom
+
+
+675	diagnose condition_8
+
+
+676	diagnose symptom
+
+
+677	diagnose measurement
+
+
+678	diagnose diagnose
+
+
+679	diagnose treatment
+
+
+680	diagnose symptom
+
+
+681	condition_8 symptom
+
+
+682	condition_8 measurement
+
+
+683	condition_8 diagnose
+
+
+684	condition_8 treatment
+
+
+685	condition_8 symptom
+
+
+686	symptom measurement
+
+
+687	symptom diagnose
+
+
+688	symptom treatment
+
+
+689	symptom symptom
+
+
+690	measurement diagnose
+
+
+691	measurement treatment
+
+
+692	measurement symptom
+
+
+693	diagnose treatment
+
+
+694	diagnose symptom
+
+
+695	treatment symptom
+
+
+696	condition_1 treatment
+
+
+697	condition_1 treatment
+
+
+698	treatment treatment
+
+
+699	condition_1 treatment
+
+
+700	condition_1 treatment
+
+
+701	treatment treatment
+
+
+702	condition_1 treatment
+
+
+703	condition_1 treatment
+
+
+704	condition_1 condition_7
+
+
+705	condition_1 visit_2
+
+
+706	treatment treatment
+
+
+707	treatment condition_7
+
+
+708	treatment visit_2
+
+
+709	treatment condition_7
+
+
+710	treatment visit_2
+
+
+711	condition_7 visit_2
+
+
+712	measurement treatment
+
+
+713	visit_1 treatment
+
+
+714	visit_1 diagnose
+
+
+715	visit_1 treatment
+
+
+716	visit_1 visit_2
+
+
+717	treatment diagnose
+
+
+718	treatment treatment
+
+
+719	treatment visit_2
+
+
+720	diagnose treatment
+
+
+721	diagnose visit_2
+
+
+722	treatment visit_2
+
+
+723	seeAdoctor_2 seeAdoctor_2
+
+
+724	condition_1 visit_1
+
+
+725	condition_1 treatment
+
+
+726	condition_1 symptom
+
+
+727	condition_1 treatment
+
+
+728	condition_1 visit_2
+
+
+729	visit_1 treatment
+
+
+730	visit_1 symptom
+
+
+731	visit_1 treatment
+
+
+732	visit_1 visit_2
+
+
+733	treatment symptom
+
+
+734	treatment treatment
+
+
+735	treatment visit_2
+
+
+736	symptom treatment
+
+
+737	symptom visit_2
+
+
+738	treatment visit_2
+
+
+739	condition_1 condition_2
+
+
+740	condition_1 visit_1
+
+
+741	condition_1 visit_2
+
+
+742	condition_1 condition_4
+
+
+743	condition_1 diagnose
+
+
+744	condition_1 treatment
+
+
+745	condition_2 visit_1
+
+
+746	condition_2 visit_2
+
+
+747	condition_2 condition_4
+
+
+748	condition_2 diagnose
+
+
+749	condition_2 treatment
+
+
+750	visit_1 visit_2
+
+
+751	visit_1 condition_4
+
+
+752	visit_1 diagnose
+
+
+753	visit_1 treatment
+
+
+754	visit_2 condition_4
+
+
+755	visit_2 diagnose
+
+
+756	visit_2 treatment
+
+
+757	condition_4 diagnose
+
+
+758	condition_4 treatment
+
+
+759	diagnose treatment
+
+
+760	diagnose treatment
+
+
+761	diagnose treatment
+
+
+762	treatment treatment
+
+
+763	treatment treatment
+
+
+764	treatment treatment
+
+
+765	treatment treatment
+
+
+766	treatment treatment
+
+
+767	treatment treatment
+
+
+768	treatment treatment
+
+
+769	visit_1 visit_1
+
+
+770	visit_1 treatment
+
+
+771	visit_1 treatment
+
+
+772	seeAdoctor_1 treatment
+
+
+773	diagnose measurement
+
+
+774	diagnose visit_1
+
+
+775	diagnose treatment
+
+
+776	diagnose condition_8
+
+
+777	diagnose measurement
+
+
+778	measurement visit_1
+
+
+779	measurement treatment
+
+
+780	measurement condition_8
+
+
+781	measurement measurement
+
+
+782	visit_1 treatment
+
+
+783	visit_1 condition_8
+
+
+784	visit_1 measurement
+
+
+785	treatment condition_8
+
+
+786	treatment measurement
+
+
+787	condition_8 measurement
+
+
+788	treatment diagnose
+
+
+789	treatment treatment
+
+
+790	treatment visit_1
+
+
+791	treatment visit_2
+
+
+792	treatment symptom
+
+
+793	diagnose treatment
+
+
+794	diagnose visit_1
+
+
+795	diagnose visit_2
+
+
+796	diagnose symptom
+
+
+797	treatment visit_1
+
+
+798	treatment visit_2
+
+
+799	treatment symptom
+
+
+800	visit_1 visit_2
+
+
+801	visit_1 symptom
+
+
+802	visit_2 symptom
+
+
+803	visit_1 visit_2
+
+
+804	seeAdoctor_1 diagnose
+
+
+805	visit_1 seeAdoctor_1
+
+
+806	visit_1 treatment
+
+
+807	visit_1 treatment
+
+
+808	visit_1 condition_6
+
+
+809	visit_1 treatment
+
+
+810	visit_1 treatment
+
+
+811	seeAdoctor_1 treatment
+
+
+812	seeAdoctor_1 treatment
+
+
+813	seeAdoctor_1 condition_6
+
+
+814	seeAdoctor_1 treatment
+
+
+815	seeAdoctor_1 treatment
+
+
+816	treatment treatment
+
+
+817	treatment condition_6
+
+
+818	treatment treatment
+
+
+819	treatment treatment
+
+
+820	treatment condition_6
+
+
+821	treatment treatment
+
+
+822	treatment treatment
+
+
+823	condition_6 treatment
+
+
+824	condition_6 treatment
+
+
+825	treatment treatment
+
+
+826	condition_7 condition_4
+
+
+827	condition_7 diagnose
+
+
+828	condition_7 seeAdoctor_2
+
+
+829	condition_7 condition_6
+
+
+830	condition_7 diagnose
+
+
+831	condition_7 treatment
+
+
+832	condition_4 diagnose
+
+
+833	condition_4 seeAdoctor_2
+
+
+834	condition_4 condition_6
+
+
+835	condition_4 diagnose
+
+
+836	condition_4 treatment
+
+
+837	diagnose seeAdoctor_2
+
+
+838	diagnose condition_6
+
+
+839	diagnose diagnose
+
+
+840	diagnose treatment
+
+
+841	seeAdoctor_2 condition_6
+
+
+842	seeAdoctor_2 diagnose
+
+
+843	seeAdoctor_2 treatment
+
+
+844	condition_6 diagnose
+
+
+845	condition_6 treatment
+
+
+846	diagnose treatment
+
+
+847	seeAdoctor_1 diagnose
+
+
+848	seeAdoctor_1 treatment
+
+
+849	seeAdoctor_1 condition_6
+
+
+850	seeAdoctor_1 symptom
+
+
+851	seeAdoctor_1 symptom
+
+
+852	seeAdoctor_1 diagnose
+
+
+853	seeAdoctor_1 diagnose
+
+
+854	seeAdoctor_1 treatment
+
+
+855	seeAdoctor_1 condition_6
+
+
+856	seeAdoctor_1 condition_8
+
+
+857	seeAdoctor_1 seeAdoctor_2
+
+
+858	seeAdoctor_1 symptom
+
+
+859	seeAdoctor_1 treatment
+
+
+860	diagnose treatment
+
+
+861	diagnose condition_6
+
+
+862	diagnose symptom
+
+
+863	diagnose symptom
+
+
+864	diagnose diagnose
+
+
+865	diagnose diagnose
+
+
+866	diagnose treatment
+
+
+867	diagnose condition_6
+
+
+868	diagnose condition_8
+
+
+869	diagnose seeAdoctor_2
+
+
+870	diagnose symptom
+
+
+871	diagnose treatment
+
+
+872	treatment condition_6
+
+
+873	treatment symptom
+
+
+874	treatment symptom
+
+
+875	treatment diagnose
+
+
+876	treatment diagnose
+
+
+877	treatment treatment
+
+
+878	treatment condition_6
+
+
+879	treatment condition_8
+
+
+880	treatment seeAdoctor_2
+
+
+881	treatment symptom
+
+
+882	treatment treatment
+
+
+883	condition_6 symptom
+
+
+884	condition_6 symptom
+
+
+885	condition_6 diagnose
+
+
+886	condition_6 diagnose
+
+
+887	condition_6 treatment
+
+
+888	condition_6 condition_6
+
+
+889	condition_6 condition_8
+
+
+890	condition_6 seeAdoctor_2
+
+
+891	condition_6 symptom
+
+
+892	condition_6 treatment
+
+
+893	symptom symptom
+
+
+894	symptom diagnose
+
+
+895	symptom diagnose
+
+
+896	symptom treatment
+
+
+897	symptom condition_6
+
+
+898	symptom condition_8
+
+
+899	symptom seeAdoctor_2
+
+
+900	symptom symptom
+
+
+901	symptom treatment
+
+
+902	symptom diagnose
+
+
+903	symptom diagnose
+
+
+904	symptom treatment
+
+
+905	symptom condition_6
+
+
+906	symptom condition_8
+
+
+907	symptom seeAdoctor_2
+
+
+908	symptom symptom
+
+
+909	symptom treatment
+
+
+910	diagnose diagnose
+
+
+911	diagnose treatment
+
+
+912	diagnose condition_6
+
+
+913	diagnose condition_8
+
+
+914	diagnose seeAdoctor_2
+
+
+915	diagnose symptom
+
+
+916	diagnose treatment
+
+
+917	diagnose treatment
+
+
+918	diagnose condition_6
+
+
+919	diagnose condition_8
+
+
+920	diagnose seeAdoctor_2
+
+
+921	diagnose symptom
+
+
+922	diagnose treatment
+
+
+923	treatment condition_6
+
+
+924	treatment condition_8
+
+
+925	treatment seeAdoctor_2
+
+
+926	treatment symptom
+
+
+927	treatment treatment
+
+
+928	condition_6 condition_8
+
+
+929	condition_6 seeAdoctor_2
+
+
+930	condition_6 symptom
+
+
+931	condition_6 treatment
+
+
+932	condition_8 seeAdoctor_2
+
+
+933	condition_8 symptom
+
+
+934	condition_8 treatment
+
+
+935	seeAdoctor_2 symptom
+
+
+936	seeAdoctor_2 treatment
+
+
+937	symptom treatment
+
+
+938	condition_1 visit_1
+
+
+939	condition_1 treatment
+
+
+940	condition_1 diagnose
+
+
+941	condition_1 diagnose
+
+
+942	condition_1 diagnose
+
+
+943	condition_1 diagnose
+
+
+944	condition_1 treatment
+
+
+945	condition_1 treatment
+
+
+946	visit_1 treatment
+
+
+947	visit_1 diagnose
+
+
+948	visit_1 diagnose
+
+
+949	visit_1 diagnose
+
+
+950	visit_1 diagnose
+
+
+951	visit_1 treatment
+
+
+952	visit_1 treatment
+
+
+953	treatment diagnose
+
+
+954	treatment diagnose
+
+
+955	treatment diagnose
+
+
+956	treatment diagnose
+
+
+957	treatment treatment
+
+
+958	treatment treatment
+
+
+959	diagnose diagnose
+
+
+960	diagnose diagnose
+
+
+961	diagnose diagnose
+
+
+962	diagnose treatment
+
+
+963	diagnose treatment
+
+
+964	diagnose diagnose
+
+
+965	diagnose diagnose
+
+
+966	diagnose treatment
+
+
+967	diagnose treatment
+
+
+968	diagnose diagnose
+
+
+969	diagnose treatment
+
+
+970	diagnose treatment
+
+
+971	diagnose treatment
+
+
+972	diagnose treatment
+
+
+973	treatment treatment
+
+
+974	treatment treatment
+
+
+975	treatment condition_7
+
+
+976	treatment condition_7
+
+
+977	seeAdoctor_1 treatment
+
+
+978	visit_1 diagnose
+
+
+979	visit_1 treatment
+
+
+980	diagnose treatment
+
+
+981	treatment condition_7
+
+
+982	treatment visit_2
+
+
+983	condition_7 visit_2
+
+
+984	treatment condition_4
+
+
+985	symptom treatment
+
+
+986	symptom symptom
+
+
+987	treatment symptom
+
+
+988	treatment treatment
+
+
+989	treatment treatment
+
+
+990	treatment treatment
+
+
+991	diagnose treatment
+
+
+992	treatment treatment
+
+
+993	treatment diagnose
+
+
+994	treatment treatment
+
+
+995	treatment diagnose
+
+
+996	treatment treatment
+
+
+997	diagnose treatment
+
+
+998	symptom treatment
+
+
+999	symptom symptom
+
+
+1000	treatment symptom
+
+
+1001	condition_1 treatment
+
+
+1002	condition_1 treatment
+
+
+1003	treatment treatment
+
+
+1004	diagnose treatment
+
+
+1005	diagnose treatment
+
+
+1006	treatment treatment
+
+
+1007	condition_4 condition_9
+
+
+1008	condition_4 treatment
+
+
+1009	condition_9 treatment
+
+
+1010	symptom treatment
+
+
+1011	symptom treatment
+
+
+1012	treatment treatment
+
+
+1013	condition_1 treatment
+
+
+1014	condition_1 condition_5
+
+
+1015	treatment condition_5
+
+
+1016	treatment treatment
+
+
+1017	condition_1 treatment
+
+
+1018	diagnose diagnose
+
+
+1019	diagnose visit_1
+
+
+1020	diagnose treatment
+
+
+1021	diagnose condition_5
+
+
+1022	diagnose visit_1
+
+
+1023	diagnose treatment
+
+
+1024	diagnose condition_5
+
+
+1025	visit_1 treatment
+
+
+1026	visit_1 condition_5
+
+
+1027	treatment condition_5
+
+
+1028	condition_1 treatment
+
+
+1029	condition_1 visit_1
+
+
+1030	condition_1 visit_2
+
+
+1031	treatment visit_1
+
+
+1032	treatment visit_2
+
+
+1033	visit_1 visit_2
+
+
+1034	treatment condition_7
+
+
+1035	treatment diagnose
+
+
+1036	treatment diagnose
+
+
+1037	treatment treatment
+
+
+1038	treatment treatment
+
+
+1039	treatment treatment
+
+
+1040	condition_7 diagnose
+
+
+1041	condition_7 diagnose
+
+
+1042	condition_7 treatment
+
+
+1043	condition_7 treatment
+
+
+1044	condition_7 treatment
+
+
+1045	diagnose diagnose
+
+
+1046	diagnose treatment
+
+
+1047	diagnose treatment
+
+
+1048	diagnose treatment
+
+
+1049	diagnose treatment
+
+
+1050	diagnose treatment
+
+
+1051	diagnose treatment
+
+
+1052	treatment treatment
+
+
+1053	treatment treatment
+
+
+1054	treatment treatment
+
+
+1055	diagnose diagnose
+
+
+1056	diagnose diagnose
+
+
+1057	diagnose seeAdoctor_2
+
+
+1058	diagnose diagnose
+
+
+1059	diagnose seeAdoctor_2
+
+
+1060	diagnose seeAdoctor_2
+
+
+1061	diagnose diagnose
+
+
+1062	diagnose diagnose
+
+
+1063	diagnose treatment
+
+
+1064	diagnose seeAdoctor_2
+
+
+1065	diagnose diagnose
+
+
+1066	diagnose treatment
+
+
+1067	diagnose seeAdoctor_2
+
+
+1068	diagnose treatment
+
+
+1069	diagnose seeAdoctor_2
+
+
+1070	treatment seeAdoctor_2
+
+
+1071	diagnose diagnose
+
+
+1072	diagnose diagnose
+
+
+1073	diagnose treatment
+
+
+1074	diagnose treatment
+
+
+1075	diagnose condition_7
+
+
+1076	diagnose condition_5
+
+
+1077	diagnose diagnose
+
+
+1078	diagnose treatment
+
+
+1079	diagnose treatment
+
+
+1080	diagnose condition_7
+
+
+1081	diagnose condition_5
+
+
+1082	diagnose treatment
+
+
+1083	diagnose treatment
+
+
+1084	diagnose condition_7
+
+
+1085	diagnose condition_5
+
+
+1086	treatment treatment
+
+
+1087	treatment condition_7
+
+
+1088	treatment condition_5
+
+
+1089	treatment condition_7
+
+
+1090	treatment condition_5
+
+
+1091	condition_7 condition_5
+
+
+1092	diagnose treatment
+
+
+1093	diagnose symptom
+
+
+1094	diagnose seeAdoctor_2
+
+
+1095	treatment symptom
+
+
+1096	treatment seeAdoctor_2
+
+
+1097	symptom seeAdoctor_2
+
+
+1098	measurement condition_5
+
+
+1099	condition_1 condition_8
+
+
+1100	treatment seeAdoctor_2
+
+
+1101	treatment condition_5
+
+
+1102	treatment symptom
+
+
+1103	seeAdoctor_2 condition_5
+
+
+1104	seeAdoctor_2 symptom
+
+
+1105	condition_5 symptom
+
+
+1106	condition_1 treatment
+
+
+1107	condition_1 symptom
+
+
+1108	treatment symptom
+
+
+1109	treatment measurement
+
+
+1110	treatment treatment
+
+
+1111	treatment measurement
+
+
+1112	measurement treatment
+
+
+1113	measurement measurement
+
+
+1114	treatment measurement
+
+
+1115	treatment treatment
+
+
+1116	treatment symptom
+
+
+1117	treatment symptom
+
+
+1118	visit_1 treatment
+
+
+1119	visit_1 condition_6
+
+
+1120	visit_1 visit_3
+
+
+1121	visit_1 treatment
+
+
+1122	visit_1 diagnose
+
+
+1123	treatment condition_6
+
+
+1124	treatment visit_3
+
+
+1125	treatment treatment
+
+
+1126	treatment diagnose
+
+
+1127	condition_6 visit_3
+
+
+1128	condition_6 treatment
+
+
+1129	condition_6 diagnose
+
+
+1130	visit_3 treatment
+
+
+1131	visit_3 diagnose
+
+
+1132	treatment diagnose
+
+
+1133	symptom symptom
+
+
+1134	symptom visit_1
+
+
+1135	symptom visit_1
+
+
+1136	measurement condition_6
+
+
+1137	measurement diagnose
+
+
+1138	condition_6 diagnose
+
+
+1139	treatment condition_5
+
+
+1140	diagnose diagnose
+
+
+1141	diagnose diagnose
+
+
+1142	diagnose visit_1
+
+
+1143	diagnose diagnose
+
+
+1144	diagnose visit_1
+
+
+1145	diagnose visit_1
+
+
+1146	visit_1 symptom
+
+
+1147	visit_1 diagnose
+
+
+1148	visit_1 diagnose
+
+
+1149	visit_1 condition_6
+
+
+1150	symptom diagnose
+
+
+1151	symptom diagnose
+
+
+1152	symptom condition_6
+
+
+1153	diagnose diagnose
+
+
+1154	diagnose condition_6
+
+
+1155	diagnose condition_6
+
+
+1156	treatment diagnose
+
+
+1157	diagnose diagnose
+
+
+1158	diagnose treatment
+
+
+1159	diagnose treatment
+
+
+1160	treatment diagnose
+
+
+1161	treatment condition_7
+
+
+1162	treatment treatment
+
+
+1163	treatment condition_7
+
+
+1164	diagnose condition_7
+
+
+1165	diagnose treatment
+
+
+1166	diagnose condition_7
+
+
+1167	condition_7 treatment
+
+
+1168	condition_7 condition_7
+
+
+1169	treatment condition_7
+
+
+1170	symptom treatment
+
+
+1171	symptom diagnose
+
+
+1172	symptom diagnose
+
+
+1173	treatment diagnose
+
+
+1174	treatment diagnose
+
+
+1175	diagnose diagnose
+
+
+1176	diagnose treatment
+
+
+1177	treatment diagnose
+
+
+1178	treatment measurement
+
+
+1179	diagnose measurement
+
+
+1180	seeAdoctor_1 condition_5
+
+
+1181	visit_2 seeAdoctor_2
+
+
+1182	symptom seeAdoctor_1
+
+
+1183	symptom diagnose
+
+
+1184	symptom condition_7
+
+
+1185	seeAdoctor_1 diagnose
+
+
+1186	seeAdoctor_1 condition_7
+
+
+1187	diagnose condition_7
+
+
+1188	visit_2 symptom
+
+
+1189	diagnose diagnose
+
+
+1190	diagnose diagnose
+
+
+1191	diagnose treatment
+
+
+1192	diagnose condition_7
+
+
+1193	diagnose diagnose
+
+
+1194	diagnose treatment
+
+
+1195	diagnose condition_7
+
+
+1196	diagnose treatment
+
+
+1197	diagnose condition_7
+
+
+1198	treatment condition_7
+
+
+1199	diagnose diagnose
+
+
+1200	diagnose diagnose
+
+
+1201	diagnose treatment
+
+
+1202	diagnose diagnose
+
+
+1203	diagnose treatment
+
+
+1204	diagnose treatment
+
+
+1205	diagnose condition_4
+
+
+1206	diagnose treatment
+
+
+1207	condition_4 treatment
+
+
+1208	diagnose diagnose
+
+
+1209	diagnose condition_8
+
+
+1210	diagnose measurement
+
+
+1211	diagnose diagnose
+
+
+1212	diagnose measurement
+
+
+1213	condition_8 measurement
+
+
+1214	condition_8 diagnose
+
+
+1215	condition_8 measurement
+
+
+1216	measurement diagnose
+
+
+1217	measurement measurement
+
+
+1218	diagnose measurement
+
+
+1219	diagnose visit_1
+
+
+1220	diagnose treatment
+
+
+1221	diagnose treatment
+
+
+1222	diagnose treatment
+
+
+1223	diagnose treatment
+
+
+1224	visit_1 treatment
+
+
+1225	visit_1 treatment
+
+
+1226	visit_1 treatment
+
+
+1227	visit_1 treatment
+
+
+1228	treatment treatment
+
+
+1229	treatment treatment
+
+
+1230	treatment treatment
+
+
+1231	treatment treatment
+
+
+1232	treatment treatment
+
+
+1233	treatment treatment
+
+
+1234	symptom treatment
+
+
+1235	symptom symptom
+
+
+1236	symptom seeAdoctor_2
+
+
+1237	treatment symptom
+
+
+1238	treatment seeAdoctor_2
+
+
+1239	symptom seeAdoctor_2
+
+
+1240	treatment seeAdoctor_2
+
+
+1241	treatment diagnose
+
+
+1242	seeAdoctor_2 diagnose
+
+
+1243	treatment condition_5
+
+
+1244	treatment treatment
+
+
+1245	visit_2 treatment
+
+
+1246	diagnose treatment
+
+
+1247	diagnose diagnose
+
+
+1248	diagnose treatment
+
+
+1249	diagnose treatment
+
+
+1250	diagnose measurement
+
+
+1251	diagnose condition_6
+
+
+1252	measurement condition_6
+
+
+1253	seeAdoctor_1 condition_6
+
+
+1254	seeAdoctor_1 condition_7
+
+
+1255	seeAdoctor_1 diagnose
+
+
+1256	symptom diagnose
+
+
+1257	symptom condition_4
+
+
+1258	symptom treatment
+
+
+1259	symptom visit_1
+
+
+1260	symptom treatment
+
+
+1261	symptom condition_5
+
+
+1262	diagnose condition_4
+
+
+1263	diagnose treatment
+
+
+1264	diagnose visit_1
+
+
+1265	diagnose treatment
+
+
+1266	diagnose condition_5
+
+
+1267	condition_4 treatment
+
+
+1268	condition_4 visit_1
+
+
+1269	condition_4 treatment
+
+
+1270	condition_4 condition_5
+
+
+1271	treatment visit_1
+
+
+1272	treatment treatment
+
+
+1273	treatment condition_5
+
+
+1274	visit_1 treatment
+
+
+1275	visit_1 condition_5
+
+
+1276	treatment condition_5
+
+
+1277	treatment treatment
+
+
+1278	diagnose symptom
+
+
+1279	diagnose condition_5
+
+
+1280	symptom condition_5
+
+
+1281	seeAdoctor_2 diagnose
+
+
+1282	seeAdoctor_2 diagnose
+
+
+1283	diagnose diagnose
+
+
+1284	condition_1 treatment
+
+
+1285	condition_1 condition_7
+
+
+1286	treatment condition_7
+
+
+1287	treatment symptom
+
+
+1288	condition_1 seeAdoctor_1
+
+
+1289	condition_1 seeAdoctor_1
+
+
+1290	condition_1 diagnose
+
+
+1291	seeAdoctor_1 seeAdoctor_1
+
+
+1292	seeAdoctor_1 diagnose
+
+
+1293	seeAdoctor_1 diagnose
+
+
+1294	visit_2 condition_5
+
+
+1295	treatment condition_7
+
+
+1296	treatment treatment
+
+
+1297	diagnose treatment
+
+
+1298	symptom diagnose
+
+
+1299	symptom diagnose
+
+
+1300	symptom condition_6
+
+
+1301	symptom seeAdoctor_2
+
+
+1302	symptom diagnose
+
+
+1303	diagnose diagnose
+
+
+1304	diagnose condition_6
+
+
+1305	diagnose seeAdoctor_2
+
+
+1306	diagnose diagnose
+
+
+1307	diagnose condition_6
+
+
+1308	diagnose seeAdoctor_2
+
+
+1309	diagnose diagnose
+
+
+1310	condition_6 seeAdoctor_2
+
+
+1311	condition_6 diagnose
+
+
+1312	seeAdoctor_2 diagnose
+
+
+1313	measurement diagnose
+
+
+1314	diagnose diagnose
+
+
+1315	diagnose measurement
+
+
+1316	treatment treatment
+
+
+1317	diagnose treatment
+
+
+1318	visit_1 treatment
+
+
+1319	condition_8 treatment
+
+
+1320	diagnose treatment
+
+
+1321	treatment treatment
+
+
+1322	diagnose treatment
+
+
+1323	visit_1 diagnose
+
+
+1324	condition_8 diagnose
+
+
+1325	diagnose diagnose
+
+
+1326	treatment diagnose
+
+
+1327	diagnose diagnose
+
+
+1328	condition_8 visit_1
+
+
+1329	diagnose visit_1
+
+
+1330	treatment visit_1
+
+
+1331	diagnose visit_1
+
+
+1332	diagnose condition_8
+
+
+1333	treatment condition_8
+
+
+1334	diagnose condition_8
+
+
+1335	treatment diagnose
+
+
+1336	diagnose diagnose
+
+
+1337	diagnose treatment
+
+
+1338	treatment treatment
+
+
+1339	treatment treatment
+
+
+1340	measurement treatment
+
+
+1341	treatment treatment
+
+
+1342	measurement treatment
+
+
+1343	measurement treatment
+
+
+1344	measurement seeAdoctor_1
+
+
+1345	symptom seeAdoctor_1
+
+
+1346	symptom measurement
+
+
+1347	diagnose condition_4
+
+
+1348	treatment condition_4
+
+
+1349	visit_2 condition_4
+
+
+1350	condition_5 condition_4
+
+
+1351	treatment condition_4
+
+
+1352	treatment diagnose
+
+
+1353	visit_2 diagnose
+
+
+1354	condition_5 diagnose
+
+
+1355	treatment diagnose
+
+
+1356	visit_2 treatment
+
+
+1357	condition_5 treatment
+
+
+1358	treatment treatment
+
+
+1359	condition_5 visit_2
+
+
+1360	treatment visit_2
+
+
+1361	treatment condition_5
+
+
+1362	seeAdoctor_2 measurement
+
+
+1363	treatment treatment
+
+
+1364	condition_7 treatment
+
+
+1365	condition_7 treatment
+
+
+1366	treatment visit_1
+
+
+1367	treatment visit_1
+
+
+1368	treatment treatment
+
+
+1369	diagnose seeAdoctor_1
+
+
+1370	treatment seeAdoctor_1
+
+
+1371	treatment diagnose
+
+
+1372	visit_1 diagnose
+
+
+1373	diagnose diagnose
+
+
+1374	symptom diagnose
+
+
+1375	diagnose visit_1
+
+
+1376	symptom visit_1
+
+
+1377	symptom diagnose
+
+
+1378	diagnose diagnose
+
+
+1379	treatment symptom
+
+
+1380	diagnose seeAdoctor_1
+
+
+1381	diagnose seeAdoctor_1
+
+
+1382	condition_6 seeAdoctor_1
+
+
+1383	diagnose seeAdoctor_1
+
+
+1384	diagnose diagnose
+
+
+1385	condition_6 diagnose
+
+
+1386	diagnose diagnose
+
+
+1387	condition_6 diagnose
+
+
+1388	diagnose diagnose
+
+
+1389	diagnose condition_6
+
+
+1390	condition_7 diagnose
+
+
+1391	diagnose seeAdoctor_1
+
+
+1392	treatment seeAdoctor_1
+
+
+1393	condition_6 seeAdoctor_1
+
+
+1394	diagnose seeAdoctor_1
+
+
+1395	treatment seeAdoctor_1
+
+
+1396	condition_4 seeAdoctor_1
+
+
+1397	treatment seeAdoctor_1
+
+
+1398	diagnose seeAdoctor_1
+
+
+1399	treatment diagnose
+
+
+1400	condition_6 diagnose
+
+
+1401	diagnose diagnose
+
+
+1402	treatment diagnose
+
+
+1403	condition_4 diagnose
+
+
+1404	treatment diagnose
+
+
+1405	diagnose diagnose
+
+
+1406	condition_6 treatment
+
+
+1407	diagnose treatment
+
+
+1408	treatment treatment
+
+
+1409	condition_4 treatment
+
+
+1410	treatment treatment
+
+
+1411	diagnose treatment
+
+
+1412	diagnose condition_6
+
+
+1413	treatment condition_6
+
+
+1414	condition_4 condition_6
+
+
+1415	treatment condition_6
+
+
+1416	diagnose condition_6
+
+
+1417	treatment diagnose
+
+
+1418	condition_4 diagnose
+
+
+1419	treatment diagnose
+
+
+1420	diagnose diagnose
+
+
+1421	condition_4 treatment
+
+
+1422	treatment treatment
+
+
+1423	diagnose treatment
+
+
+1424	treatment condition_4
+
+
+1425	diagnose condition_4
+
+
+1426	diagnose treatment
+
+
+1427	diagnose seeAdoctor_1
+
+
+1428	treatment seeAdoctor_1
+
+
+1429	diagnose seeAdoctor_1
+
+
+1430	treatment seeAdoctor_1
+
+
+1431	condition_2 seeAdoctor_1
+
+
+1432	condition_6 seeAdoctor_1
+
+
+1433	treatment diagnose
+
+
+1434	diagnose diagnose
+
+
+1435	treatment diagnose
+
+
+1436	condition_2 diagnose
+
+
+1437	condition_6 diagnose
+
+
+1438	diagnose treatment
+
+
+1439	treatment treatment
+
+
+1440	condition_2 treatment
+
+
+1441	condition_6 treatment
+
+
+1442	treatment diagnose
+
+
+1443	condition_2 diagnose
+
+
+1444	condition_6 diagnose
+
+
+1445	condition_2 treatment
+
+
+1446	condition_6 treatment
+
+
+1447	condition_6 condition_2
+
+
+1448	symptom seeAdoctor_2
+
+
+1449	treatment seeAdoctor_1
+
+
+1450	seeAdoctor_1 seeAdoctor_1
+
+
+1451	condition_7 seeAdoctor_1
+
+
+1452	seeAdoctor_1 treatment
+
+
+1453	condition_7 treatment
+
+
+1454	condition_7 seeAdoctor_1
+
+
+1455	treatment treament
+
+
+1456	condition_8 treament
+
+
+1457	condition_8 treatment
+
+
+1458	treatment seeAdoctor_1
+
+
+1459	seeAdoctor_1 seeAdoctor_1
+
+
+1460	seeAdoctor_1 treatment
+
+
+1461	treatment treatment
+
+
+1462	treatment treatment
+
+
+1463	condition_5 treatment
+
+
+1464	treatment treatment
+
+
+1465	treatment treatment
+
+
+1466	condition_5 treatment
+
+
+1467	treatment treatment
+
+
+1468	condition_5 treatment
+
+
+1469	treatment treatment
+
+
+1470	treatment condition_5
+
+
+1471	treatment diagnose
+
+
+1472	treatment diagnose
+
+
+1473	diagnose diagnose
+
+
+1474	diagnose diagnose
+
+
+1475	treatment diagnose
+
+
+1476	diagnose diagnose
+
+
+1477	treatment treatment
+
+
+1478	diagnose treatment
+
+
+1479	diagnose treatment
+
+
+1480	treatment treatment
+
+
+1481	diagnose treatment
+
+
+1482	diagnose treatment
+
+
+1483	diagnose treatment
+
+
+1484	treatment treatment
+
+
+1485	diagnose treatment
+
+
+1486	diagnose diagnose
+
+
+1487	treatment diagnose
+
+
+1488	diagnose diagnose
+
+
+1489	treatment diagnose
+
+
+1490	diagnose diagnose
+
+
+1491	diagnose treatment
+
+
+1492	treatment treatment
+
+
+1493	diagnose treatment
+
+
+1494	diagnose treatment
+
+
+1495	symptom treatment
+
+
+1496	diagnose treatment
+
+
+1497	diagnose treatment
+
+
+1498	symptom treatment
+
+
+1499	diagnose diagnose
+
+
+1500	symptom diagnose
+
+
+1501	symptom diagnose
+
+
+1502	treatment treatment
+
+
+1503	condition_6 treatment
+
+
+1504	treatment treatment
+
+
+1505	condition_6 treatment
+
+
+1506	treatment treatment
+
+
+1507	treatment condition_6
+
+
+1508	diagnose treatment
+
+
+1509	seeAdoctor_1 treatment
+
+
+1510	seeAdoctor_1 diagnose
+
+
+1511	treatment treatment
+
+
+1512	treatment treatment
+
+
+1513	visit_1 treatment
+
+
+1514	treatment treatment
+
+
+1515	condition_9 treatment
+
+
+1516	symptom treatment
+
+
+1517	treatment treatment
+
+
+1518	visit_1 treatment
+
+
+1519	treatment treatment
+
+
+1520	condition_9 treatment
+
+
+1521	symptom treatment
+
+
+1522	visit_1 treatment
+
+
+1523	treatment treatment
+
+
+1524	condition_9 treatment
+
+
+1525	symptom treatment
+
+
+1526	treatment visit_1
+
+
+1527	condition_9 visit_1
+
+
+1528	symptom visit_1
+
+
+1529	condition_9 treatment
+
+
+1530	symptom treatment
+
+
+1531	symptom condition_9
+
+
+1532	seeAdoctor_2 treatment
+
+
+1533	symptom treatment
+
+
+1534	diagnose treatment
+
+
+1535	symptom treatment
+
+
+1536	diagnose treatment
+
+
+1537	symptom seeAdoctor_2
+
+
+1538	diagnose seeAdoctor_2
+
+
+1539	symptom seeAdoctor_2
+
+
+1540	diagnose seeAdoctor_2
+
+
+1541	diagnose symptom
+
+
+1542	symptom symptom
+
+
+1543	diagnose symptom
+
+
+1544	symptom diagnose
+
+
+1545	diagnose diagnose
+
+
+1546	diagnose symptom
+
+
+1547	diagnose diagnose
+
+
+1548	treatment diagnose
+
+
+1549	condition_8 diagnose
+
+
+1550	treatment diagnose
+
+
+1551	condition_8 diagnose
+
+
+1552	condition_8 treatment
+
+
+1553	seeAdoctor_2 condition_1
+
+
+1554	treatment condition_1
+
+
+1555	seeAdoctor_2 condition_1
+
+
+1556	treatment seeAdoctor_2
+
+
+1557	seeAdoctor_2 seeAdoctor_2
+
+
+1558	seeAdoctor_2 treatment
+
+
+1559	symptom diagnose
+
+
+1560	visit_3 seeAdoctor_1
+
+
+1561	condition_5 seeAdoctor_1
+
+
+1562	condition_5 visit_3
+
+
+1563	seeAdoctor_1 seeAdoctor_1
+
+
+1564	symptom seeAdoctor_1
+
+
+1565	symptom seeAdoctor_1
+
+
+1566	treatment condition_1
+
+
+1567	condition_7 condition_1
+
+
+1568	condition_4 condition_1
+
+
+1569	condition_7 condition_1
+
+
+1570	condition_7 treatment
+
+
+1571	condition_4 treatment
+
+
+1572	condition_7 treatment
+
+
+1573	condition_4 condition_7
+
+
+1574	condition_7 condition_7
+
+
+1575	condition_7 condition_4
+
+
+1576	condition_4 condition_1
+
+
+1577	visit_1 condition_1
+
+
+1578	treatment condition_1
+
+
+1579	treatment condition_1
+
+
+1580	symptom condition_1
+
+
+1581	treatment condition_1
+
+
+1582	condition_5 condition_1
+
+
+1583	visit_1 condition_4
+
+
+1584	treatment condition_4
+
+
+1585	treatment condition_4
+
+
+1586	symptom condition_4
+
+
+1587	treatment condition_4
+
+
+1588	condition_5 condition_4
+
+
+1589	treatment visit_1
+
+
+1590	treatment visit_1
+
+
+1591	symptom visit_1
+
+
+1592	treatment visit_1
+
+
+1593	condition_5 visit_1
+
+
+1594	treatment treatment
+
+
+1595	symptom treatment
+
+
+1596	treatment treatment
+
+
+1597	condition_5 treatment
+
+
+1598	symptom treatment
+
+
+1599	treatment treatment
+
+
+1600	condition_5 treatment
+
+
+1601	treatment symptom
+
+
+1602	condition_5 symptom
+
+
+1603	condition_5 treatment
+
+
+1604	condition_7 treatment
+
+
+1605	condition_1 measurement
+
+
+1606	treatment measurement
+
+
+1607	condition_9 measurement
+
+
+1608	visit_3 measurement
+
+
+1609	treatment measurement
+
+
+1610	treatment condition_1
+
+
+1611	condition_9 condition_1
+
+
+1612	visit_3 condition_1
+
+
+1613	treatment condition_1
+
+
+1614	condition_9 treatment
+
+
+1615	visit_3 treatment
+
+
+1616	treatment treatment
+
+
+1617	visit_3 condition_9
+
+
+1618	treatment condition_9
+
+
+1619	treatment visit_3
+
+
+1620	visit_1 diagnose
+
+
+1621	visit_2 diagnose
+
+
+1622	condition_5 diagnose
+
+
+1623	treatment diagnose
+
+
+1624	visit_2 visit_1
+
+
+1625	condition_5 visit_1
+
+
+1626	treatment visit_1
+
+
+1627	condition_5 visit_2
+
+
+1628	treatment visit_2
+
+
+1629	treatment condition_5
+
+
+1630	treatment condition_9
+
+
+1631	treament condition_9
+
+
+1632	treament treatment
+
+
+1633	treatment seeAdoctor_1
+
+
+1634	diagnose treatment
+
+
+1635	symptom treatment
+
+
+1636	treatment treatment
+
+
+1637	treatment symptom
+
+
+1638	treatment treatment
+
+
+1639	visit_3 visit_1
+
+
+1640	symptom visit_1
+
+
+1641	visit_3 visit_1
+
+
+1642	condition_7 visit_1
+
+
+1643	symptom visit_3
+
+
+1644	visit_3 visit_3
+
+
+1645	condition_7 visit_3
+
+
+1646	visit_3 symptom
+
+
+1647	condition_7 symptom
+
+
+1648	condition_7 visit_3
+
+
+1649	treatment treatment
+
+
+1650	symptom visit_2
+
+
+1651	measurement treatment
+
+
+1652	visit_3 treatment
+
+
+1653	treatment treatment
+
+
+1654	diagnose treatment
+
+
+1655	diagnose treatment
+
+
+1656	condition_6 treatment
+
+
+1657	symptom treatment
+
+
+1658	condition_6 treatment
+
+
+1659	visit_3 measurement
+
+
+1660	treatment measurement
+
+
+1661	diagnose measurement
+
+
+1662	diagnose measurement
+
+
+1663	condition_6 measurement
+
+
+1664	symptom measurement
+
+
+1665	condition_6 measurement
+
+
+1666	treatment visit_3
+
+
+1667	diagnose visit_3
+
+
+1668	diagnose visit_3
+
+
+1669	condition_6 visit_3
+
+
+1670	symptom visit_3
+
+
+1671	condition_6 visit_3
+
+
+1672	diagnose treatment
+
+
+1673	diagnose treatment
+
+
+1674	condition_6 treatment
+
+
+1675	symptom treatment
+
+
+1676	condition_6 treatment
+
+
+1677	diagnose diagnose
+
+
+1678	condition_6 diagnose
+
+
+1679	symptom diagnose
+
+
+1680	condition_6 diagnose
+
+
+1681	condition_6 diagnose
+
+
+1682	symptom diagnose
+
+
+1683	condition_6 diagnose
+
+
+1684	symptom condition_6
+
+
+1685	condition_6 condition_6
+
+
+1686	condition_6 symptom
+
+
+1687	treatment diagnose
+
+
+1688	treatment diagnose
+
+
+1689	seeAdoctor_2 diagnose
+
+
+1690	treatment treatment
+
+
+1691	seeAdoctor_2 treatment
+
+
+1692	seeAdoctor_2 treatment
+
+
+1693	treatment visit_1
+
+
+1694	treatment condition_1
+
+
+1695	symptom condition_1
+
+
+1696	visit_3 condition_1
+
+
+1697	treatment condition_1
+
+
+1698	condition_7 condition_1
+
+
+1699	symptom treatment
+
+
+1700	visit_3 treatment
+
+
+1701	treatment treatment
+
+
+1702	condition_7 treatment
+
+
+1703	visit_3 symptom
+
+
+1704	treatment symptom
+
+
+1705	condition_7 symptom
+
+
+1706	treatment visit_3
+
+
+1707	condition_7 visit_3
+
+
+1708	condition_7 treatment
+
+
+1709	treatment condition_6
+
+
+1710	condition_4 condition_6
+
+
+1711	condition_6 condition_6
+
+
+1712	condition_4 treatment
+
+
+1713	condition_6 treatment
+
+
+1714	condition_6 condition_4
+
+
+1715	treatment visit_1
+
+
+1716	treatment visit_1
+
+
+1717	condition_6 visit_1
+
+
+1718	treatment treatment
+
+
+1719	condition_6 treatment
+
+
+1720	condition_6 treatment
+
+
+1721	diagnose diagnose
+
+
+1722	diagnose diagnose
+
+
+1723	condition_6 diagnose
+
+
+1724	condition_6 diagnose
+
+
+1725	diagnose diagnose
+
+
+1726	condition_6 diagnose
+
+
+1727	condition_6 diagnose
+
+
+1728	condition_6 diagnose
+
+
+1729	condition_6 diagnose
+
+
+1730	condition_6 condition_6
+
+
+1731	seeAdoctor_1 symptom
+
+
+1732	condition_6 symptom
+
+
+1733	diagnose symptom
+
+
+1734	condition_5 symptom
+
+
+1735	symptom symptom
+
+
+1736	condition_6 seeAdoctor_1
+
+
+1737	diagnose seeAdoctor_1
+
+
+1738	condition_5 seeAdoctor_1
+
+
+1739	symptom seeAdoctor_1
+
+
+1740	diagnose condition_6
+
+
+1741	condition_5 condition_6
+
+
+1742	symptom condition_6
+
+
+1743	condition_5 diagnose
+
+
+1744	symptom diagnose
+
+
+1745	symptom condition_5
+
+
+1746	condition_6 visit_1
+
+
+1747	seeAdoctor_1 visit_1
+
+
+1748	treatment visit_1
+
+
+1749	condition_7 visit_1
+
+
+1750	seeAdoctor_1 condition_6
+
+
+1751	treatment condition_6
+
+
+1752	condition_7 condition_6
+
+
+1753	treatment seeAdoctor_1
+
+
+1754	condition_7 seeAdoctor_1
+
+
+1755	condition_7 treatment
+
+
+1756	treatment condition_1
+
+
+1757	treatment condition_1
+
+
+1758	treatment condition_1
+
+
+1759	condition_7 condition_1
+
+
+1760	treatment treatment
+
+
+1761	treatment treatment
+
+
+1762	condition_7 treatment
+
+
+1763	treatment treatment
+
+
+1764	condition_7 treatment
+
+
+1765	condition_7 treatment
+
+
+1766	symptom treatment
+
+
+1767	measurement symptom
+
+
+1768	treatment symptom
+
+
+1769	treatment symptom
+
+
+1770	condition_5 symptom
+
+
+1771	treatment measurement
+
+
+1772	treatment measurement
+
+
+1773	condition_5 measurement
+
+
+1774	treatment treatment
+
+
+1775	condition_5 treatment
+
+
+1776	condition_5 treatment
+
+
+1777	condition_5 measurement
+
+
+1778	condition_5 seeAdoctor_2
+
+
+1779	treatment treatment
+
+
+1780	treatment diagnose
+
+
+1781	condition_5 treatment
+
+
+1782	symptom treatment
+
+
+1783	symptom condition_5
+
+
+1784	diagnose condition_7
+
+
+1785	diagnose condition_7
+
+
+1786	treatment condition_7
+
+
+1787	measurement condition_7
+
+
+1788	treatment condition_7
+
+
+1789	seeAdoctor_2 condition_7
+
+
+1790	diagnose diagnose
+
+
+1791	treatment diagnose
+
+
+1792	measurement diagnose
+
+
+1793	treatment diagnose
+
+
+1794	seeAdoctor_2 diagnose
+
+
+1795	treatment diagnose
+
+
+1796	measurement diagnose
+
+
+1797	treatment diagnose
+
+
+1798	seeAdoctor_2 diagnose
+
+
+1799	measurement treatment
+
+
+1800	treatment treatment
+
+
+1801	seeAdoctor_2 treatment
+
+
+1802	treatment measurement
+
+
+1803	seeAdoctor_2 measurement
+
+
+1804	seeAdoctor_2 treatment
+
+
+1805	diagnose symptom
+
+
+1806	visit_1 symptom
+
+
+1807	treatment symptom
+
+
+1808	condition_5 symptom
+
+
+1809	visit_1 diagnose
+
+
+1810	treatment diagnose
+
+
+1811	condition_5 diagnose
+
+
+1812	treatment visit_1
+
+
+1813	condition_5 visit_1
+
+
+1814	condition_5 treatment
+
+
+1815	treatment treatment
+
+
+1816	condition_8 treatment
+
+
+1817	condition_8 treatment
+
+
+1818	condition_8 seeAdoctor_1
+
+
+1819	condition_7 condition_1
+
+
+1820	treatment condition_1
+
+
+1821	treatment condition_1
+
+
+1822	treatment condition_1
+
+
+1823	condition_5 condition_1
+
+
+1824	treatment condition_7
+
+
+1825	treatment condition_7
+
+
+1826	treatment condition_7
+
+
+1827	condition_5 condition_7
+
+
+1828	treatment treatment
+
+
+1829	treatment treatment
+
+
+1830	condition_5 treatment
+
+
+1831	treatment treatment
+
+
+1832	condition_5 treatment
+
+
+1833	condition_5 treatment
+
+
+1834	condition_8 treatment
+
+
+1835	diagnose diagnose
+
+
+1836	condition_1 diagnose
+
+
+1837	condition_1 diagnose
+
+
+1838	condition_4 diagnose
+
+
+1839	seeAdoctor_1 condition_1
+
+
+1840	diagnose condition_1
+
+
+1841	diagnose seeAdoctor_1
+
+
+1842	visit_3 treatment
+
+
+1843	visit_2 treatment
+
+
+1844	visit_2 visit_3
+
+
+1845	visit_1 visit_1
+
+
+1846	treatment visit_1
+
+
+1847	treatment visit_1
+
+
+1848	measurement measurement
+
+
+1849	visit_1 measurement
+
+
+1850	condition_7 measurement
+
+
+1851	visit_2 measurement
+
+
+1852	symptom measurement
+
+
+1853	visit_1 measurement
+
+
+1854	condition_7 measurement
+
+
+1855	visit_2 measurement
+
+
+1856	symptom measurement
+
+
+1857	condition_7 visit_1
+
+
+1858	visit_2 visit_1
+
+
+1859	symptom visit_1
+
+
+1860	visit_2 condition_7
+
+
+1861	symptom condition_7
+
+
+1862	symptom visit_2
+
+
+1863	treatment seeAdoctor_1
+
+
+1864	treatment seeAdoctor_1
+
+
+1865	treatment treatment
+
+
+1866	treatment condition_1
+
+
+1867	condition_7 condition_1
+
+
+1868	condition_7 treatment
+
+
+1869	treatment visit_1
+
+
+1870	symptom symptom
+
+
+1871	symptom symptom
+
+
+1872	symptom symptom
+
+
+1873	visit_1 symptom
+
+
+1874	visit_3 symptom
+
+
+1875	visit_1 symptom
+
+
+1876	visit_2 symptom
+
+
+1877	symptom symptom
+
+
+1878	seeAdoctor_1 symptom
+
+
+1879	seeAdoctor_1 symptom
+
+
+1880	diagnose symptom
+
+
+1881	diagnose symptom
+
+
+1882	symptom symptom
+
+
+1883	symptom symptom
+
+
+1884	visit_1 symptom
+
+
+1885	visit_3 symptom
+
+
+1886	visit_1 symptom
+
+
+1887	visit_2 symptom
+
+
+1888	symptom symptom
+
+
+1889	seeAdoctor_1 symptom
+
+
+1890	seeAdoctor_1 symptom
+
+
+1891	diagnose symptom
+
+
+1892	diagnose symptom
+
+
+1893	symptom symptom
+
+
+1894	visit_1 symptom
+
+
+1895	visit_3 symptom
+
+
+1896	visit_1 symptom
+
+
+1897	visit_2 symptom
+
+
+1898	symptom symptom
+
+
+1899	seeAdoctor_1 symptom
+
+
+1900	seeAdoctor_1 symptom
+
+
+1901	diagnose symptom
+
+
+1902	diagnose symptom
+
+
+1903	visit_1 symptom
+
+
+1904	visit_3 symptom
+
+
+1905	visit_1 symptom
+
+
+1906	visit_2 symptom
+
+
+1907	symptom symptom
+
+
+1908	seeAdoctor_1 symptom
+
+
+1909	seeAdoctor_1 symptom
+
+
+1910	diagnose symptom
+
+
+1911	diagnose symptom
+
+
+1912	visit_3 visit_1
+
+
+1913	visit_1 visit_1
+
+
+1914	visit_2 visit_1
+
+
+1915	symptom visit_1
+
+
+1916	seeAdoctor_1 visit_1
+
+
+1917	seeAdoctor_1 visit_1
+
+
+1918	diagnose visit_1
+
+
+1919	diagnose visit_1
+
+
+1920	visit_1 visit_3
+
+
+1921	visit_2 visit_3
+
+
+1922	symptom visit_3
+
+
+1923	seeAdoctor_1 visit_3
+
+
+1924	seeAdoctor_1 visit_3
+
+
+1925	diagnose visit_3
+
+
+1926	diagnose visit_3
+
+
+1927	visit_2 visit_1
+
+
+1928	symptom visit_1
+
+
+1929	seeAdoctor_1 visit_1
+
+
+1930	seeAdoctor_1 visit_1
+
+
+1931	diagnose visit_1
+
+
+1932	diagnose visit_1
+
+
+1933	symptom visit_2
+
+
+1934	seeAdoctor_1 visit_2
+
+
+1935	seeAdoctor_1 visit_2
+
+
+1936	diagnose visit_2
+
+
+1937	diagnose visit_2
+
+
+1938	seeAdoctor_1 symptom
+
+
+1939	seeAdoctor_1 symptom
+
+
+1940	diagnose symptom
+
+
+1941	diagnose symptom
+
+
+1942	seeAdoctor_1 seeAdoctor_1
+
+
+1943	diagnose seeAdoctor_1
+
+
+1944	diagnose seeAdoctor_1
+
+
+1945	diagnose seeAdoctor_1
+
+
+1946	diagnose seeAdoctor_1
+
+
+1947	diagnose diagnose
+
+
+1948	seeAdoctor_1 condition_1
+
+
+1949	visit_3 condition_1
+
+
+1950	treatment condition_1
+
+
+1951	visit_1 condition_1
+
+
+1952	condition_5 condition_1
+
+
+1953	treatment condition_1
+
+
+1954	visit_3 seeAdoctor_1
+
+
+1955	treatment seeAdoctor_1
+
+
+1956	visit_1 seeAdoctor_1
+
+
+1957	condition_5 seeAdoctor_1
+
+
+1958	treatment seeAdoctor_1
+
+
+1959	treatment visit_3
+
+
+1960	visit_1 visit_3
+
+
+1961	condition_5 visit_3
+
+
+1962	treatment visit_3
+
+
+1963	visit_1 treatment
+
+
+1964	condition_5 treatment
+
+
+1965	treatment treatment
+
+
+1966	condition_5 visit_1
+
+
+1967	treatment visit_1
+
+
+1968	treatment condition_5
+
+
+1969	diagnose symptom
+
+
+1970	diagnose symptom
+
+
+1971	diagnose diagnose
+
+
+1972	diagnose seeAdoctor_1
+
+
+1973	diagnose seeAdoctor_1
+
+
+1974	condition_8 seeAdoctor_1
+
+
+1975	symptom seeAdoctor_1
+
+
+1976	measurement seeAdoctor_1
+
+
+1977	diagnose seeAdoctor_1
+
+
+1978	treatment seeAdoctor_1
+
+
+1979	symptom seeAdoctor_1
+
+
+1980	diagnose diagnose
+
+
+1981	condition_8 diagnose
+
+
+1982	symptom diagnose
+
+
+1983	measurement diagnose
+
+
+1984	diagnose diagnose
+
+
+1985	treatment diagnose
+
+
+1986	symptom diagnose
+
+
+1987	condition_8 diagnose
+
+
+1988	symptom diagnose
+
+
+1989	measurement diagnose
+
+
+1990	diagnose diagnose
+
+
+1991	treatment diagnose
+
+
+1992	symptom diagnose
+
+
+1993	symptom condition_8
+
+
+1994	measurement condition_8
+
+
+1995	diagnose condition_8
+
+
+1996	treatment condition_8
+
+
+1997	symptom condition_8
+
+
+1998	measurement symptom
+
+
+1999	diagnose symptom
+
+
+2000	treatment symptom
+
+
+2001	symptom symptom
+
+
+2002	diagnose measurement
+
+
+2003	treatment measurement
+
+
+2004	symptom measurement
+
+
+2005	treatment diagnose
+
+
+2006	symptom diagnose
+
+
+2007	symptom treatment
+
+
+2008	treatment condition_1
+
+
+2009	treatment condition_1
+
+
+2010	treatment treatment
+
+
+2011	treatment condition_1
+
+
+2012	treatment condition_1
+
+
+2013	treatment treatment
+
+
+2014	treatment condition_1
+
+
+2015	treatment condition_1
+
+
+2016	condition_7 condition_1
+
+
+2017	visit_2 condition_1
+
+
+2018	treatment treatment
+
+
+2019	condition_7 treatment
+
+
+2020	visit_2 treatment
+
+
+2021	condition_7 treatment
+
+
+2022	visit_2 treatment
+
+
+2023	visit_2 condition_7
+
+
+2024	treatment measurement
+
+
+2025	treatment visit_1
+
+
+2026	diagnose visit_1
+
+
+2027	treatment visit_1
+
+
+2028	visit_2 visit_1
+
+
+2029	diagnose treatment
+
+
+2030	treatment treatment
+
+
+2031	visit_2 treatment
+
+
+2032	treatment diagnose
+
+
+2033	visit_2 diagnose
+
+
+2034	visit_2 treatment
+
+
+2035	seeAdoctor_2 seeAdoctor_2
+
+
+2036	visit_1 condition_1
+
+
+2037	treatment condition_1
+
+
+2038	symptom condition_1
+
+
+2039	treatment condition_1
+
+
+2040	visit_2 condition_1
+
+
+2041	treatment visit_1
+
+
+2042	symptom visit_1
+
+
+2043	treatment visit_1
+
+
+2044	visit_2 visit_1
+
+
+2045	symptom treatment
+
+
+2046	treatment treatment
+
+
+2047	visit_2 treatment
+
+
+2048	treatment symptom
+
+
+2049	visit_2 symptom
+
+
+2050	visit_2 treatment
+
+
+2051	condition_2 condition_1
+
+
+2052	visit_1 condition_1
+
+
+2053	visit_2 condition_1
+
+
+2054	condition_4 condition_1
+
+
+2055	diagnose condition_1
+
+
+2056	treatment condition_1
+
+
+2057	visit_1 condition_2
+
+
+2058	visit_2 condition_2
+
+
+2059	condition_4 condition_2
+
+
+2060	diagnose condition_2
+
+
+2061	treatment condition_2
+
+
+2062	visit_2 visit_1
+
+
+2063	condition_4 visit_1
+
+
+2064	diagnose visit_1
+
+
+2065	treatment visit_1
+
+
+2066	condition_4 visit_2
+
+
+2067	diagnose visit_2
+
+
+2068	treatment visit_2
+
+
+2069	diagnose condition_4
+
+
+2070	treatment condition_4
+
+
+2071	treatment diagnose
+
+
+2072	treatment diagnose
+
+
+2073	treatment diagnose
+
+
+2074	treatment treatment
+
+
+2075	treatment treatment
+
+
+2076	treatment treatment
+
+
+2077	treatment treatment
+
+
+2078	treatment treatment
+
+
+2079	treatment treatment
+
+
+2080	treatment treatment
+
+
+2081	visit_1 visit_1
+
+
+2082	treatment visit_1
+
+
+2083	treatment visit_1
+
+
+2084	treatment seeAdoctor_1
+
+
+2085	measurement diagnose
+
+
+2086	visit_1 diagnose
+
+
+2087	treatment diagnose
+
+
+2088	condition_8 diagnose
+
+
+2089	measurement diagnose
+
+
+2090	visit_1 measurement
+
+
+2091	treatment measurement
+
+
+2092	condition_8 measurement
+
+
+2093	measurement measurement
+
+
+2094	treatment visit_1
+
+
+2095	condition_8 visit_1
+
+
+2096	measurement visit_1
+
+
+2097	condition_8 treatment
+
+
+2098	measurement treatment
+
+
+2099	measurement condition_8
+
+
+2100	diagnose treatment
+
+
+2101	treatment treatment
+
+
+2102	visit_1 treatment
+
+
+2103	visit_2 treatment
+
+
+2104	symptom treatment
+
+
+2105	treatment diagnose
+
+
+2106	visit_1 diagnose
+
+
+2107	visit_2 diagnose
+
+
+2108	symptom diagnose
+
+
+2109	visit_1 treatment
+
+
+2110	visit_2 treatment
+
+
+2111	symptom treatment
+
+
+2112	visit_2 visit_1
+
+
+2113	symptom visit_1
+
+
+2114	symptom visit_2
+
+
+2115	visit_2 visit_1
+
+
+2116	diagnose seeAdoctor_1
+
+
+2117	seeAdoctor_1 visit_1
+
+
+2118	treatment visit_1
+
+
+2119	treatment visit_1
+
+
+2120	condition_6 visit_1
+
+
+2121	treatment visit_1
+
+
+2122	treatment visit_1
+
+
+2123	treatment seeAdoctor_1
+
+
+2124	treatment seeAdoctor_1
+
+
+2125	condition_6 seeAdoctor_1
+
+
+2126	treatment seeAdoctor_1
+
+
+2127	treatment seeAdoctor_1
+
+
+2128	treatment treatment
+
+
+2129	condition_6 treatment
+
+
+2130	treatment treatment
+
+
+2131	treatment treatment
+
+
+2132	condition_6 treatment
+
+
+2133	treatment treatment
+
+
+2134	treatment treatment
+
+
+2135	treatment condition_6
+
+
+2136	treatment condition_6
+
+
+2137	treatment treatment
+
+
+2138	condition_4 condition_7
+
+
+2139	diagnose condition_7
+
+
+2140	seeAdoctor_2 condition_7
+
+
+2141	condition_6 condition_7
+
+
+2142	diagnose condition_7
+
+
+2143	treatment condition_7
+
+
+2144	diagnose condition_4
+
+
+2145	seeAdoctor_2 condition_4
+
+
+2146	condition_6 condition_4
+
+
+2147	diagnose condition_4
+
+
+2148	treatment condition_4
+
+
+2149	seeAdoctor_2 diagnose
+
+
+2150	condition_6 diagnose
+
+
+2151	diagnose diagnose
+
+
+2152	treatment diagnose
+
+
+2153	condition_6 seeAdoctor_2
+
+
+2154	diagnose seeAdoctor_2
+
+
+2155	treatment seeAdoctor_2
+
+
+2156	diagnose condition_6
+
+
+2157	treatment condition_6
+
+
+2158	treatment diagnose
+
+
+2159	diagnose seeAdoctor_1
+
+
+2160	treatment seeAdoctor_1
+
+
+2161	condition_6 seeAdoctor_1
+
+
+2162	symptom seeAdoctor_1
+
+
+2163	symptom seeAdoctor_1
+
+
+2164	diagnose seeAdoctor_1
+
+
+2165	diagnose seeAdoctor_1
+
+
+2166	treatment seeAdoctor_1
+
+
+2167	condition_6 seeAdoctor_1
+
+
+2168	condition_8 seeAdoctor_1
+
+
+2169	seeAdoctor_2 seeAdoctor_1
+
+
+2170	symptom seeAdoctor_1
+
+
+2171	treatment seeAdoctor_1
+
+
+2172	treatment diagnose
+
+
+2173	condition_6 diagnose
+
+
+2174	symptom diagnose
+
+
+2175	symptom diagnose
+
+
+2176	diagnose diagnose
+
+
+2177	diagnose diagnose
+
+
+2178	treatment diagnose
+
+
+2179	condition_6 diagnose
+
+
+2180	condition_8 diagnose
+
+
+2181	seeAdoctor_2 diagnose
+
+
+2182	symptom diagnose
+
+
+2183	treatment diagnose
+
+
+2184	condition_6 treatment
+
+
+2185	symptom treatment
+
+
+2186	symptom treatment
+
+
+2187	diagnose treatment
+
+
+2188	diagnose treatment
+
+
+2189	treatment treatment
+
+
+2190	condition_6 treatment
+
+
+2191	condition_8 treatment
+
+
+2192	seeAdoctor_2 treatment
+
+
+2193	symptom treatment
+
+
+2194	treatment treatment
+
+
+2195	symptom condition_6
+
+
+2196	symptom condition_6
+
+
+2197	diagnose condition_6
+
+
+2198	diagnose condition_6
+
+
+2199	treatment condition_6
+
+
+2200	condition_6 condition_6
+
+
+2201	condition_8 condition_6
+
+
+2202	seeAdoctor_2 condition_6
+
+
+2203	symptom condition_6
+
+
+2204	treatment condition_6
+
+
+2205	symptom symptom
+
+
+2206	diagnose symptom
+
+
+2207	diagnose symptom
+
+
+2208	treatment symptom
+
+
+2209	condition_6 symptom
+
+
+2210	condition_8 symptom
+
+
+2211	seeAdoctor_2 symptom
+
+
+2212	symptom symptom
+
+
+2213	treatment symptom
+
+
+2214	diagnose symptom
+
+
+2215	diagnose symptom
+
+
+2216	treatment symptom
+
+
+2217	condition_6 symptom
+
+
+2218	condition_8 symptom
+
+
+2219	seeAdoctor_2 symptom
+
+
+2220	symptom symptom
+
+
+2221	treatment symptom
+
+
+2222	diagnose diagnose
+
+
+2223	treatment diagnose
+
+
+2224	condition_6 diagnose
+
+
+2225	condition_8 diagnose
+
+
+2226	seeAdoctor_2 diagnose
+
+
+2227	symptom diagnose
+
+
+2228	treatment diagnose
+
+
+2229	treatment diagnose
+
+
+2230	condition_6 diagnose
+
+
+2231	condition_8 diagnose
+
+
+2232	seeAdoctor_2 diagnose
+
+
+2233	symptom diagnose
+
+
+2234	treatment diagnose
+
+
+2235	condition_6 treatment
+
+
+2236	condition_8 treatment
+
+
+2237	seeAdoctor_2 treatment
+
+
+2238	symptom treatment
+
+
+2239	treatment treatment
+
+
+2240	condition_8 condition_6
+
+
+2241	seeAdoctor_2 condition_6
+
+
+2242	symptom condition_6
+
+
+2243	treatment condition_6
+
+
+2244	seeAdoctor_2 condition_8
+
+
+2245	symptom condition_8
+
+
+2246	treatment condition_8
+
+
+2247	symptom seeAdoctor_2
+
+
+2248	treatment seeAdoctor_2
+
+
+2249	treatment symptom
+
+
+2250	visit_1 condition_1
+
+
+2251	treatment condition_1
+
+
+2252	diagnose condition_1
+
+
+2253	diagnose condition_1
+
+
+2254	diagnose condition_1
+
+
+2255	diagnose condition_1
+
+
+2256	treatment condition_1
+
+
+2257	treatment condition_1
+
+
+2258	treatment visit_1
+
+
+2259	diagnose visit_1
+
+
+2260	diagnose visit_1
+
+
+2261	diagnose visit_1
+
+
+2262	diagnose visit_1
+
+
+2263	treatment visit_1
+
+
+2264	treatment visit_1
+
+
+2265	diagnose treatment
+
+
+2266	diagnose treatment
+
+
+2267	diagnose treatment
+
+
+2268	diagnose treatment
+
+
+2269	treatment treatment
+
+
+2270	treatment treatment
+
+
+2271	diagnose diagnose
+
+
+2272	diagnose diagnose
+
+
+2273	diagnose diagnose
+
+
+2274	treatment diagnose
+
+
+2275	treatment diagnose
+
+
+2276	diagnose diagnose
+
+
+2277	diagnose diagnose
+
+
+2278	treatment diagnose
+
+
+2279	treatment diagnose
+
+
+2280	diagnose diagnose
+
+
+2281	treatment diagnose
+
+
+2282	treatment diagnose
+
+
+2283	treatment diagnose
+
+
+2284	treatment diagnose
+
+
+2285	treatment treatment
+
+
+2286	treatment treatment
+
+
+2287	condition_7 treatment
+
+
+2288	condition_7 treatment
+
+
+2289	treatment seeAdoctor_1
+
+
+2290	diagnose visit_1
+
+
+2291	treatment visit_1
+
+
+2292	treatment diagnose
+
+
+2293	condition_7 treatment
+
+
+2294	visit_2 treatment
+
+
+2295	visit_2 condition_7
+
+
+2296	condition_4 treatment
+
+
+2297	treatment symptom
+
+
+2298	symptom symptom
+
+
+2299	symptom treatment
+
+
+2300	treatment treatment
+
+
+2301	treatment treatment
+
+
+2302	treatment treatment
+
+
+2303	treatment diagnose
+
+
+2304	treatment treatment
+
+
+2305	diagnose treatment
+
+
+2306	treatment treatment
+
+
+2307	diagnose treatment
+
+
+2308	treatment treatment
+
+
+2309	treatment diagnose
+
+
+2310	treatment symptom
+
+
+2311	symptom symptom
+
+
+2312	symptom treatment
+
+
+2313	treatment condition_1
+
+
+2314	treatment condition_1
+
+
+2315	treatment treatment
+
+
+2316	treatment diagnose
+
+
+2317	treatment diagnose
+
+
+2318	treatment treatment
+
+
+2319	condition_9 condition_4
+
+
+2320	treatment condition_4
+
+
+2321	treatment condition_9
+
+
+2322	treatment symptom
+
+
+2323	treatment symptom
+
+
+2324	treatment treatment
+
+
+2325	treatment condition_1
+
+
+2326	condition_5 condition_1
+
+
+2327	condition_5 treatment
+
+
+2328	treatment treatment
+
+
+2329	treatment condition_1
+
+
+2330	diagnose diagnose
+
+
+2331	visit_1 diagnose
+
+
+2332	treatment diagnose
+
+
+2333	condition_5 diagnose
+
+
+2334	visit_1 diagnose
+
+
+2335	treatment diagnose
+
+
+2336	condition_5 diagnose
+
+
+2337	treatment visit_1
+
+
+2338	condition_5 visit_1
+
+
+2339	condition_5 treatment
+
+
+2340	treatment condition_1
+
+
+2341	visit_1 condition_1
+
+
+2342	visit_2 condition_1
+
+
+2343	visit_1 treatment
+
+
+2344	visit_2 treatment
+
+
+2345	visit_2 visit_1
+
+
+2346	condition_7 treatment
+
+
+2347	diagnose treatment
+
+
+2348	diagnose treatment
+
+
+2349	treatment treatment
+
+
+2350	treatment treatment
+
+
+2351	treatment treatment
+
+
+2352	diagnose condition_7
+
+
+2353	diagnose condition_7
+
+
+2354	treatment condition_7
+
+
+2355	treatment condition_7
+
+
+2356	treatment condition_7
+
+
+2357	diagnose diagnose
+
+
+2358	treatment diagnose
+
+
+2359	treatment diagnose
+
+
+2360	treatment diagnose
+
+
+2361	treatment diagnose
+
+
+2362	treatment diagnose
+
+
+2363	treatment diagnose
+
+
+2364	treatment treatment
+
+
+2365	treatment treatment
+
+
+2366	treatment treatment
+
+
+2367	diagnose diagnose
+
+
+2368	diagnose diagnose
+
+
+2369	seeAdoctor_2 diagnose
+
+
+2370	diagnose diagnose
+
+
+2371	seeAdoctor_2 diagnose
+
+
+2372	seeAdoctor_2 diagnose
+
+
+2373	diagnose diagnose
+
+
+2374	diagnose diagnose
+
+
+2375	treatment diagnose
+
+
+2376	seeAdoctor_2 diagnose
+
+
+2377	diagnose diagnose
+
+
+2378	treatment diagnose
+
+
+2379	seeAdoctor_2 diagnose
+
+
+2380	treatment diagnose
+
+
+2381	seeAdoctor_2 diagnose
+
+
+2382	seeAdoctor_2 treatment
+
+
+2383	diagnose diagnose
+
+
+2384	diagnose diagnose
+
+
+2385	treatment diagnose
+
+
+2386	treatment diagnose
+
+
+2387	condition_7 diagnose
+
+
+2388	condition_5 diagnose
+
+
+2389	diagnose diagnose
+
+
+2390	treatment diagnose
+
+
+2391	treatment diagnose
+
+
+2392	condition_7 diagnose
+
+
+2393	condition_5 diagnose
+
+
+2394	treatment diagnose
+
+
+2395	treatment diagnose
+
+
+2396	condition_7 diagnose
+
+
+2397	condition_5 diagnose
+
+
+2398	treatment treatment
+
+
+2399	condition_7 treatment
+
+
+2400	condition_5 treatment
+
+
+2401	condition_7 treatment
+
+
+2402	condition_5 treatment
+
+
+2403	condition_5 condition_7
+
+
+2404	treatment diagnose
+
+
+2405	symptom diagnose
+
+
+2406	seeAdoctor_2 diagnose
+
+
+2407	symptom treatment
+
+
+2408	seeAdoctor_2 treatment
+
+
+2409	seeAdoctor_2 symptom
+
+
+2410	condition_5 measurement
+
+
+2411	condition_8 condition_1
+
+
+2412	seeAdoctor_2 treatment
+
+
+2413	condition_5 treatment
+
+
+2414	symptom treatment
+
+
+2415	condition_5 seeAdoctor_2
+
+
+2416	symptom seeAdoctor_2
+
+
+2417	symptom condition_5
+
+
+2418	treatment condition_1
+
+
+2419	symptom condition_1
+
+
+2420	symptom treatment
+
+
+2421	measurement treatment
+
+
+2422	treatment treatment
+
+
+2423	measurement treatment
+
+
+2424	treatment measurement
+
+
+2425	measurement measurement
+
+
+2426	measurement treatment
+
+
+2427	treatment treatment
+
+
+2428	symptom treatment
+
+
+2429	symptom treatment
+
+
+2430	treatment visit_1
+
+
+2431	condition_6 visit_1
+
+
+2432	visit_3 visit_1
+
+
+2433	treatment visit_1
+
+
+2434	diagnose visit_1
+
+
+2435	condition_6 treatment
+
+
+2436	visit_3 treatment
+
+
+2437	treatment treatment
+
+
+2438	diagnose treatment
+
+
+2439	visit_3 condition_6
+
+
+2440	treatment condition_6
+
+
+2441	diagnose condition_6
+
+
+2442	treatment visit_3
+
+
+2443	diagnose visit_3
+
+
+2444	diagnose treatment
+
+
+2445	symptom symptom
+
+
+2446	visit_1 symptom
+
+
+2447	visit_1 symptom
+
+
+2448	condition_6 measurement
+
+
+2449	diagnose measurement
+
+
+2450	diagnose condition_6
+
+
+2451	condition_5 treatment
+
+
+2452	diagnose diagnose
+
+
+2453	diagnose diagnose
+
+
+2454	visit_1 diagnose
+
+
+2455	diagnose diagnose
+
+
+2456	visit_1 diagnose
+
+
+2457	visit_1 diagnose
+
+
+2458	symptom visit_1
+
+
+2459	diagnose visit_1
+
+
+2460	diagnose visit_1
+
+
+2461	condition_6 visit_1
+
+
+2462	diagnose symptom
+
+
+2463	diagnose symptom
+
+
+2464	condition_6 symptom
+
+
+2465	diagnose diagnose
+
+
+2466	condition_6 diagnose
+
+
+2467	condition_6 diagnose
+
+
+2468	diagnose treatment
+
+
+2469	diagnose diagnose
+
+
+2470	treatment diagnose
+
+
+2471	treatment diagnose
+
+
+2472	diagnose treatment
+
+
+2473	condition_7 treatment
+
+
+2474	treatment treatment
+
+
+2475	condition_7 treatment
+
+
+2476	condition_7 diagnose
+
+
+2477	treatment diagnose
+
+
+2478	condition_7 diagnose
+
+
+2479	treatment condition_7
+
+
+2480	condition_7 condition_7
+
+
+2481	condition_7 treatment
+
+
+2482	treatment symptom
+
+
+2483	diagnose symptom
+
+
+2484	diagnose symptom
+
+
+2485	diagnose treatment
+
+
+2486	diagnose treatment
+
+
+2487	diagnose diagnose
+
+
+2488	treatment diagnose
+
+
+2489	diagnose treatment
+
+
+2490	measurement treatment
+
+
+2491	measurement diagnose
+
+
+2492	condition_5 seeAdoctor_1
+
+
+2493	seeAdoctor_2 visit_2
+
+
+2494	seeAdoctor_1 symptom
+
+
+2495	diagnose symptom
+
+
+2496	condition_7 symptom
+
+
+2497	diagnose seeAdoctor_1
+
+
+2498	condition_7 seeAdoctor_1
+
+
+2499	condition_7 diagnose
+
+
+2500	symptom visit_2
+
+
+2501	diagnose diagnose
+
+
+2502	diagnose diagnose
+
+
+2503	treatment diagnose
+
+
+2504	condition_7 diagnose
+
+
+2505	diagnose diagnose
+
+
+2506	treatment diagnose
+
+
+2507	condition_7 diagnose
+
+
+2508	treatment diagnose
+
+
+2509	condition_7 diagnose
+
+
+2510	condition_7 treatment
+
+
+2511	diagnose diagnose
+
+
+2512	diagnose diagnose
+
+
+2513	treatment diagnose
+
+
+2514	diagnose diagnose
+
+
+2515	treatment diagnose
+
+
+2516	treatment diagnose
+
+
+2517	condition_4 diagnose
+
+
+2518	treatment diagnose
+
+
+2519	treatment condition_4
+
+
+2520	diagnose diagnose
+
+
+2521	condition_8 diagnose
+
+
+2522	measurement diagnose
+
+
+2523	diagnose diagnose
+
+
+2524	measurement diagnose
+
+
+2525	measurement condition_8
+
+
+2526	diagnose condition_8
+
+
+2527	measurement condition_8
+
+
+2528	diagnose measurement
+
+
+2529	measurement measurement
+
+
+2530	measurement diagnose
+
+
+2531	visit_1 diagnose
+
+
+2532	treatment diagnose
+
+
+2533	treatment diagnose
+
+
+2534	treatment diagnose
+
+
+2535	treatment diagnose
+
+
+2536	treatment visit_1
+
+
+2537	treatment visit_1
+
+
+2538	treatment visit_1
+
+
+2539	treatment visit_1
+
+
+2540	treatment treatment
+
+
+2541	treatment treatment
+
+
+2542	treatment treatment
+
+
+2543	treatment treatment
+
+
+2544	treatment treatment
+
+
+2545	treatment treatment
+
+
+2546	treatment symptom
+
+
+2547	symptom symptom
+
+
+2548	seeAdoctor_2 symptom
+
+
+2549	symptom treatment
+
+
+2550	seeAdoctor_2 treatment
+
+
+2551	seeAdoctor_2 symptom
+
+
+2552	seeAdoctor_2 treatment
+
+
+2553	diagnose treatment
+
+
+2554	diagnose seeAdoctor_2
+
+
+2555	condition_5 treatment
+
+
+2556	treatment treatment
+
+
+2557	treatment visit_2
+
+
+2558	treatment diagnose
+
+
+2559	diagnose diagnose
+
+
+2560	treatment diagnose
+
+
+2561	treatment diagnose
+
+
+2562	measurement diagnose
+
+
+2563	condition_6 diagnose
+
+
+2564	condition_6 measurement
+
+
+2565	condition_6 seeAdoctor_1
+
+
+2566	condition_7 seeAdoctor_1
+
+
+2567	diagnose seeAdoctor_1
+
+
+2568	diagnose symptom
+
+
+2569	condition_4 symptom
+
+
+2570	treatment symptom
+
+
+2571	visit_1 symptom
+
+
+2572	treatment symptom
+
+
+2573	condition_5 symptom
+
+
+2574	condition_4 diagnose
+
+
+2575	treatment diagnose
+
+
+2576	visit_1 diagnose
+
+
+2577	treatment diagnose
+
+
+2578	condition_5 diagnose
+
+
+2579	treatment condition_4
+
+
+2580	visit_1 condition_4
+
+
+2581	treatment condition_4
+
+
+2582	condition_5 condition_4
+
+
+2583	visit_1 treatment
+
+
+2584	treatment treatment
+
+
+2585	condition_5 treatment
+
+
+2586	treatment visit_1
+
+
+2587	condition_5 visit_1
+
+
+2588	condition_5 treatment
+
+
+2589	treatment treatment
+
+
+2590	symptom diagnose
+
+
+2591	condition_5 diagnose
+
+
+2592	condition_5 symptom
+
+
+2593	diagnose seeAdoctor_2
+
+
+2594	diagnose seeAdoctor_2
+
+
+2595	diagnose diagnose
+
+
+2596	treatment condition_1
+
+
+2597	condition_7 condition_1
+
+
+2598	condition_7 treatment
+
+
+2599	symptom treatment
+
+
+2600	seeAdoctor_1 condition_1
+
+
+2601	seeAdoctor_1 condition_1
+
+
+2602	diagnose condition_1
+
+
+2603	seeAdoctor_1 seeAdoctor_1
+
+
+2604	diagnose seeAdoctor_1
+
+
+2605	diagnose seeAdoctor_1
+
+
+2606	condition_5 visit_2
+
+
+2607	condition_7 treatment
+
+
+2608	treatment treatment
+
+
+2609	treatment diagnose
+
+
+2610	diagnose symptom
+
+
+2611	diagnose symptom
+
+
+2612	condition_6 symptom
+
+
+2613	seeAdoctor_2 symptom
+
+
+2614	diagnose symptom
+
+
+2615	diagnose diagnose
+
+
+2616	condition_6 diagnose
+
+
+2617	seeAdoctor_2 diagnose
+
+
+2618	diagnose diagnose
+
+
+2619	condition_6 diagnose
+
+
+2620	seeAdoctor_2 diagnose
+
+
+2621	diagnose diagnose
+
+
+2622	seeAdoctor_2 condition_6
+
+
+2623	diagnose condition_6
+
+
+2624	diagnose seeAdoctor_2
