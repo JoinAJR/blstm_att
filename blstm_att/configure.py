@@ -10,7 +10,7 @@ def parse_args():
 
     # Data loading params
     parser.add_argument("--train_path",
-                        default="/wordvector/train_has_ID_all_1_1000(new)_forEtypeTrain_text_v1.1.txt",
+                        default="clinic_data/train_has_ID_all_1_1000(new)_forEtypeTrain_text_v1.1.txt",
                         type=str, help="Path of train data")  # default del_1960_train.txt
     parser.add_argument("--test_path", default="/wordvector/test_has_ID_all(new)_forEtypeTrain_text_v1.1.txt",
                         type=str, help="Path of test data")  # default del_840_test.txt #our_test.txt
