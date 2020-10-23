@@ -63,9 +63,9 @@ def train_and_eval():
         session_conf.gpu_options.allow_growth = FLAGS.gpu_allow_growth
         sess = tf.Session(config=session_conf)
         with sess.as_default():
-            model = LSTM(
+            # model = LSTM(
             # model = BiRNN(
-            # model = BiLSTM(
+            model = BiLSTM(
             # model = AttLSTM(
                 sequence_length=x_train.shape[1],
                 num_classes=y_train.shape[1],
