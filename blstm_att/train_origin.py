@@ -65,8 +65,8 @@ def train_and_eval():
         with sess.as_default():
             # model = LSTM(
             # model = BiRNN(
-            # model = BiLSTM(
-            model = AttLSTM(
+            model = BiLSTM(
+            # model = AttLSTM(
                 sequence_length=x_train.shape[1],
                 num_classes=y_train.shape[1],
                 vocab_size=len(vocab_processor.vocabulary_),
