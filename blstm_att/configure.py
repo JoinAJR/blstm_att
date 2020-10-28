@@ -24,6 +24,8 @@ def parse_args():
     parser.add_argument("--test_etype_path", default="/wordvector/test_has_ID_all(new)_forEtypeTrain_etype_v1.1.txt",
                         type=str, help="Path of train_etype data")  # default del_840_test.txt #our_test.txt
 
+    parser.add_argument("--test_refix_path", default="clinic_data/test_has_ID_all(new)_refixFlag_v1.4.txt",
+                        type=str, help="Path of test_refix data")
 
     # # # Data loading params
     # parser.add_argument("--train_path", default="SemEval2010_task8_all_data/SemEval2010_task8_training/del_1960_train.txt",

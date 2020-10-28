@@ -1,0 +1,20122 @@
+1	false
+
+
+2	false
+
+
+3	none
+
+
+4	false
+
+
+5	none
+
+
+6	none
+
+
+7	none
+
+
+8	none
+
+
+9	false
+
+
+10	none
+
+
+11	none
+
+
+12	none
+
+
+13	false
+
+
+14	false
+
+
+15	none
+
+
+16	false
+
+
+17	none
+
+
+18	none
+
+
+19	false
+
+
+20	none
+
+
+21	false
+
+
+22	false
+
+
+23	none
+
+
+24	false
+
+
+25	none
+
+
+26	false
+
+
+27	none
+
+
+28	none
+
+
+29	false
+
+
+30	none
+
+
+31	false
+
+
+32	false
+
+
+33	none
+
+
+34	none
+
+
+35	false
+
+
+36	none
+
+
+37	none
+
+
+38	false
+
+
+39	none
+
+
+40	false
+
+
+41	false
+
+
+42	none
+
+
+43	none
+
+
+44	none
+
+
+45	none
+
+
+46	none
+
+
+47	none
+
+
+48	none
+
+
+49	none
+
+
+50	none
+
+
+51	none
+
+
+52	none
+
+
+53	false
+
+
+54	none
+
+
+55	false
+
+
+56	false
+
+
+57	none
+
+
+58	none
+
+
+59	none
+
+
+60	none
+
+
+61	none
+
+
+62	none
+
+
+63	none
+
+
+64	none
+
+
+65	none
+
+
+66	none
+
+
+67	none
+
+
+68	none
+
+
+69	none
+
+
+70	false
+
+
+71	false
+
+
+72	none
+
+
+73	none
+
+
+74	none
+
+
+75	none
+
+
+76	false
+
+
+77	none
+
+
+78	none
+
+
+79	none
+
+
+80	false
+
+
+81	false
+
+
+82	false
+
+
+83	false
+
+
+84	false
+
+
+85	false
+
+
+86	none
+
+
+87	true
+
+
+88	false
+
+
+89	false
+
+
+90	none
+
+
+91	none
+
+
+92	none
+
+
+93	none
+
+
+94	none
+
+
+95	none
+
+
+96	none
+
+
+97	none
+
+
+98	true
+
+
+99	none
+
+
+100	none
+
+
+101	none
+
+
+102	none
+
+
+103	none
+
+
+104	none
+
+
+105	none
+
+
+106	none
+
+
+107	none
+
+
+108	none
+
+
+109	true
+
+
+110	none
+
+
+111	none
+
+
+112	none
+
+
+113	none
+
+
+114	none
+
+
+115	false
+
+
+116	none
+
+
+117	none
+
+
+118	false
+
+
+119	false
+
+
+120	false
+
+
+121	none
+
+
+122	false
+
+
+123	none
+
+
+124	none
+
+
+125	none
+
+
+126	none
+
+
+127	none
+
+
+128	true
+
+
+129	none
+
+
+130	none
+
+
+131	none
+
+
+132	none
+
+
+133	none
+
+
+134	none
+
+
+135	none
+
+
+136	true
+
+
+137	none
+
+
+138	none
+
+
+139	none
+
+
+140	none
+
+
+141	none
+
+
+142	false
+
+
+143	true
+
+
+144	false
+
+
+145	none
+
+
+146	false
+
+
+147	none
+
+
+148	none
+
+
+149	true
+
+
+150	none
+
+
+151	none
+
+
+152	none
+
+
+153	none
+
+
+154	true
+
+
+155	none
+
+
+156	none
+
+
+157	none
+
+
+158	true
+
+
+159	false
+
+
+160	none
+
+
+161	false
+
+
+162	false
+
+
+163	true
+
+
+164	true
+
+
+165	false
+
+
+166	false
+
+
+167	none
+
+
+168	none
+
+
+169	none
+
+
+170	none
+
+
+171	none
+
+
+172	none
+
+
+173	none
+
+
+174	none
+
+
+175	none
+
+
+176	none
+
+
+177	none
+
+
+178	none
+
+
+179	none
+
+
+180	none
+
+
+181	none
+
+
+182	none
+
+
+183	none
+
+
+184	none
+
+
+185	none
+
+
+186	none
+
+
+187	false
+
+
+188	none
+
+
+189	none
+
+
+190	none
+
+
+191	none
+
+
+192	none
+
+
+193	none
+
+
+194	none
+
+
+195	none
+
+
+196	none
+
+
+197	none
+
+
+198	none
+
+
+199	none
+
+
+200	none
+
+
+201	none
+
+
+202	none
+
+
+203	none
+
+
+204	none
+
+
+205	none
+
+
+206	none
+
+
+207	none
+
+
+208	none
+
+
+209	none
+
+
+210	none
+
+
+211	none
+
+
+212	none
+
+
+213	false
+
+
+214	true
+
+
+215	none
+
+
+216	true
+
+
+217	none
+
+
+218	none
+
+
+219	false
+
+
+220	false
+
+
+221	false
+
+
+222	false
+
+
+223	false
+
+
+224	none
+
+
+225	true
+
+
+226	true
+
+
+227	false
+
+
+228	none
+
+
+229	none
+
+
+230	none
+
+
+231	none
+
+
+232	none
+
+
+233	false
+
+
+234	false
+
+
+235	false
+
+
+236	none
+
+
+237	false
+
+
+238	false
+
+
+239	none
+
+
+240	false
+
+
+241	none
+
+
+242	false
+
+
+243	none
+
+
+244	false
+
+
+245	none
+
+
+246	none
+
+
+247	false
+
+
+248	false
+
+
+249	false
+
+
+250	none
+
+
+251	true
+
+
+252	true
+
+
+253	none
+
+
+254	false
+
+
+255	none
+
+
+256	none
+
+
+257	true
+
+
+258	none
+
+
+259	none
+
+
+260	none
+
+
+261	none
+
+
+262	none
+
+
+263	none
+
+
+264	none
+
+
+265	false
+
+
+266	none
+
+
+267	false
+
+
+268	none
+
+
+269	none
+
+
+270	false
+
+
+271	none
+
+
+272	false
+
+
+273	none
+
+
+274	none
+
+
+275	false
+
+
+276	none
+
+
+277	none
+
+
+278	none
+
+
+279	none
+
+
+280	none
+
+
+281	none
+
+
+282	false
+
+
+283	none
+
+
+284	none
+
+
+285	none
+
+
+286	none
+
+
+287	none
+
+
+288	none
+
+
+289	none
+
+
+290	none
+
+
+291	none
+
+
+292	none
+
+
+293	none
+
+
+294	none
+
+
+295	true
+
+
+296	none
+
+
+297	none
+
+
+298	none
+
+
+299	none
+
+
+300	none
+
+
+301	true
+
+
+302	true
+
+
+303	false
+
+
+304	true
+
+
+305	true
+
+
+306	false
+
+
+307	none
+
+
+308	true
+
+
+309	true
+
+
+310	false
+
+
+311	false
+
+
+312	false
+
+
+313	false
+
+
+314	false
+
+
+315	none
+
+
+316	false
+
+
+317	false
+
+
+318	false
+
+
+319	false
+
+
+320	false
+
+
+321	false
+
+
+322	none
+
+
+323	false
+
+
+324	false
+
+
+325	false
+
+
+326	false
+
+
+327	true
+
+
+328	none
+
+
+329	false
+
+
+330	false
+
+
+331	false
+
+
+332	false
+
+
+333	none
+
+
+334	false
+
+
+335	false
+
+
+336	false
+
+
+337	none
+
+
+338	false
+
+
+339	false
+
+
+340	none
+
+
+341	false
+
+
+342	false
+
+
+343	none
+
+
+344	none
+
+
+345	false
+
+
+346	none
+
+
+347	none
+
+
+348	none
+
+
+349	none
+
+
+350	none
+
+
+351	none
+
+
+352	true
+
+
+353	none
+
+
+354	none
+
+
+355	none
+
+
+356	none
+
+
+357	true
+
+
+358	true
+
+
+359	true
+
+
+360	true
+
+
+361	none
+
+
+362	none
+
+
+363	false
+
+
+364	false
+
+
+365	false
+
+
+366	false
+
+
+367	false
+
+
+368	none
+
+
+369	none
+
+
+370	false
+
+
+371	false
+
+
+372	false
+
+
+373	false
+
+
+374	none
+
+
+375	none
+
+
+376	false
+
+
+377	false
+
+
+378	false
+
+
+379	none
+
+
+380	none
+
+
+381	false
+
+
+382	false
+
+
+383	none
+
+
+384	none
+
+
+385	false
+
+
+386	false
+
+
+387	none
+
+
+388	none
+
+
+389	none
+
+
+390	none
+
+
+391	none
+
+
+392	false
+
+
+393	false
+
+
+394	true
+
+
+395	false
+
+
+396	false
+
+
+397	true
+
+
+398	true
+
+
+399	false
+
+
+400	none
+
+
+401	none
+
+
+402	none
+
+
+403	none
+
+
+404	none
+
+
+405	none
+
+
+406	none
+
+
+407	false
+
+
+408	false
+
+
+409	false
+
+
+410	true
+
+
+411	false
+
+
+412	true
+
+
+413	none
+
+
+414	none
+
+
+415	none
+
+
+416	none
+
+
+417	none
+
+
+418	none
+
+
+419	none
+
+
+420	none
+
+
+421	none
+
+
+422	false
+
+
+423	false
+
+
+424	none
+
+
+425	none
+
+
+426	none
+
+
+427	none
+
+
+428	false
+
+
+429	false
+
+
+430	false
+
+
+431	none
+
+
+432	none
+
+
+433	none
+
+
+434	none
+
+
+435	false
+
+
+436	false
+
+
+437	none
+
+
+438	none
+
+
+439	none
+
+
+440	none
+
+
+441	false
+
+
+442	false
+
+
+443	none
+
+
+444	none
+
+
+445	none
+
+
+446	none
+
+
+447	none
+
+
+448	none
+
+
+449	none
+
+
+450	none
+
+
+451	none
+
+
+452	none
+
+
+453	none
+
+
+454	none
+
+
+455	none
+
+
+456	none
+
+
+457	false
+
+
+458	none
+
+
+459	none
+
+
+460	none
+
+
+461	false
+
+
+462	false
+
+
+463	false
+
+
+464	false
+
+
+465	false
+
+
+466	false
+
+
+467	none
+
+
+468	none
+
+
+469	none
+
+
+470	none
+
+
+471	none
+
+
+472	none
+
+
+473	none
+
+
+474	none
+
+
+475	none
+
+
+476	none
+
+
+477	none
+
+
+478	none
+
+
+479	none
+
+
+480	none
+
+
+481	none
+
+
+482	none
+
+
+483	none
+
+
+484	none
+
+
+485	none
+
+
+486	none
+
+
+487	none
+
+
+488	false
+
+
+489	false
+
+
+490	false
+
+
+491	false
+
+
+492	false
+
+
+493	false
+
+
+494	false
+
+
+495	false
+
+
+496	false
+
+
+497	false
+
+
+498	false
+
+
+499	false
+
+
+500	false
+
+
+501	false
+
+
+502	false
+
+
+503	false
+
+
+504	false
+
+
+505	false
+
+
+506	false
+
+
+507	false
+
+
+508	false
+
+
+509	false
+
+
+510	false
+
+
+511	false
+
+
+512	false
+
+
+513	none
+
+
+514	none
+
+
+515	none
+
+
+516	none
+
+
+517	false
+
+
+518	false
+
+
+519	false
+
+
+520	false
+
+
+521	false
+
+
+522	false
+
+
+523	false
+
+
+524	none
+
+
+525	none
+
+
+526	true
+
+
+527	none
+
+
+528	none
+
+
+529	true
+
+
+530	none
+
+
+531	none
+
+
+532	none
+
+
+533	none
+
+
+534	none
+
+
+535	false
+
+
+536	false
+
+
+537	none
+
+
+538	none
+
+
+539	false
+
+
+540	false
+
+
+541	false
+
+
+542	false
+
+
+543	none
+
+
+544	none
+
+
+545	none
+
+
+546	none
+
+
+547	none
+
+
+548	none
+
+
+549	none
+
+
+550	none
+
+
+551	none
+
+
+552	none
+
+
+553	none
+
+
+554	none
+
+
+555	none
+
+
+556	none
+
+
+557	none
+
+
+558	none
+
+
+559	none
+
+
+560	none
+
+
+561	none
+
+
+562	none
+
+
+563	false
+
+
+564	none
+
+
+565	none
+
+
+566	false
+
+
+567	false
+
+
+568	false
+
+
+569	false
+
+
+570	none
+
+
+571	none
+
+
+572	none
+
+
+573	false
+
+
+574	false
+
+
+575	false
+
+
+576	false
+
+
+577	none
+
+
+578	none
+
+
+579	none
+
+
+580	none
+
+
+581	none
+
+
+582	none
+
+
+583	none
+
+
+584	none
+
+
+585	none
+
+
+586	none
+
+
+587	none
+
+
+588	none
+
+
+589	false
+
+
+590	false
+
+
+591	false
+
+
+592	false
+
+
+593	false
+
+
+594	false
+
+
+595	false
+
+
+596	false
+
+
+597	none
+
+
+598	none
+
+
+599	none
+
+
+600	none
+
+
+601	false
+
+
+602	false
+
+
+603	false
+
+
+604	none
+
+
+605	false
+
+
+606	false
+
+
+607	none
+
+
+608	none
+
+
+609	none
+
+
+610	none
+
+
+611	none
+
+
+612	none
+
+
+613	false
+
+
+614	false
+
+
+615	none
+
+
+616	false
+
+
+617	false
+
+
+618	false
+
+
+619	none
+
+
+620	false
+
+
+621	false
+
+
+622	none
+
+
+623	false
+
+
+624	false
+
+
+625	none
+
+
+626	none
+
+
+627	false
+
+
+628	none
+
+
+629	false
+
+
+630	false
+
+
+631	false
+
+
+632	false
+
+
+633	false
+
+
+634	false
+
+
+635	true
+
+
+636	true
+
+
+637	none
+
+
+638	true
+
+
+639	true
+
+
+640	none
+
+
+641	none
+
+
+642	none
+
+
+643	none
+
+
+644	none
+
+
+645	false
+
+
+646	false
+
+
+647	none
+
+
+648	none
+
+
+649	false
+
+
+650	false
+
+
+651	none
+
+
+652	none
+
+
+653	none
+
+
+654	none
+
+
+655	none
+
+
+656	none
+
+
+657	none
+
+
+658	none
+
+
+659	none
+
+
+660	true
+
+
+661	none
+
+
+662	false
+
+
+663	none
+
+
+664	none
+
+
+665	none
+
+
+666	none
+
+
+667	none
+
+
+668	none
+
+
+669	false
+
+
+670	none
+
+
+671	none
+
+
+672	none
+
+
+673	false
+
+
+674	none
+
+
+675	none
+
+
+676	none
+
+
+677	none
+
+
+678	none
+
+
+679	none
+
+
+680	none
+
+
+681	false
+
+
+682	false
+
+
+683	none
+
+
+684	none
+
+
+685	none
+
+
+686	none
+
+
+687	none
+
+
+688	none
+
+
+689	false
+
+
+690	none
+
+
+691	none
+
+
+692	false
+
+
+693	none
+
+
+694	none
+
+
+695	true
+
+
+696	true
+
+
+697	true
+
+
+698	true
+
+
+699	true
+
+
+700	true
+
+
+701	true
+
+
+702	true
+
+
+703	false
+
+
+704	none
+
+
+705	none
+
+
+706	none
+
+
+707	true
+
+
+708	true
+
+
+709	none
+
+
+710	none
+
+
+711	none
+
+
+712	false
+
+
+713	none
+
+
+714	none
+
+
+715	none
+
+
+716	true
+
+
+717	none
+
+
+718	none
+
+
+719	none
+
+
+720	none
+
+
+721	none
+
+
+722	none
+
+
+723	true
+
+
+724	none
+
+
+725	true
+
+
+726	true
+
+
+727	true
+
+
+728	false
+
+
+729	true
+
+
+730	false
+
+
+731	true
+
+
+732	none
+
+
+733	false
+
+
+734	false
+
+
+735	false
+
+
+736	false
+
+
+737	false
+
+
+738	false
+
+
+739	none
+
+
+740	none
+
+
+741	none
+
+
+742	none
+
+
+743	none
+
+
+744	none
+
+
+745	none
+
+
+746	none
+
+
+747	false
+
+
+748	false
+
+
+749	false
+
+
+750	false
+
+
+751	false
+
+
+752	none
+
+
+753	false
+
+
+754	false
+
+
+755	false
+
+
+756	false
+
+
+757	none
+
+
+758	false
+
+
+759	false
+
+
+760	false
+
+
+761	none
+
+
+762	false
+
+
+763	false
+
+
+764	none
+
+
+765	false
+
+
+766	none
+
+
+767	none
+
+
+768	none
+
+
+769	none
+
+
+770	none
+
+
+771	none
+
+
+772	none
+
+
+773	none
+
+
+774	none
+
+
+775	none
+
+
+776	none
+
+
+777	true
+
+
+778	none
+
+
+779	none
+
+
+780	none
+
+
+781	none
+
+
+782	none
+
+
+783	true
+
+
+784	false
+
+
+785	none
+
+
+786	none
+
+
+787	false
+
+
+788	none
+
+
+789	false
+
+
+790	false
+
+
+791	true
+
+
+792	true
+
+
+793	true
+
+
+794	false
+
+
+795	true
+
+
+796	true
+
+
+797	true
+
+
+798	none
+
+
+799	none
+
+
+800	false
+
+
+801	none
+
+
+802	false
+
+
+803	false
+
+
+804	none
+
+
+805	none
+
+
+806	none
+
+
+807	none
+
+
+808	none
+
+
+809	none
+
+
+810	none
+
+
+811	none
+
+
+812	none
+
+
+813	none
+
+
+814	false
+
+
+815	false
+
+
+816	none
+
+
+817	none
+
+
+818	false
+
+
+819	false
+
+
+820	true
+
+
+821	false
+
+
+822	false
+
+
+823	true
+
+
+824	false
+
+
+825	false
+
+
+826	false
+
+
+827	true
+
+
+828	false
+
+
+829	false
+
+
+830	none
+
+
+831	false
+
+
+832	none
+
+
+833	false
+
+
+834	false
+
+
+835	true
+
+
+836	false
+
+
+837	none
+
+
+838	false
+
+
+839	false
+
+
+840	none
+
+
+841	none
+
+
+842	false
+
+
+843	false
+
+
+844	none
+
+
+845	none
+
+
+846	false
+
+
+847	none
+
+
+848	false
+
+
+849	none
+
+
+850	none
+
+
+851	false
+
+
+852	true
+
+
+853	none
+
+
+854	none
+
+
+855	none
+
+
+856	false
+
+
+857	none
+
+
+858	none
+
+
+859	false
+
+
+860	true
+
+
+861	none
+
+
+862	none
+
+
+863	none
+
+
+864	none
+
+
+865	none
+
+
+866	none
+
+
+867	none
+
+
+868	none
+
+
+869	none
+
+
+870	none
+
+
+871	none
+
+
+872	false
+
+
+873	false
+
+
+874	none
+
+
+875	none
+
+
+876	none
+
+
+877	none
+
+
+878	none
+
+
+879	none
+
+
+880	none
+
+
+881	none
+
+
+882	none
+
+
+883	none
+
+
+884	none
+
+
+885	true
+
+
+886	none
+
+
+887	none
+
+
+888	none
+
+
+889	none
+
+
+890	none
+
+
+891	none
+
+
+892	none
+
+
+893	none
+
+
+894	false
+
+
+895	none
+
+
+896	none
+
+
+897	true
+
+
+898	none
+
+
+899	false
+
+
+900	none
+
+
+901	none
+
+
+902	none
+
+
+903	none
+
+
+904	none
+
+
+905	none
+
+
+906	none
+
+
+907	none
+
+
+908	none
+
+
+909	none
+
+
+910	none
+
+
+911	none
+
+
+912	none
+
+
+913	none
+
+
+914	none
+
+
+915	none
+
+
+916	none
+
+
+917	false
+
+
+918	false
+
+
+919	false
+
+
+920	false
+
+
+921	false
+
+
+922	none
+
+
+923	false
+
+
+924	false
+
+
+925	none
+
+
+926	none
+
+
+927	none
+
+
+928	false
+
+
+929	none
+
+
+930	none
+
+
+931	none
+
+
+932	none
+
+
+933	none
+
+
+934	none
+
+
+935	none
+
+
+936	none
+
+
+937	none
+
+
+938	none
+
+
+939	none
+
+
+940	none
+
+
+941	none
+
+
+942	none
+
+
+943	none
+
+
+944	none
+
+
+945	none
+
+
+946	none
+
+
+947	none
+
+
+948	none
+
+
+949	none
+
+
+950	none
+
+
+951	none
+
+
+952	none
+
+
+953	none
+
+
+954	false
+
+
+955	false
+
+
+956	false
+
+
+957	false
+
+
+958	none
+
+
+959	false
+
+
+960	false
+
+
+961	none
+
+
+962	none
+
+
+963	none
+
+
+964	false
+
+
+965	false
+
+
+966	false
+
+
+967	false
+
+
+968	none
+
+
+969	false
+
+
+970	false
+
+
+971	none
+
+
+972	none
+
+
+973	none
+
+
+974	false
+
+
+975	false
+
+
+976	false
+
+
+977	none
+
+
+978	false
+
+
+979	false
+
+
+980	none
+
+
+981	none
+
+
+982	none
+
+
+983	false
+
+
+984	false
+
+
+985	none
+
+
+986	false
+
+
+987	false
+
+
+988	none
+
+
+989	none
+
+
+990	none
+
+
+991	false
+
+
+992	false
+
+
+993	false
+
+
+994	false
+
+
+995	none
+
+
+996	none
+
+
+997	none
+
+
+998	false
+
+
+999	none
+
+
+1000	none
+
+
+1001	none
+
+
+1002	none
+
+
+1003	none
+
+
+1004	none
+
+
+1005	false
+
+
+1006	none
+
+
+1007	none
+
+
+1008	false
+
+
+1009	false
+
+
+1010	none
+
+
+1011	false
+
+
+1012	false
+
+
+1013	false
+
+
+1014	none
+
+
+1015	none
+
+
+1016	none
+
+
+1017	none
+
+
+1018	none
+
+
+1019	none
+
+
+1020	false
+
+
+1021	none
+
+
+1022	false
+
+
+1023	false
+
+
+1024	none
+
+
+1025	false
+
+
+1026	false
+
+
+1027	none
+
+
+1028	none
+
+
+1029	false
+
+
+1030	false
+
+
+1031	true
+
+
+1032	true
+
+
+1033	true
+
+
+1034	false
+
+
+1035	true
+
+
+1036	true
+
+
+1037	true
+
+
+1038	true
+
+
+1039	none
+
+
+1040	none
+
+
+1041	none
+
+
+1042	none
+
+
+1043	none
+
+
+1044	none
+
+
+1045	none
+
+
+1046	none
+
+
+1047	false
+
+
+1048	false
+
+
+1049	false
+
+
+1050	true
+
+
+1051	none
+
+
+1052	none
+
+
+1053	none
+
+
+1054	none
+
+
+1055	none
+
+
+1056	none
+
+
+1057	false
+
+
+1058	false
+
+
+1059	false
+
+
+1060	none
+
+
+1061	false
+
+
+1062	true
+
+
+1063	none
+
+
+1064	true
+
+
+1065	none
+
+
+1066	none
+
+
+1067	none
+
+
+1068	none
+
+
+1069	none
+
+
+1070	none
+
+
+1071	none
+
+
+1072	none
+
+
+1073	none
+
+
+1074	none
+
+
+1075	none
+
+
+1076	none
+
+
+1077	none
+
+
+1078	none
+
+
+1079	none
+
+
+1080	none
+
+
+1081	none
+
+
+1082	none
+
+
+1083	none
+
+
+1084	none
+
+
+1085	none
+
+
+1086	none
+
+
+1087	none
+
+
+1088	none
+
+
+1089	none
+
+
+1090	none
+
+
+1091	none
+
+
+1092	none
+
+
+1093	none
+
+
+1094	none
+
+
+1095	none
+
+
+1096	none
+
+
+1097	false
+
+
+1098	false
+
+
+1099	none
+
+
+1100	none
+
+
+1101	none
+
+
+1102	false
+
+
+1103	none
+
+
+1104	true
+
+
+1105	false
+
+
+1106	none
+
+
+1107	false
+
+
+1108	false
+
+
+1109	none
+
+
+1110	none
+
+
+1111	true
+
+
+1112	none
+
+
+1113	false
+
+
+1114	false
+
+
+1115	none
+
+
+1116	none
+
+
+1117	none
+
+
+1118	none
+
+
+1119	none
+
+
+1120	none
+
+
+1121	none
+
+
+1122	none
+
+
+1123	none
+
+
+1124	none
+
+
+1125	none
+
+
+1126	none
+
+
+1127	none
+
+
+1128	none
+
+
+1129	none
+
+
+1130	false
+
+
+1131	false
+
+
+1132	none
+
+
+1133	none
+
+
+1134	none
+
+
+1135	false
+
+
+1136	false
+
+
+1137	none
+
+
+1138	none
+
+
+1139	none
+
+
+1140	false
+
+
+1141	none
+
+
+1142	none
+
+
+1143	none
+
+
+1144	false
+
+
+1145	none
+
+
+1146	none
+
+
+1147	none
+
+
+1148	none
+
+
+1149	none
+
+
+1150	none
+
+
+1151	none
+
+
+1152	false
+
+
+1153	false
+
+
+1154	none
+
+
+1155	false
+
+
+1156	false
+
+
+1157	false
+
+
+1158	none
+
+
+1159	false
+
+
+1160	false
+
+
+1161	none
+
+
+1162	false
+
+
+1163	false
+
+
+1164	false
+
+
+1165	none
+
+
+1166	false
+
+
+1167	false
+
+
+1168	false
+
+
+1169	false
+
+
+1170	false
+
+
+1171	false
+
+
+1172	false
+
+
+1173	none
+
+
+1174	none
+
+
+1175	false
+
+
+1176	none
+
+
+1177	true
+
+
+1178	false
+
+
+1179	false
+
+
+1180	none
+
+
+1181	false
+
+
+1182	none
+
+
+1183	false
+
+
+1184	false
+
+
+1185	false
+
+
+1186	none
+
+
+1187	false
+
+
+1188	none
+
+
+1189	none
+
+
+1190	none
+
+
+1191	none
+
+
+1192	none
+
+
+1193	false
+
+
+1194	false
+
+
+1195	none
+
+
+1196	false
+
+
+1197	false
+
+
+1198	none
+
+
+1199	none
+
+
+1200	false
+
+
+1201	none
+
+
+1202	none
+
+
+1203	false
+
+
+1204	true
+
+
+1205	none
+
+
+1206	false
+
+
+1207	true
+
+
+1208	false
+
+
+1209	none
+
+
+1210	false
+
+
+1211	true
+
+
+1212	none
+
+
+1213	true
+
+
+1214	false
+
+
+1215	none
+
+
+1216	none
+
+
+1217	true
+
+
+1218	true
+
+
+1219	true
+
+
+1220	true
+
+
+1221	true
+
+
+1222	true
+
+
+1223	false
+
+
+1224	false
+
+
+1225	none
+
+
+1226	true
+
+
+1227	false
+
+
+1228	none
+
+
+1229	true
+
+
+1230	none
+
+
+1231	true
+
+
+1232	none
+
+
+1233	none
+
+
+1234	false
+
+
+1235	false
+
+
+1236	false
+
+
+1237	false
+
+
+1238	none
+
+
+1239	false
+
+
+1240	false
+
+
+1241	false
+
+
+1242	none
+
+
+1243	false
+
+
+1244	false
+
+
+1245	none
+
+
+1246	false
+
+
+1247	none
+
+
+1248	false
+
+
+1249	none
+
+
+1250	none
+
+
+1251	false
+
+
+1252	none
+
+
+1253	none
+
+
+1254	none
+
+
+1255	false
+
+
+1256	none
+
+
+1257	none
+
+
+1258	none
+
+
+1259	false
+
+
+1260	false
+
+
+1261	none
+
+
+1262	none
+
+
+1263	none
+
+
+1264	none
+
+
+1265	false
+
+
+1266	none
+
+
+1267	none
+
+
+1268	false
+
+
+1269	none
+
+
+1270	false
+
+
+1271	false
+
+
+1272	false
+
+
+1273	false
+
+
+1274	true
+
+
+1275	true
+
+
+1276	true
+
+
+1277	false
+
+
+1278	true
+
+
+1279	true
+
+
+1280	false
+
+
+1281	false
+
+
+1282	false
+
+
+1283	false
+
+
+1284	false
+
+
+1285	false
+
+
+1286	false
+
+
+1287	false
+
+
+1288	false
+
+
+1289	false
+
+
+1290	false
+
+
+1291	false
+
+
+1292	false
+
+
+1293	false
+
+
+1294	false
+
+
+1295	false
+
+
+1296	false
+
+
+1297	false
+
+
+1298	none
+
+
+1299	false
+
+
+1300	false
+
+
+1301	false
+
+
+1302	none
+
+
+1303	false
+
+
+1304	false
+
+
+1305	none
+
+
+1306	false
+
+
+1307	none
+
+
+1308	false
+
+
+1309	none
+
+
+1310	none
+
+
+1311	none
+
+
+1312	false
+
+
+1313	false
+
+
+1314	false
+
+
+1315	false
+
+
+1316	true
+
+
+1317	true
+
+
+1318	true
+
+
+1319	true
+
+
+1320	false
+
+
+1321	true
+
+
+1322	true
+
+
+1323	true
+
+
+1324	false
+
+
+1325	false
+
+
+1326	false
+
+
+1327	false
+
+
+1328	false
+
+
+1329	false
+
+
+1330	false
+
+
+1331	none
+
+
+1332	none
+
+
+1333	none
+
+
+1334	none
+
+
+1335	none
+
+
+1336	none
+
+
+1337	none
+
+
+1338	false
+
+
+1339	none
+
+
+1340	false
+
+
+1341	true
+
+
+1342	none
+
+
+1343	true
+
+
+1344	none
+
+
+1345	true
+
+
+1346	none
+
+
+1347	false
+
+
+1348	false
+
+
+1349	none
+
+
+1350	false
+
+
+1351	none
+
+
+1352	none
+
+
+1353	none
+
+
+1354	true
+
+
+1355	true
+
+
+1356	none
+
+
+1357	none
+
+
+1358	true
+
+
+1359	none
+
+
+1360	none
+
+
+1361	none
+
+
+1362	true
+
+
+1363	none
+
+
+1364	false
+
+
+1365	none
+
+
+1366	true
+
+
+1367	none
+
+
+1368	none
+
+
+1369	true
+
+
+1370	none
+
+
+1371	true
+
+
+1372	none
+
+
+1373	true
+
+
+1374	false
+
+
+1375	false
+
+
+1376	false
+
+
+1377	false
+
+
+1378	false
+
+
+1379	none
+
+
+1380	false
+
+
+1381	false
+
+
+1382	false
+
+
+1383	false
+
+
+1384	false
+
+
+1385	false
+
+
+1386	false
+
+
+1387	false
+
+
+1388	false
+
+
+1389	true
+
+
+1390	true
+
+
+1391	false
+
+
+1392	true
+
+
+1393	false
+
+
+1394	false
+
+
+1395	none
+
+
+1396	none
+
+
+1397	true
+
+
+1398	true
+
+
+1399	none
+
+
+1400	none
+
+
+1401	false
+
+
+1402	true
+
+
+1403	true
+
+
+1404	true
+
+
+1405	false
+
+
+1406	false
+
+
+1407	false
+
+
+1408	false
+
+
+1409	false
+
+
+1410	none
+
+
+1411	false
+
+
+1412	none
+
+
+1413	false
+
+
+1414	false
+
+
+1415	false
+
+
+1416	none
+
+
+1417	false
+
+
+1418	false
+
+
+1419	false
+
+
+1420	false
+
+
+1421	false
+
+
+1422	none
+
+
+1423	false
+
+
+1424	false
+
+
+1425	false
+
+
+1426	none
+
+
+1427	false
+
+
+1428	none
+
+
+1429	false
+
+
+1430	false
+
+
+1431	false
+
+
+1432	none
+
+
+1433	false
+
+
+1434	false
+
+
+1435	false
+
+
+1436	false
+
+
+1437	false
+
+
+1438	none
+
+
+1439	false
+
+
+1440	false
+
+
+1441	none
+
+
+1442	false
+
+
+1443	none
+
+
+1444	false
+
+
+1445	false
+
+
+1446	false
+
+
+1447	none
+
+
+1448	false
+
+
+1449	false
+
+
+1450	false
+
+
+1451	false
+
+
+1452	false
+
+
+1453	none
+
+
+1454	none
+
+
+1455	none
+
+
+1456	false
+
+
+1457	none
+
+
+1458	false
+
+
+1459	false
+
+
+1460	false
+
+
+1461	none
+
+
+1462	false
+
+
+1463	false
+
+
+1464	false
+
+
+1465	false
+
+
+1466	false
+
+
+1467	none
+
+
+1468	none
+
+
+1469	none
+
+
+1470	none
+
+
+1471	none
+
+
+1472	none
+
+
+1473	true
+
+
+1474	none
+
+
+1475	none
+
+
+1476	none
+
+
+1477	none
+
+
+1478	none
+
+
+1479	none
+
+
+1480	none
+
+
+1481	none
+
+
+1482	none
+
+
+1483	none
+
+
+1484	none
+
+
+1485	true
+
+
+1486	none
+
+
+1487	none
+
+
+1488	none
+
+
+1489	none
+
+
+1490	none
+
+
+1491	none
+
+
+1492	none
+
+
+1493	none
+
+
+1494	false
+
+
+1495	false
+
+
+1496	true
+
+
+1497	none
+
+
+1498	false
+
+
+1499	true
+
+
+1500	true
+
+
+1501	false
+
+
+1502	false
+
+
+1503	none
+
+
+1504	none
+
+
+1505	none
+
+
+1506	true
+
+
+1507	none
+
+
+1508	none
+
+
+1509	none
+
+
+1510	none
+
+
+1511	none
+
+
+1512	none
+
+
+1513	none
+
+
+1514	false
+
+
+1515	true
+
+
+1516	none
+
+
+1517	false
+
+
+1518	true
+
+
+1519	true
+
+
+1520	false
+
+
+1521	false
+
+
+1522	none
+
+
+1523	true
+
+
+1524	none
+
+
+1525	false
+
+
+1526	true
+
+
+1527	true
+
+
+1528	false
+
+
+1529	false
+
+
+1530	none
+
+
+1531	true
+
+
+1532	false
+
+
+1533	true
+
+
+1534	true
+
+
+1535	true
+
+
+1536	true
+
+
+1537	true
+
+
+1538	none
+
+
+1539	none
+
+
+1540	none
+
+
+1541	none
+
+
+1542	none
+
+
+1543	none
+
+
+1544	false
+
+
+1545	false
+
+
+1546	false
+
+
+1547	false
+
+
+1548	none
+
+
+1549	false
+
+
+1550	true
+
+
+1551	true
+
+
+1552	none
+
+
+1553	true
+
+
+1554	true
+
+
+1555	none
+
+
+1556	false
+
+
+1557	none
+
+
+1558	none
+
+
+1559	true
+
+
+1560	true
+
+
+1561	none
+
+
+1562	true
+
+
+1563	true
+
+
+1564	true
+
+
+1565	false
+
+
+1566	true
+
+
+1567	none
+
+
+1568	none
+
+
+1569	none
+
+
+1570	none
+
+
+1571	none
+
+
+1572	none
+
+
+1573	none
+
+
+1574	none
+
+
+1575	true
+
+
+1576	true
+
+
+1577	true
+
+
+1578	false
+
+
+1579	true
+
+
+1580	none
+
+
+1581	none
+
+
+1582	none
+
+
+1583	none
+
+
+1584	none
+
+
+1585	false
+
+
+1586	false
+
+
+1587	false
+
+
+1588	false
+
+
+1589	false
+
+
+1590	false
+
+
+1591	false
+
+
+1592	false
+
+
+1593	false
+
+
+1594	false
+
+
+1595	false
+
+
+1596	false
+
+
+1597	none
+
+
+1598	false
+
+
+1599	none
+
+
+1600	none
+
+
+1601	none
+
+
+1602	none
+
+
+1603	none
+
+
+1604	none
+
+
+1605	none
+
+
+1606	none
+
+
+1607	none
+
+
+1608	none
+
+
+1609	none
+
+
+1610	none
+
+
+1611	none
+
+
+1612	none
+
+
+1613	true
+
+
+1614	true
+
+
+1615	none
+
+
+1616	false
+
+
+1617	false
+
+
+1618	none
+
+
+1619	none
+
+
+1620	true
+
+
+1621	true
+
+
+1622	true
+
+
+1623	false
+
+
+1624	false
+
+
+1625	none
+
+
+1626	false
+
+
+1627	false
+
+
+1628	none
+
+
+1629	none
+
+
+1630	false
+
+
+1631	false
+
+
+1632	false
+
+
+1633	false
+
+
+1634	none
+
+
+1635	false
+
+
+1636	false
+
+
+1637	none
+
+
+1638	none
+
+
+1639	false
+
+
+1640	false
+
+
+1641	false
+
+
+1642	false
+
+
+1643	none
+
+
+1644	none
+
+
+1645	none
+
+
+1646	none
+
+
+1647	none
+
+
+1648	none
+
+
+1649	none
+
+
+1650	none
+
+
+1651	false
+
+
+1652	none
+
+
+1653	none
+
+
+1654	false
+
+
+1655	false
+
+
+1656	false
+
+
+1657	false
+
+
+1658	false
+
+
+1659	false
+
+
+1660	false
+
+
+1661	false
+
+
+1662	false
+
+
+1663	false
+
+
+1664	none
+
+
+1665	none
+
+
+1666	none
+
+
+1667	none
+
+
+1668	none
+
+
+1669	none
+
+
+1670	none
+
+
+1671	none
+
+
+1672	none
+
+
+1673	false
+
+
+1674	false
+
+
+1675	false
+
+
+1676	false
+
+
+1677	false
+
+
+1678	false
+
+
+1679	none
+
+
+1680	true
+
+
+1681	true
+
+
+1682	none
+
+
+1683	false
+
+
+1684	none
+
+
+1685	none
+
+
+1686	true
+
+
+1687	true
+
+
+1688	false
+
+
+1689	true
+
+
+1690	true
+
+
+1691	true
+
+
+1692	true
+
+
+1693	false
+
+
+1694	true
+
+
+1695	true
+
+
+1696	true
+
+
+1697	true
+
+
+1698	true
+
+
+1699	none
+
+
+1700	none
+
+
+1701	none
+
+
+1702	none
+
+
+1703	none
+
+
+1704	false
+
+
+1705	none
+
+
+1706	none
+
+
+1707	none
+
+
+1708	none
+
+
+1709	none
+
+
+1710	none
+
+
+1711	none
+
+
+1712	none
+
+
+1713	none
+
+
+1714	false
+
+
+1715	none
+
+
+1716	none
+
+
+1717	none
+
+
+1718	none
+
+
+1719	none
+
+
+1720	none
+
+
+1721	none
+
+
+1722	none
+
+
+1723	none
+
+
+1724	false
+
+
+1725	false
+
+
+1726	false
+
+
+1727	true
+
+
+1728	none
+
+
+1729	false
+
+
+1730	false
+
+
+1731	true
+
+
+1732	none
+
+
+1733	false
+
+
+1734	true
+
+
+1735	none
+
+
+1736	true
+
+
+1737	none
+
+
+1738	true
+
+
+1739	false
+
+
+1740	true
+
+
+1741	true
+
+
+1742	false
+
+
+1743	true
+
+
+1744	true
+
+
+1745	false
+
+
+1746	false
+
+
+1747	false
+
+
+1748	true
+
+
+1749	false
+
+
+1750	false
+
+
+1751	true
+
+
+1752	false
+
+
+1753	false
+
+
+1754	true
+
+
+1755	true
+
+
+1756	true
+
+
+1757	true
+
+
+1758	true
+
+
+1759	true
+
+
+1760	true
+
+
+1761	true
+
+
+1762	true
+
+
+1763	false
+
+
+1764	true
+
+
+1765	true
+
+
+1766	none
+
+
+1767	none
+
+
+1768	false
+
+
+1769	false
+
+
+1770	true
+
+
+1771	false
+
+
+1772	none
+
+
+1773	none
+
+
+1774	false
+
+
+1775	false
+
+
+1776	false
+
+
+1777	true
+
+
+1778	true
+
+
+1779	true
+
+
+1780	true
+
+
+1781	none
+
+
+1782	none
+
+
+1783	false
+
+
+1784	false
+
+
+1785	none
+
+
+1786	none
+
+
+1787	none
+
+
+1788	none
+
+
+1789	none
+
+
+1790	false
+
+
+1791	none
+
+
+1792	none
+
+
+1793	none
+
+
+1794	none
+
+
+1795	false
+
+
+1796	false
+
+
+1797	none
+
+
+1798	false
+
+
+1799	none
+
+
+1800	none
+
+
+1801	false
+
+
+1802	none
+
+
+1803	none
+
+
+1804	none
+
+
+1805	none
+
+
+1806	false
+
+
+1807	none
+
+
+1808	none
+
+
+1809	none
+
+
+1810	false
+
+
+1811	none
+
+
+1812	none
+
+
+1813	none
+
+
+1814	none
+
+
+1815	false
+
+
+1816	none
+
+
+1817	none
+
+
+1818	none
+
+
+1819	false
+
+
+1820	none
+
+
+1821	none
+
+
+1822	none
+
+
+1823	none
+
+
+1824	none
+
+
+1825	none
+
+
+1826	none
+
+
+1827	none
+
+
+1828	none
+
+
+1829	none
+
+
+1830	none
+
+
+1831	none
+
+
+1832	none
+
+
+1833	none
+
+
+1834	none
+
+
+1835	none
+
+
+1836	none
+
+
+1837	none
+
+
+1838	none
+
+
+1839	none
+
+
+1840	none
+
+
+1841	none
+
+
+1842	none
+
+
+1843	none
+
+
+1844	none
+
+
+1845	none
+
+
+1846	none
+
+
+1847	none
+
+
+1848	none
+
+
+1849	false
+
+
+1850	none
+
+
+1851	none
+
+
+1852	none
+
+
+1853	none
+
+
+1854	none
+
+
+1855	none
+
+
+1856	none
+
+
+1857	none
+
+
+1858	none
+
+
+1859	false
+
+
+1860	false
+
+
+1861	false
+
+
+1862	none
+
+
+1863	none
+
+
+1864	none
+
+
+1865	none
+
+
+1866	none
+
+
+1867	none
+
+
+1868	true
+
+
+1869	none
+
+
+1870	none
+
+
+1871	none
+
+
+1872	none
+
+
+1873	none
+
+
+1874	none
+
+
+1875	none
+
+
+1876	none
+
+
+1877	none
+
+
+1878	none
+
+
+1879	none
+
+
+1880	none
+
+
+1881	none
+
+
+1882	none
+
+
+1883	false
+
+
+1884	false
+
+
+1885	false
+
+
+1886	none
+
+
+1887	none
+
+
+1888	false
+
+
+1889	none
+
+
+1890	false
+
+
+1891	none
+
+
+1892	none
+
+
+1893	none
+
+
+1894	none
+
+
+1895	none
+
+
+1896	none
+
+
+1897	none
+
+
+1898	none
+
+
+1899	false
+
+
+1900	false
+
+
+1901	none
+
+
+1902	none
+
+
+1903	false
+
+
+1904	none
+
+
+1905	false
+
+
+1906	false
+
+
+1907	none
+
+
+1908	none
+
+
+1909	false
+
+
+1910	none
+
+
+1911	false
+
+
+1912	none
+
+
+1913	none
+
+
+1914	false
+
+
+1915	none
+
+
+1916	false
+
+
+1917	none
+
+
+1918	none
+
+
+1919	none
+
+
+1920	none
+
+
+1921	none
+
+
+1922	none
+
+
+1923	none
+
+
+1924	none
+
+
+1925	false
+
+
+1926	none
+
+
+1927	none
+
+
+1928	false
+
+
+1929	false
+
+
+1930	false
+
+
+1931	none
+
+
+1932	true
+
+
+1933	none
+
+
+1934	false
+
+
+1935	none
+
+
+1936	none
+
+
+1937	none
+
+
+1938	none
+
+
+1939	true
+
+
+1940	none
+
+
+1941	none
+
+
+1942	false
+
+
+1943	false
+
+
+1944	none
+
+
+1945	true
+
+
+1946	none
+
+
+1947	false
+
+
+1948	false
+
+
+1949	none
+
+
+1950	true
+
+
+1951	none
+
+
+1952	false
+
+
+1953	none
+
+
+1954	true
+
+
+1955	none
+
+
+1956	false
+
+
+1957	true
+
+
+1958	none
+
+
+1959	none
+
+
+1960	true
+
+
+1961	false
+
+
+1962	none
+
+
+1963	none
+
+
+1964	none
+
+
+1965	none
+
+
+1966	true
+
+
+1967	none
+
+
+1968	none
+
+
+1969	none
+
+
+1970	true
+
+
+1971	none
+
+
+1972	none
+
+
+1973	true
+
+
+1974	none
+
+
+1975	true
+
+
+1976	none
+
+
+1977	true
+
+
+1978	true
+
+
+1979	true
+
+
+1980	none
+
+
+1981	none
+
+
+1982	true
+
+
+1983	false
+
+
+1984	false
+
+
+1985	none
+
+
+1986	false
+
+
+1987	false
+
+
+1988	false
+
+
+1989	none
+
+
+1990	none
+
+
+1991	none
+
+
+1992	none
+
+
+1993	none
+
+
+1994	none
+
+
+1995	none
+
+
+1996	true
+
+
+1997	true
+
+
+1998	none
+
+
+1999	false
+
+
+2000	true
+
+
+2001	true
+
+
+2002	false
+
+
+2003	none
+
+
+2004	false
+
+
+2005	false
+
+
+2006	false
+
+
+2007	none
+
+
+2008	false
+
+
+2009	false
+
+
+2010	false
+
+
+2011	false
+
+
+2012	false
+
+
+2013	false
+
+
+2014	false
+
+
+2015	false
+
+
+2016	false
+
+
+2017	true
+
+
+2018	true
+
+
+2019	true
+
+
+2020	true
+
+
+2021	true
+
+
+2022	true
+
+
+2023	false
+
+
+2024	false
+
+
+2025	true
+
+
+2026	false
+
+
+2027	false
+
+
+2028	false
+
+
+2029	false
+
+
+2030	false
+
+
+2031	false
+
+
+2032	false
+
+
+2033	false
+
+
+2034	false
+
+
+2035	false
+
+
+2036	false
+
+
+2037	false
+
+
+2038	true
+
+
+2039	true
+
+
+2040	false
+
+
+2041	false
+
+
+2042	false
+
+
+2043	true
+
+
+2044	true
+
+
+2045	true
+
+
+2046	false
+
+
+2047	none
+
+
+2048	none
+
+
+2049	none
+
+
+2050	false
+
+
+2051	true
+
+
+2052	false
+
+
+2053	true
+
+
+2054	false
+
+
+2055	false
+
+
+2056	false
+
+
+2057	false
+
+
+2058	false
+
+
+2059	false
+
+
+2060	false
+
+
+2061	false
+
+
+2062	none
+
+
+2063	none
+
+
+2064	none
+
+
+2065	false
+
+
+2066	false
+
+
+2067	false
+
+
+2068	false
+
+
+2069	false
+
+
+2070	false
+
+
+2071	false
+
+
+2072	false
+
+
+2073	false
+
+
+2074	false
+
+
+2075	false
+
+
+2076	none
+
+
+2077	none
+
+
+2078	none
+
+
+2079	false
+
+
+2080	false
+
+
+2081	false
+
+
+2082	false
+
+
+2083	false
+
+
+2084	false
+
+
+2085	false
+
+
+2086	false
+
+
+2087	false
+
+
+2088	false
+
+
+2089	none
+
+
+2090	none
+
+
+2091	none
+
+
+2092	false
+
+
+2093	false
+
+
+2094	false
+
+
+2095	false
+
+
+2096	false
+
+
+2097	false
+
+
+2098	false
+
+
+2099	false
+
+
+2100	false
+
+
+2101	none
+
+
+2102	none
+
+
+2103	none
+
+
+2104	false
+
+
+2105	false
+
+
+2106	false
+
+
+2107	false
+
+
+2108	false
+
+
+2109	false
+
+
+2110	false
+
+
+2111	false
+
+
+2112	none
+
+
+2113	none
+
+
+2114	none
+
+
+2115	false
+
+
+2116	false
+
+
+2117	false
+
+
+2118	false
+
+
+2119	false
+
+
+2120	false
+
+
+2121	false
+
+
+2122	none
+
+
+2123	none
+
+
+2124	none
+
+
+2125	false
+
+
+2126	false
+
+
+2127	false
+
+
+2128	false
+
+
+2129	false
+
+
+2130	false
+
+
+2131	none
+
+
+2132	none
+
+
+2133	none
+
+
+2134	false
+
+
+2135	false
+
+
+2136	false
+
+
+2137	false
+
+
+2138	false
+
+
+2139	none
+
+
+2140	none
+
+
+2141	none
+
+
+2142	false
+
+
+2143	false
+
+
+2144	false
+
+
+2145	false
+
+
+2146	false
+
+
+2147	false
+
+
+2148	false
+
+
+2149	false
+
+
+2150	false
+
+
+2151	false
+
+
+2152	false
+
+
+2153	none
+
+
+2154	none
+
+
+2155	false
+
+
+2156	none
+
+
+2157	none
+
+
+2158	none
+
+
+2159	none
+
+
+2160	false
+
+
+2161	none
+
+
+2162	none
+
+
+2163	none
+
+
+2164	false
+
+
+2165	none
+
+
+2166	none
+
+
+2167	none
+
+
+2168	false
+
+
+2169	false
+
+
+2170	false
+
+
+2171	false
+
+
+2172	false
+
+
+2173	false
+
+
+2174	true
+
+
+2175	true
+
+
+2176	true
+
+
+2177	none
+
+
+2178	none
+
+
+2179	true
+
+
+2180	true
+
+
+2181	true
+
+
+2182	true
+
+
+2183	true
+
+
+2184	true
+
+
+2185	true
+
+
+2186	true
+
+
+2187	true
+
+
+2188	false
+
+
+2189	none
+
+
+2190	none
+
+
+2191	none
+
+
+2192	none
+
+
+2193	false
+
+
+2194	false
+
+
+2195	none
+
+
+2196	false
+
+
+2197	false
+
+
+2198	false
+
+
+2199	false
+
+
+2200	none
+
+
+2201	false
+
+
+2202	none
+
+
+2203	none
+
+
+2204	none
+
+
+2205	false
+
+
+2206	false
+
+
+2207	none
+
+
+2208	false
+
+
+2209	false
+
+
+2210	false
+
+
+2211	false
+
+
+2212	none
+
+
+2213	none
+
+
+2214	none
+
+
+2215	none
+
+
+2216	none
+
+
+2217	none
+
+
+2218	none
+
+
+2219	none
+
+
+2220	none
+
+
+2221	none
+
+
+2222	none
+
+
+2223	none
+
+
+2224	none
+
+
+2225	none
+
+
+2226	none
+
+
+2227	none
+
+
+2228	none
+
+
+2229	none
+
+
+2230	none
+
+
+2231	none
+
+
+2232	none
+
+
+2233	none
+
+
+2234	none
+
+
+2235	none
+
+
+2236	none
+
+
+2237	none
+
+
+2238	none
+
+
+2239	none
+
+
+2240	none
+
+
+2241	none
+
+
+2242	none
+
+
+2243	none
+
+
+2244	none
+
+
+2245	none
+
+
+2246	none
+
+
+2247	none
+
+
+2248	none
+
+
+2249	none
+
+
+2250	none
+
+
+2251	false
+
+
+2252	none
+
+
+2253	false
+
+
+2254	false
+
+
+2255	false
+
+
+2256	false
+
+
+2257	none
+
+
+2258	none
+
+
+2259	false
+
+
+2260	false
+
+
+2261	false
+
+
+2262	false
+
+
+2263	none
+
+
+2264	none
+
+
+2265	none
+
+
+2266	none
+
+
+2267	none
+
+
+2268	none
+
+
+2269	false
+
+
+2270	false
+
+
+2271	false
+
+
+2272	none
+
+
+2273	false
+
+
+2274	false
+
+
+2275	none
+
+
+2276	false
+
+
+2277	none
+
+
+2278	none
+
+
+2279	none
+
+
+2280	none
+
+
+2281	none
+
+
+2282	none
+
+
+2283	none
+
+
+2284	false
+
+
+2285	none
+
+
+2286	false
+
+
+2287	true
+
+
+2288	none
+
+
+2289	none
+
+
+2290	none
+
+
+2291	none
+
+
+2292	none
+
+
+2293	true
+
+
+2294	none
+
+
+2295	none
+
+
+2296	none
+
+
+2297	true
+
+
+2298	none
+
+
+2299	none
+
+
+2300	false
+
+
+2301	none
+
+
+2302	false
+
+
+2303	none
+
+
+2304	false
+
+
+2305	none
+
+
+2306	none
+
+
+2307	none
+
+
+2308	true
+
+
+2309	true
+
+
+2310	true
+
+
+2311	true
+
+
+2312	none
+
+
+2313	false
+
+
+2314	none
+
+
+2315	none
+
+
+2316	none
+
+
+2317	none
+
+
+2318	none
+
+
+2319	none
+
+
+2320	none
+
+
+2321	false
+
+
+2322	none
+
+
+2323	false
+
+
+2324	false
+
+
+2325	none
+
+
+2326	none
+
+
+2327	none
+
+
+2328	none
+
+
+2329	none
+
+
+2330	none
+
+
+2331	none
+
+
+2332	none
+
+
+2333	none
+
+
+2334	none
+
+
+2335	none
+
+
+2336	false
+
+
+2337	none
+
+
+2338	none
+
+
+2339	false
+
+
+2340	false
+
+
+2341	none
+
+
+2342	false
+
+
+2343	none
+
+
+2344	none
+
+
+2345	none
+
+
+2346	false
+
+
+2347	false
+
+
+2348	none
+
+
+2349	false
+
+
+2350	none
+
+
+2351	none
+
+
+2352	false
+
+
+2353	none
+
+
+2354	false
+
+
+2355	none
+
+
+2356	none
+
+
+2357	none
+
+
+2358	none
+
+
+2359	none
+
+
+2360	none
+
+
+2361	none
+
+
+2362	none
+
+
+2363	none
+
+
+2364	none
+
+
+2365	none
+
+
+2366	false
+
+
+2367	none
+
+
+2368	none
+
+
+2369	false
+
+
+2370	false
+
+
+2371	none
+
+
+2372	none
+
+
+2373	none
+
+
+2374	none
+
+
+2375	none
+
+
+2376	none
+
+
+2377	none
+
+
+2378	false
+
+
+2379	false
+
+
+2380	none
+
+
+2381	none
+
+
+2382	none
+
+
+2383	none
+
+
+2384	none
+
+
+2385	false
+
+
+2386	none
+
+
+2387	false
+
+
+2388	none
+
+
+2389	none
+
+
+2390	none
+
+
+2391	none
+
+
+2392	none
+
+
+2393	none
+
+
+2394	none
+
+
+2395	none
+
+
+2396	none
+
+
+2397	false
+
+
+2398	false
+
+
+2399	none
+
+
+2400	none
+
+
+2401	none
+
+
+2402	none
+
+
+2403	none
+
+
+2404	none
+
+
+2405	none
+
+
+2406	none
+
+
+2407	false
+
+
+2408	none
+
+
+2409	none
+
+
+2410	true
+
+
+2411	true
+
+
+2412	false
+
+
+2413	false
+
+
+2414	false
+
+
+2415	false
+
+
+2416	none
+
+
+2417	false
+
+
+2418	false
+
+
+2419	none
+
+
+2420	none
+
+
+2421	false
+
+
+2422	false
+
+
+2423	none
+
+
+2424	none
+
+
+2425	false
+
+
+2426	none
+
+
+2427	none
+
+
+2428	false
+
+
+2429	none
+
+
+2430	none
+
+
+2431	none
+
+
+2432	true
+
+
+2433	true
+
+
+2434	false
+
+
+2435	none
+
+
+2436	false
+
+
+2437	none
+
+
+2438	false
+
+
+2439	none
+
+
+2440	none
+
+
+2441	true
+
+
+2442	true
+
+
+2443	true
+
+
+2444	none
+
+
+2445	none
+
+
+2446	none
+
+
+2447	false
+
+
+2448	false
+
+
+2449	false
+
+
+2450	false
+
+
+2451	false
+
+
+2452	false
+
+
+2453	false
+
+
+2454	false
+
+
+2455	false
+
+
+2456	false
+
+
+2457	none
+
+
+2458	true
+
+
+2459	true
+
+
+2460	true
+
+
+2461	true
+
+
+2462	none
+
+
+2463	none
+
+
+2464	none
+
+
+2465	true
+
+
+2466	false
+
+
+2467	none
+
+
+2468	true
+
+
+2469	false
+
+
+2470	true
+
+
+2471	true
+
+
+2472	none
+
+
+2473	none
+
+
+2474	none
+
+
+2475	none
+
+
+2476	none
+
+
+2477	none
+
+
+2478	none
+
+
+2479	none
+
+
+2480	true
+
+
+2481	none
+
+
+2482	false
+
+
+2483	false
+
+
+2484	false
+
+
+2485	false
+
+
+2486	false
+
+
+2487	none
+
+
+2488	true
+
+
+2489	true
+
+
+2490	true
+
+
+2491	true
+
+
+2492	true
+
+
+2493	none
+
+
+2494	none
+
+
+2495	none
+
+
+2496	none
+
+
+2497	none
+
+
+2498	false
+
+
+2499	false
+
+
+2500	false
+
+
+2501	false
+
+
+2502	false
+
+
+2503	false
+
+
+2504	false
+
+
+2505	false
+
+
+2506	false
+
+
+2507	false
+
+
+2508	false
+
+
+2509	false
+
+
+2510	false
+
+
+2511	false
+
+
+2512	false
+
+
+2513	false
+
+
+2514	false
+
+
+2515	false
+
+
+2516	false
+
+
+2517	false
+
+
+2518	false
+
+
+2519	false
+
+
+2520	false
+
+
+2521	false
+
+
+2522	false
+
+
+2523	false
+
+
+2524	none
+
+
+2525	false
+
+
+2526	false
+
+
+2527	false
+
+
+2528	false
+
+
+2529	true
+
+
+2530	false
+
+
+2531	none
+
+
+2532	none
+
+
+2533	none
+
+
+2534	none
+
+
+2535	none
+
+
+2536	none
+
+
+2537	false
+
+
+2538	false
+
+
+2539	false
+
+
+2540	true
+
+
+2541	false
+
+
+2542	false
+
+
+2543	false
+
+
+2544	true
+
+
+2545	false
+
+
+2546	false
+
+
+2547	true
+
+
+2548	false
+
+
+2549	true
+
+
+2550	false
+
+
+2551	false
+
+
+2552	false
+
+
+2553	false
+
+
+2554	false
+
+
+2555	false
+
+
+2556	false
+
+
+2557	false
+
+
+2558	none
+
+
+2559	none
+
+
+2560	none
+
+
+2561	false
+
+
+2562	none
+
+
+2563	none
+
+
+2564	none
+
+
+2565	none
+
+
+2566	none
+
+
+2567	none
+
+
+2568	true
+
+
+2569	true
+
+
+2570	true
+
+
+2571	false
+
+
+2572	none
+
+
+2573	none
+
+
+2574	none
+
+
+2575	none
+
+
+2576	none
+
+
+2577	none
+
+
+2578	none
+
+
+2579	false
+
+
+2580	none
+
+
+2581	false
+
+
+2582	false
+
+
+2583	none
+
+
+2584	none
+
+
+2585	none
+
+
+2586	none
+
+
+2587	none
+
+
+2588	false
+
+
+2589	false
+
+
+2590	none
+
+
+2591	none
+
+
+2592	false
+
+
+2593	none
+
+
+2594	none
+
+
+2595	none
+
+
+2596	true
+
+
+2597	false
+
+
+2598	false
+
+
+2599	none
+
+
+2600	none
+
+
+2601	false
+
+
+2602	false
+
+
+2603	none
+
+
+2604	none
+
+
+2605	false
+
+
+2606	none
+
+
+2607	none
+
+
+2608	none
+
+
+2609	none
+
+
+2610	none
+
+
+2611	none
+
+
+2612	none
+
+
+2613	none
+
+
+2614	none
+
+
+2615	none
+
+
+2616	none
+
+
+2617	none
+
+
+2618	none
+
+
+2619	none
+
+
+2620	false
+
+
+2621	none
+
+
+2622	none
+
+
+2623	false
+
+
+2624	none
+
+
+2625	none
+
+
+2626	none
+
+
+2627	false
+
+
+2628	none
+
+
+2629	none
+
+
+2630	none
+
+
+2631	none
+
+
+2632	none
+
+
+2633	none
+
+
+2634	none
+
+
+2635	false
+
+
+2636	none
+
+
+2637	none
+
+
+2638	none
+
+
+2639	none
+
+
+2640	false
+
+
+2641	none
+
+
+2642	none
+
+
+2643	none
+
+
+2644	none
+
+
+2645	false
+
+
+2646	none
+
+
+2647	none
+
+
+2648	none
+
+
+2649	none
+
+
+2650	none
+
+
+2651	none
+
+
+2652	none
+
+
+2653	none
+
+
+2654	false
+
+
+2655	false
+
+
+2656	false
+
+
+2657	false
+
+
+2658	none
+
+
+2659	false
+
+
+2660	false
+
+
+2661	false
+
+
+2662	none
+
+
+2663	none
+
+
+2664	false
+
+
+2665	none
+
+
+2666	false
+
+
+2667	false
+
+
+2668	false
+
+
+2669	none
+
+
+2670	none
+
+
+2671	none
+
+
+2672	false
+
+
+2673	false
+
+
+2674	false
+
+
+2675	none
+
+
+2676	none
+
+
+2677	none
+
+
+2678	none
+
+
+2679	none
+
+
+2680	none
+
+
+2681	none
+
+
+2682	false
+
+
+2683	false
+
+
+2684	none
+
+
+2685	none
+
+
+2686	false
+
+
+2687	none
+
+
+2688	none
+
+
+2689	none
+
+
+2690	none
+
+
+2691	none
+
+
+2692	false
+
+
+2693	none
+
+
+2694	none
+
+
+2695	none
+
+
+2696	false
+
+
+2697	none
+
+
+2698	false
+
+
+2699	none
+
+
+2700	none
+
+
+2701	false
+
+
+2702	none
+
+
+2703	none
+
+
+2704	none
+
+
+2705	none
+
+
+2706	none
+
+
+2707	none
+
+
+2708	none
+
+
+2709	none
+
+
+2710	none
+
+
+2711	none
+
+
+2712	none
+
+
+2713	none
+
+
+2714	false
+
+
+2715	false
+
+
+2716	none
+
+
+2717	none
+
+
+2718	false
+
+
+2719	none
+
+
+2720	false
+
+
+2721	none
+
+
+2722	none
+
+
+2723	false
+
+
+2724	false
+
+
+2725	none
+
+
+2726	false
+
+
+2727	false
+
+
+2728	none
+
+
+2729	false
+
+
+2730	none
+
+
+2731	false
+
+
+2732	none
+
+
+2733	none
+
+
+2734	none
+
+
+2735	none
+
+
+2736	none
+
+
+2737	none
+
+
+2738	none
+
+
+2739	none
+
+
+2740	false
+
+
+2741	false
+
+
+2742	false
+
+
+2743	false
+
+
+2744	none
+
+
+2745	false
+
+
+2746	none
+
+
+2747	none
+
+
+2748	none
+
+
+2749	none
+
+
+2750	false
+
+
+2751	false
+
+
+2752	false
+
+
+2753	none
+
+
+2754	false
+
+
+2755	false
+
+
+2756	none
+
+
+2757	false
+
+
+2758	none
+
+
+2759	false
+
+
+2760	false
+
+
+2761	none
+
+
+2762	none
+
+
+2763	false
+
+
+2764	none
+
+
+2765	false
+
+
+2766	none
+
+
+2767	none
+
+
+2768	none
+
+
+2769	none
+
+
+2770	none
+
+
+2771	none
+
+
+2772	none
+
+
+2773	none
+
+
+2774	none
+
+
+2775	none
+
+
+2776	none
+
+
+2777	false
+
+
+2778	none
+
+
+2779	none
+
+
+2780	none
+
+
+2781	none
+
+
+2782	none
+
+
+2783	none
+
+
+2784	none
+
+
+2785	none
+
+
+2786	false
+
+
+2787	true
+
+
+2788	false
+
+
+2789	true
+
+
+2790	none
+
+
+2791	none
+
+
+2792	none
+
+
+2793	none
+
+
+2794	none
+
+
+2795	none
+
+
+2796	none
+
+
+2797	none
+
+
+2798	none
+
+
+2799	none
+
+
+2800	none
+
+
+2801	none
+
+
+2802	none
+
+
+2803	none
+
+
+2804	none
+
+
+2805	true
+
+
+2806	false
+
+
+2807	true
+
+
+2808	true
+
+
+2809	false
+
+
+2810	true
+
+
+2811	false
+
+
+2812	none
+
+
+2813	false
+
+
+2814	false
+
+
+2815	none
+
+
+2816	false
+
+
+2817	false
+
+
+2818	none
+
+
+2819	none
+
+
+2820	false
+
+
+2821	none
+
+
+2822	none
+
+
+2823	none
+
+
+2824	none
+
+
+2825	none
+
+
+2826	false
+
+
+2827	none
+
+
+2828	false
+
+
+2829	none
+
+
+2830	none
+
+
+2831	none
+
+
+2832	false
+
+
+2833	false
+
+
+2834	none
+
+
+2835	none
+
+
+2836	none
+
+
+2837	none
+
+
+2838	none
+
+
+2839	none
+
+
+2840	none
+
+
+2841	none
+
+
+2842	none
+
+
+2843	false
+
+
+2844	false
+
+
+2845	none
+
+
+2846	none
+
+
+2847	none
+
+
+2848	none
+
+
+2849	none
+
+
+2850	none
+
+
+2851	none
+
+
+2852	none
+
+
+2853	none
+
+
+2854	none
+
+
+2855	none
+
+
+2856	true
+
+
+2857	none
+
+
+2858	true
+
+
+2859	true
+
+
+2860	true
+
+
+2861	none
+
+
+2862	none
+
+
+2863	none
+
+
+2864	none
+
+
+2865	none
+
+
+2866	none
+
+
+2867	false
+
+
+2868	false
+
+
+2869	none
+
+
+2870	false
+
+
+2871	true
+
+
+2872	none
+
+
+2873	false
+
+
+2874	none
+
+
+2875	true
+
+
+2876	none
+
+
+2877	false
+
+
+2878	none
+
+
+2879	false
+
+
+2880	none
+
+
+2881	none
+
+
+2882	none
+
+
+2883	none
+
+
+2884	false
+
+
+2885	false
+
+
+2886	false
+
+
+2887	none
+
+
+2888	true
+
+
+2889	false
+
+
+2890	false
+
+
+2891	none
+
+
+2892	true
+
+
+2893	false
+
+
+2894	none
+
+
+2895	true
+
+
+2896	none
+
+
+2897	true
+
+
+2898	none
+
+
+2899	false
+
+
+2900	false
+
+
+2901	false
+
+
+2902	none
+
+
+2903	false
+
+
+2904	false
+
+
+2905	none
+
+
+2906	false
+
+
+2907	none
+
+
+2908	none
+
+
+2909	none
+
+
+2910	none
+
+
+2911	none
+
+
+2912	none
+
+
+2913	none
+
+
+2914	none
+
+
+2915	false
+
+
+2916	false
+
+
+2917	false
+
+
+2918	none
+
+
+2919	false
+
+
+2920	none
+
+
+2921	none
+
+
+2922	none
+
+
+2923	none
+
+
+2924	false
+
+
+2925	none
+
+
+2926	none
+
+
+2927	none
+
+
+2928	none
+
+
+2929	false
+
+
+2930	false
+
+
+2931	false
+
+
+2932	none
+
+
+2933	none
+
+
+2934	none
+
+
+2935	none
+
+
+2936	false
+
+
+2937	false
+
+
+2938	false
+
+
+2939	none
+
+
+2940	none
+
+
+2941	none
+
+
+2942	none
+
+
+2943	none
+
+
+2944	none
+
+
+2945	none
+
+
+2946	none
+
+
+2947	none
+
+
+2948	none
+
+
+2949	none
+
+
+2950	none
+
+
+2951	none
+
+
+2952	none
+
+
+2953	none
+
+
+2954	none
+
+
+2955	none
+
+
+2956	none
+
+
+2957	false
+
+
+2958	false
+
+
+2959	false
+
+
+2960	false
+
+
+2961	none
+
+
+2962	none
+
+
+2963	none
+
+
+2964	false
+
+
+2965	none
+
+
+2966	false
+
+
+2967	false
+
+
+2968	false
+
+
+2969	none
+
+
+2970	none
+
+
+2971	none
+
+
+2972	false
+
+
+2973	none
+
+
+2974	false
+
+
+2975	false
+
+
+2976	false
+
+
+2977	none
+
+
+2978	none
+
+
+2979	none
+
+
+2980	none
+
+
+2981	none
+
+
+2982	none
+
+
+2983	none
+
+
+2984	none
+
+
+2985	none
+
+
+2986	none
+
+
+2987	none
+
+
+2988	none
+
+
+2989	none
+
+
+2990	none
+
+
+2991	none
+
+
+2992	none
+
+
+2993	none
+
+
+2994	none
+
+
+2995	none
+
+
+2996	false
+
+
+2997	false
+
+
+2998	false
+
+
+2999	none
+
+
+3000	none
+
+
+3001	none
+
+
+3002	false
+
+
+3003	false
+
+
+3004	false
+
+
+3005	none
+
+
+3006	none
+
+
+3007	none
+
+
+3008	none
+
+
+3009	false
+
+
+3010	false
+
+
+3011	false
+
+
+3012	none
+
+
+3013	none
+
+
+3014	none
+
+
+3015	none
+
+
+3016	none
+
+
+3017	none
+
+
+3018	none
+
+
+3019	none
+
+
+3020	none
+
+
+3021	none
+
+
+3022	none
+
+
+3023	none
+
+
+3024	none
+
+
+3025	none
+
+
+3026	none
+
+
+3027	none
+
+
+3028	none
+
+
+3029	none
+
+
+3030	false
+
+
+3031	false
+
+
+3032	false
+
+
+3033	none
+
+
+3034	none
+
+
+3035	none
+
+
+3036	false
+
+
+3037	false
+
+
+3038	false
+
+
+3039	none
+
+
+3040	none
+
+
+3041	none
+
+
+3042	none
+
+
+3043	none
+
+
+3044	none
+
+
+3045	none
+
+
+3046	none
+
+
+3047	none
+
+
+3048	false
+
+
+3049	none
+
+
+3050	none
+
+
+3051	none
+
+
+3052	false
+
+
+3053	none
+
+
+3054	none
+
+
+3055	false
+
+
+3056	none
+
+
+3057	false
+
+
+3058	none
+
+
+3059	false
+
+
+3060	none
+
+
+3061	none
+
+
+3062	none
+
+
+3063	false
+
+
+3064	none
+
+
+3065	none
+
+
+3066	true
+
+
+3067	none
+
+
+3068	true
+
+
+3069	none
+
+
+3070	false
+
+
+3071	none
+
+
+3072	false
+
+
+3073	none
+
+
+3074	none
+
+
+3075	none
+
+
+3076	false
+
+
+3077	none
+
+
+3078	none
+
+
+3079	none
+
+
+3080	false
+
+
+3081	none
+
+
+3082	none
+
+
+3083	none
+
+
+3084	none
+
+
+3085	none
+
+
+3086	none
+
+
+3087	none
+
+
+3088	none
+
+
+3089	none
+
+
+3090	none
+
+
+3091	none
+
+
+3092	none
+
+
+3093	none
+
+
+3094	none
+
+
+3095	none
+
+
+3096	none
+
+
+3097	none
+
+
+3098	none
+
+
+3099	none
+
+
+3100	none
+
+
+3101	none
+
+
+3102	none
+
+
+3103	none
+
+
+3104	none
+
+
+3105	none
+
+
+3106	false
+
+
+3107	none
+
+
+3108	none
+
+
+3109	none
+
+
+3110	none
+
+
+3111	none
+
+
+3112	none
+
+
+3113	none
+
+
+3114	none
+
+
+3115	false
+
+
+3116	none
+
+
+3117	none
+
+
+3118	none
+
+
+3119	false
+
+
+3120	none
+
+
+3121	none
+
+
+3122	none
+
+
+3123	false
+
+
+3124	none
+
+
+3125	none
+
+
+3126	none
+
+
+3127	none
+
+
+3128	none
+
+
+3129	none
+
+
+3130	false
+
+
+3131	none
+
+
+3132	none
+
+
+3133	none
+
+
+3134	none
+
+
+3135	none
+
+
+3136	none
+
+
+3137	none
+
+
+3138	none
+
+
+3139	none
+
+
+3140	false
+
+
+3141	none
+
+
+3142	none
+
+
+3143	none
+
+
+3144	none
+
+
+3145	false
+
+
+3146	none
+
+
+3147	none
+
+
+3148	none
+
+
+3149	none
+
+
+3150	none
+
+
+3151	true
+
+
+3152	none
+
+
+3153	none
+
+
+3154	none
+
+
+3155	none
+
+
+3156	none
+
+
+3157	none
+
+
+3158	none
+
+
+3159	none
+
+
+3160	none
+
+
+3161	none
+
+
+3162	none
+
+
+3163	none
+
+
+3164	none
+
+
+3165	none
+
+
+3166	none
+
+
+3167	none
+
+
+3168	none
+
+
+3169	false
+
+
+3170	none
+
+
+3171	false
+
+
+3172	none
+
+
+3173	false
+
+
+3174	false
+
+
+3175	none
+
+
+3176	none
+
+
+3177	false
+
+
+3178	none
+
+
+3179	false
+
+
+3180	none
+
+
+3181	none
+
+
+3182	none
+
+
+3183	none
+
+
+3184	none
+
+
+3185	none
+
+
+3186	none
+
+
+3187	none
+
+
+3188	none
+
+
+3189	none
+
+
+3190	none
+
+
+3191	none
+
+
+3192	none
+
+
+3193	none
+
+
+3194	none
+
+
+3195	none
+
+
+3196	none
+
+
+3197	none
+
+
+3198	none
+
+
+3199	none
+
+
+3200	none
+
+
+3201	none
+
+
+3202	none
+
+
+3203	none
+
+
+3204	false
+
+
+3205	none
+
+
+3206	false
+
+
+3207	false
+
+
+3208	none
+
+
+3209	none
+
+
+3210	false
+
+
+3211	none
+
+
+3212	false
+
+
+3213	none
+
+
+3214	none
+
+
+3215	none
+
+
+3216	none
+
+
+3217	none
+
+
+3218	none
+
+
+3219	none
+
+
+3220	none
+
+
+3221	none
+
+
+3222	none
+
+
+3223	false
+
+
+3224	false
+
+
+3225	none
+
+
+3226	none
+
+
+3227	false
+
+
+3228	none
+
+
+3229	false
+
+
+3230	none
+
+
+3231	none
+
+
+3232	none
+
+
+3233	none
+
+
+3234	none
+
+
+3235	none
+
+
+3236	none
+
+
+3237	false
+
+
+3238	none
+
+
+3239	none
+
+
+3240	false
+
+
+3241	none
+
+
+3242	false
+
+
+3243	none
+
+
+3244	none
+
+
+3245	false
+
+
+3246	none
+
+
+3247	false
+
+
+3248	none
+
+
+3249	false
+
+
+3250	none
+
+
+3251	none
+
+
+3252	none
+
+
+3253	none
+
+
+3254	none
+
+
+3255	none
+
+
+3256	false
+
+
+3257	none
+
+
+3258	none
+
+
+3259	none
+
+
+3260	none
+
+
+3261	none
+
+
+3262	none
+
+
+3263	none
+
+
+3264	none
+
+
+3265	none
+
+
+3266	none
+
+
+3267	none
+
+
+3268	none
+
+
+3269	none
+
+
+3270	none
+
+
+3271	none
+
+
+3272	none
+
+
+3273	none
+
+
+3274	none
+
+
+3275	none
+
+
+3276	none
+
+
+3277	none
+
+
+3278	none
+
+
+3279	false
+
+
+3280	none
+
+
+3281	none
+
+
+3282	none
+
+
+3283	none
+
+
+3284	none
+
+
+3285	none
+
+
+3286	none
+
+
+3287	false
+
+
+3288	false
+
+
+3289	none
+
+
+3290	none
+
+
+3291	false
+
+
+3292	none
+
+
+3293	none
+
+
+3294	none
+
+
+3295	false
+
+
+3296	false
+
+
+3297	false
+
+
+3298	true
+
+
+3299	true
+
+
+3300	true
+
+
+3301	none
+
+
+3302	none
+
+
+3303	none
+
+
+3304	none
+
+
+3305	false
+
+
+3306	false
+
+
+3307	true
+
+
+3308	true
+
+
+3309	true
+
+
+3310	true
+
+
+3311	true
+
+
+3312	false
+
+
+3313	true
+
+
+3314	none
+
+
+3315	none
+
+
+3316	true
+
+
+3317	none
+
+
+3318	none
+
+
+3319	none
+
+
+3320	none
+
+
+3321	none
+
+
+3322	true
+
+
+3323	none
+
+
+3324	false
+
+
+3325	none
+
+
+3326	none
+
+
+3327	none
+
+
+3328	none
+
+
+3329	true
+
+
+3330	none
+
+
+3331	false
+
+
+3332	none
+
+
+3333	none
+
+
+3334	false
+
+
+3335	none
+
+
+3336	none
+
+
+3337	none
+
+
+3338	none
+
+
+3339	none
+
+
+3340	false
+
+
+3341	false
+
+
+3342	false
+
+
+3343	false
+
+
+3344	false
+
+
+3345	false
+
+
+3346	false
+
+
+3347	false
+
+
+3348	false
+
+
+3349	false
+
+
+3350	false
+
+
+3351	false
+
+
+3352	false
+
+
+3353	false
+
+
+3354	false
+
+
+3355	false
+
+
+3356	false
+
+
+3357	none
+
+
+3358	false
+
+
+3359	none
+
+
+3360	none
+
+
+3361	none
+
+
+3362	none
+
+
+3363	false
+
+
+3364	none
+
+
+3365	none
+
+
+3366	none
+
+
+3367	false
+
+
+3368	false
+
+
+3369	none
+
+
+3370	false
+
+
+3371	none
+
+
+3372	none
+
+
+3373	false
+
+
+3374	none
+
+
+3375	false
+
+
+3376	false
+
+
+3377	none
+
+
+3378	false
+
+
+3379	none
+
+
+3380	false
+
+
+3381	none
+
+
+3382	none
+
+
+3383	false
+
+
+3384	none
+
+
+3385	false
+
+
+3386	false
+
+
+3387	none
+
+
+3388	none
+
+
+3389	false
+
+
+3390	none
+
+
+3391	none
+
+
+3392	false
+
+
+3393	none
+
+
+3394	false
+
+
+3395	false
+
+
+3396	none
+
+
+3397	none
+
+
+3398	none
+
+
+3399	none
+
+
+3400	none
+
+
+3401	none
+
+
+3402	none
+
+
+3403	none
+
+
+3404	none
+
+
+3405	none
+
+
+3406	none
+
+
+3407	false
+
+
+3408	none
+
+
+3409	false
+
+
+3410	false
+
+
+3411	none
+
+
+3412	none
+
+
+3413	none
+
+
+3414	none
+
+
+3415	none
+
+
+3416	none
+
+
+3417	none
+
+
+3418	none
+
+
+3419	none
+
+
+3420	none
+
+
+3421	none
+
+
+3422	none
+
+
+3423	none
+
+
+3424	false
+
+
+3425	false
+
+
+3426	none
+
+
+3427	none
+
+
+3428	none
+
+
+3429	none
+
+
+3430	false
+
+
+3431	none
+
+
+3432	none
+
+
+3433	none
+
+
+3434	false
+
+
+3435	false
+
+
+3436	false
+
+
+3437	false
+
+
+3438	false
+
+
+3439	false
+
+
+3440	none
+
+
+3441	true
+
+
+3442	false
+
+
+3443	false
+
+
+3444	none
+
+
+3445	none
+
+
+3446	none
+
+
+3447	none
+
+
+3448	none
+
+
+3449	none
+
+
+3450	none
+
+
+3451	none
+
+
+3452	true
+
+
+3453	none
+
+
+3454	none
+
+
+3455	none
+
+
+3456	none
+
+
+3457	none
+
+
+3458	none
+
+
+3459	none
+
+
+3460	none
+
+
+3461	none
+
+
+3462	none
+
+
+3463	true
+
+
+3464	none
+
+
+3465	none
+
+
+3466	none
+
+
+3467	none
+
+
+3468	none
+
+
+3469	false
+
+
+3470	none
+
+
+3471	none
+
+
+3472	false
+
+
+3473	false
+
+
+3474	false
+
+
+3475	none
+
+
+3476	false
+
+
+3477	none
+
+
+3478	none
+
+
+3479	none
+
+
+3480	none
+
+
+3481	none
+
+
+3482	true
+
+
+3483	none
+
+
+3484	none
+
+
+3485	none
+
+
+3486	none
+
+
+3487	none
+
+
+3488	none
+
+
+3489	none
+
+
+3490	true
+
+
+3491	none
+
+
+3492	none
+
+
+3493	none
+
+
+3494	none
+
+
+3495	none
+
+
+3496	false
+
+
+3497	true
+
+
+3498	false
+
+
+3499	none
+
+
+3500	false
+
+
+3501	none
+
+
+3502	none
+
+
+3503	true
+
+
+3504	none
+
+
+3505	none
+
+
+3506	none
+
+
+3507	none
+
+
+3508	true
+
+
+3509	none
+
+
+3510	none
+
+
+3511	none
+
+
+3512	true
+
+
+3513	false
+
+
+3514	none
+
+
+3515	false
+
+
+3516	false
+
+
+3517	true
+
+
+3518	true
+
+
+3519	false
+
+
+3520	false
+
+
+3521	none
+
+
+3522	none
+
+
+3523	none
+
+
+3524	none
+
+
+3525	none
+
+
+3526	none
+
+
+3527	none
+
+
+3528	none
+
+
+3529	none
+
+
+3530	none
+
+
+3531	none
+
+
+3532	none
+
+
+3533	none
+
+
+3534	none
+
+
+3535	none
+
+
+3536	none
+
+
+3537	none
+
+
+3538	none
+
+
+3539	none
+
+
+3540	none
+
+
+3541	false
+
+
+3542	none
+
+
+3543	none
+
+
+3544	none
+
+
+3545	none
+
+
+3546	none
+
+
+3547	none
+
+
+3548	none
+
+
+3549	none
+
+
+3550	none
+
+
+3551	none
+
+
+3552	none
+
+
+3553	none
+
+
+3554	none
+
+
+3555	none
+
+
+3556	none
+
+
+3557	none
+
+
+3558	none
+
+
+3559	none
+
+
+3560	none
+
+
+3561	none
+
+
+3562	none
+
+
+3563	none
+
+
+3564	none
+
+
+3565	none
+
+
+3566	none
+
+
+3567	false
+
+
+3568	true
+
+
+3569	none
+
+
+3570	true
+
+
+3571	none
+
+
+3572	none
+
+
+3573	false
+
+
+3574	false
+
+
+3575	false
+
+
+3576	false
+
+
+3577	false
+
+
+3578	none
+
+
+3579	true
+
+
+3580	true
+
+
+3581	false
+
+
+3582	none
+
+
+3583	none
+
+
+3584	none
+
+
+3585	none
+
+
+3586	none
+
+
+3587	false
+
+
+3588	false
+
+
+3589	false
+
+
+3590	none
+
+
+3591	false
+
+
+3592	false
+
+
+3593	none
+
+
+3594	false
+
+
+3595	none
+
+
+3596	false
+
+
+3597	none
+
+
+3598	false
+
+
+3599	none
+
+
+3600	none
+
+
+3601	false
+
+
+3602	false
+
+
+3603	false
+
+
+3604	none
+
+
+3605	true
+
+
+3606	true
+
+
+3607	none
+
+
+3608	false
+
+
+3609	none
+
+
+3610	none
+
+
+3611	true
+
+
+3612	none
+
+
+3613	none
+
+
+3614	none
+
+
+3615	none
+
+
+3616	none
+
+
+3617	none
+
+
+3618	none
+
+
+3619	false
+
+
+3620	none
+
+
+3621	false
+
+
+3622	none
+
+
+3623	none
+
+
+3624	false
+
+
+3625	none
+
+
+3626	false
+
+
+3627	none
+
+
+3628	none
+
+
+3629	false
+
+
+3630	none
+
+
+3631	none
+
+
+3632	none
+
+
+3633	none
+
+
+3634	none
+
+
+3635	none
+
+
+3636	false
+
+
+3637	none
+
+
+3638	none
+
+
+3639	none
+
+
+3640	none
+
+
+3641	none
+
+
+3642	none
+
+
+3643	none
+
+
+3644	none
+
+
+3645	none
+
+
+3646	none
+
+
+3647	none
+
+
+3648	none
+
+
+3649	true
+
+
+3650	none
+
+
+3651	none
+
+
+3652	none
+
+
+3653	none
+
+
+3654	none
+
+
+3655	true
+
+
+3656	true
+
+
+3657	false
+
+
+3658	true
+
+
+3659	true
+
+
+3660	false
+
+
+3661	none
+
+
+3662	true
+
+
+3663	true
+
+
+3664	false
+
+
+3665	false
+
+
+3666	false
+
+
+3667	false
+
+
+3668	false
+
+
+3669	none
+
+
+3670	false
+
+
+3671	false
+
+
+3672	false
+
+
+3673	false
+
+
+3674	false
+
+
+3675	false
+
+
+3676	none
+
+
+3677	false
+
+
+3678	false
+
+
+3679	false
+
+
+3680	false
+
+
+3681	true
+
+
+3682	none
+
+
+3683	false
+
+
+3684	false
+
+
+3685	false
+
+
+3686	false
+
+
+3687	none
+
+
+3688	false
+
+
+3689	false
+
+
+3690	false
+
+
+3691	none
+
+
+3692	false
+
+
+3693	false
+
+
+3694	none
+
+
+3695	false
+
+
+3696	false
+
+
+3697	none
+
+
+3698	none
+
+
+3699	false
+
+
+3700	none
+
+
+3701	none
+
+
+3702	none
+
+
+3703	none
+
+
+3704	none
+
+
+3705	none
+
+
+3706	true
+
+
+3707	none
+
+
+3708	none
+
+
+3709	none
+
+
+3710	none
+
+
+3711	true
+
+
+3712	true
+
+
+3713	true
+
+
+3714	true
+
+
+3715	none
+
+
+3716	none
+
+
+3717	false
+
+
+3718	false
+
+
+3719	false
+
+
+3720	false
+
+
+3721	false
+
+
+3722	none
+
+
+3723	none
+
+
+3724	false
+
+
+3725	false
+
+
+3726	false
+
+
+3727	false
+
+
+3728	none
+
+
+3729	none
+
+
+3730	false
+
+
+3731	false
+
+
+3732	false
+
+
+3733	none
+
+
+3734	none
+
+
+3735	false
+
+
+3736	false
+
+
+3737	none
+
+
+3738	none
+
+
+3739	false
+
+
+3740	false
+
+
+3741	none
+
+
+3742	none
+
+
+3743	none
+
+
+3744	none
+
+
+3745	none
+
+
+3746	false
+
+
+3747	false
+
+
+3748	true
+
+
+3749	false
+
+
+3750	false
+
+
+3751	true
+
+
+3752	true
+
+
+3753	false
+
+
+3754	none
+
+
+3755	none
+
+
+3756	none
+
+
+3757	none
+
+
+3758	none
+
+
+3759	none
+
+
+3760	none
+
+
+3761	false
+
+
+3762	false
+
+
+3763	false
+
+
+3764	true
+
+
+3765	false
+
+
+3766	true
+
+
+3767	none
+
+
+3768	none
+
+
+3769	none
+
+
+3770	none
+
+
+3771	none
+
+
+3772	none
+
+
+3773	none
+
+
+3774	none
+
+
+3775	none
+
+
+3776	false
+
+
+3777	false
+
+
+3778	none
+
+
+3779	none
+
+
+3780	none
+
+
+3781	none
+
+
+3782	false
+
+
+3783	false
+
+
+3784	false
+
+
+3785	none
+
+
+3786	none
+
+
+3787	none
+
+
+3788	none
+
+
+3789	false
+
+
+3790	false
+
+
+3791	none
+
+
+3792	none
+
+
+3793	none
+
+
+3794	none
+
+
+3795	false
+
+
+3796	false
+
+
+3797	none
+
+
+3798	none
+
+
+3799	none
+
+
+3800	none
+
+
+3801	none
+
+
+3802	none
+
+
+3803	none
+
+
+3804	none
+
+
+3805	none
+
+
+3806	none
+
+
+3807	none
+
+
+3808	none
+
+
+3809	none
+
+
+3810	none
+
+
+3811	false
+
+
+3812	none
+
+
+3813	none
+
+
+3814	none
+
+
+3815	false
+
+
+3816	false
+
+
+3817	false
+
+
+3818	false
+
+
+3819	false
+
+
+3820	false
+
+
+3821	none
+
+
+3822	none
+
+
+3823	none
+
+
+3824	none
+
+
+3825	none
+
+
+3826	none
+
+
+3827	none
+
+
+3828	none
+
+
+3829	none
+
+
+3830	none
+
+
+3831	none
+
+
+3832	none
+
+
+3833	none
+
+
+3834	none
+
+
+3835	none
+
+
+3836	none
+
+
+3837	none
+
+
+3838	none
+
+
+3839	none
+
+
+3840	none
+
+
+3841	none
+
+
+3842	false
+
+
+3843	false
+
+
+3844	false
+
+
+3845	false
+
+
+3846	false
+
+
+3847	false
+
+
+3848	false
+
+
+3849	false
+
+
+3850	false
+
+
+3851	false
+
+
+3852	false
+
+
+3853	false
+
+
+3854	false
+
+
+3855	false
+
+
+3856	false
+
+
+3857	false
+
+
+3858	false
+
+
+3859	false
+
+
+3860	false
+
+
+3861	false
+
+
+3862	false
+
+
+3863	false
+
+
+3864	false
+
+
+3865	false
+
+
+3866	false
+
+
+3867	none
+
+
+3868	none
+
+
+3869	none
+
+
+3870	none
+
+
+3871	false
+
+
+3872	false
+
+
+3873	false
+
+
+3874	false
+
+
+3875	false
+
+
+3876	false
+
+
+3877	false
+
+
+3878	none
+
+
+3879	none
+
+
+3880	true
+
+
+3881	none
+
+
+3882	none
+
+
+3883	true
+
+
+3884	none
+
+
+3885	none
+
+
+3886	none
+
+
+3887	none
+
+
+3888	none
+
+
+3889	false
+
+
+3890	false
+
+
+3891	none
+
+
+3892	none
+
+
+3893	false
+
+
+3894	false
+
+
+3895	false
+
+
+3896	false
+
+
+3897	none
+
+
+3898	none
+
+
+3899	none
+
+
+3900	none
+
+
+3901	none
+
+
+3902	none
+
+
+3903	none
+
+
+3904	none
+
+
+3905	none
+
+
+3906	none
+
+
+3907	none
+
+
+3908	none
+
+
+3909	none
+
+
+3910	none
+
+
+3911	none
+
+
+3912	none
+
+
+3913	none
+
+
+3914	none
+
+
+3915	none
+
+
+3916	none
+
+
+3917	false
+
+
+3918	none
+
+
+3919	none
+
+
+3920	false
+
+
+3921	false
+
+
+3922	false
+
+
+3923	false
+
+
+3924	none
+
+
+3925	none
+
+
+3926	none
+
+
+3927	false
+
+
+3928	false
+
+
+3929	false
+
+
+3930	false
+
+
+3931	none
+
+
+3932	none
+
+
+3933	none
+
+
+3934	none
+
+
+3935	none
+
+
+3936	none
+
+
+3937	none
+
+
+3938	none
+
+
+3939	none
+
+
+3940	none
+
+
+3941	none
+
+
+3942	none
+
+
+3943	false
+
+
+3944	false
+
+
+3945	false
+
+
+3946	false
+
+
+3947	false
+
+
+3948	false
+
+
+3949	false
+
+
+3950	false
+
+
+3951	none
+
+
+3952	none
+
+
+3953	none
+
+
+3954	none
+
+
+3955	false
+
+
+3956	false
+
+
+3957	false
+
+
+3958	none
+
+
+3959	false
+
+
+3960	false
+
+
+3961	none
+
+
+3962	none
+
+
+3963	none
+
+
+3964	none
+
+
+3965	none
+
+
+3966	none
+
+
+3967	false
+
+
+3968	false
+
+
+3969	none
+
+
+3970	false
+
+
+3971	false
+
+
+3972	false
+
+
+3973	none
+
+
+3974	false
+
+
+3975	false
+
+
+3976	none
+
+
+3977	false
+
+
+3978	false
+
+
+3979	none
+
+
+3980	none
+
+
+3981	false
+
+
+3982	none
+
+
+3983	false
+
+
+3984	false
+
+
+3985	false
+
+
+3986	false
+
+
+3987	false
+
+
+3988	false
+
+
+3989	true
+
+
+3990	true
+
+
+3991	none
+
+
+3992	true
+
+
+3993	true
+
+
+3994	none
+
+
+3995	none
+
+
+3996	none
+
+
+3997	none
+
+
+3998	none
+
+
+3999	false
+
+
+4000	false
+
+
+4001	none
+
+
+4002	none
+
+
+4003	false
+
+
+4004	false
+
+
+4005	none
+
+
+4006	none
+
+
+4007	none
+
+
+4008	none
+
+
+4009	none
+
+
+4010	none
+
+
+4011	none
+
+
+4012	none
+
+
+4013	none
+
+
+4014	true
+
+
+4015	none
+
+
+4016	false
+
+
+4017	none
+
+
+4018	none
+
+
+4019	none
+
+
+4020	none
+
+
+4021	none
+
+
+4022	none
+
+
+4023	false
+
+
+4024	none
+
+
+4025	none
+
+
+4026	none
+
+
+4027	false
+
+
+4028	none
+
+
+4029	none
+
+
+4030	none
+
+
+4031	none
+
+
+4032	none
+
+
+4033	none
+
+
+4034	none
+
+
+4035	false
+
+
+4036	false
+
+
+4037	none
+
+
+4038	none
+
+
+4039	none
+
+
+4040	none
+
+
+4041	none
+
+
+4042	none
+
+
+4043	false
+
+
+4044	none
+
+
+4045	none
+
+
+4046	false
+
+
+4047	none
+
+
+4048	none
+
+
+4049	true
+
+
+4050	true
+
+
+4051	true
+
+
+4052	true
+
+
+4053	true
+
+
+4054	true
+
+
+4055	true
+
+
+4056	true
+
+
+4057	false
+
+
+4058	none
+
+
+4059	none
+
+
+4060	none
+
+
+4061	true
+
+
+4062	true
+
+
+4063	none
+
+
+4064	none
+
+
+4065	none
+
+
+4066	false
+
+
+4067	none
+
+
+4068	none
+
+
+4069	none
+
+
+4070	true
+
+
+4071	none
+
+
+4072	none
+
+
+4073	none
+
+
+4074	none
+
+
+4075	none
+
+
+4076	none
+
+
+4077	true
+
+
+4078	none
+
+
+4079	true
+
+
+4080	true
+
+
+4081	true
+
+
+4082	false
+
+
+4083	true
+
+
+4084	false
+
+
+4085	true
+
+
+4086	none
+
+
+4087	false
+
+
+4088	false
+
+
+4089	false
+
+
+4090	false
+
+
+4091	false
+
+
+4092	false
+
+
+4093	none
+
+
+4094	none
+
+
+4095	none
+
+
+4096	none
+
+
+4097	none
+
+
+4098	none
+
+
+4099	none
+
+
+4100	none
+
+
+4101	false
+
+
+4102	false
+
+
+4103	false
+
+
+4104	false
+
+
+4105	false
+
+
+4106	none
+
+
+4107	false
+
+
+4108	false
+
+
+4109	false
+
+
+4110	false
+
+
+4111	none
+
+
+4112	false
+
+
+4113	false
+
+
+4114	false
+
+
+4115	none
+
+
+4116	false
+
+
+4117	false
+
+
+4118	none
+
+
+4119	false
+
+
+4120	none
+
+
+4121	none
+
+
+4122	none
+
+
+4123	none
+
+
+4124	none
+
+
+4125	none
+
+
+4126	none
+
+
+4127	none
+
+
+4128	none
+
+
+4129	none
+
+
+4130	none
+
+
+4131	true
+
+
+4132	none
+
+
+4133	none
+
+
+4134	none
+
+
+4135	none
+
+
+4136	none
+
+
+4137	true
+
+
+4138	false
+
+
+4139	none
+
+
+4140	none
+
+
+4141	false
+
+
+4142	none
+
+
+4143	false
+
+
+4144	false
+
+
+4145	true
+
+
+4146	true
+
+
+4147	true
+
+
+4148	false
+
+
+4149	true
+
+
+4150	true
+
+
+4151	true
+
+
+4152	none
+
+
+4153	none
+
+
+4154	false
+
+
+4155	none
+
+
+4156	false
+
+
+4157	false
+
+
+4158	none
+
+
+4159	none
+
+
+4160	none
+
+
+4161	none
+
+
+4162	none
+
+
+4163	none
+
+
+4164	none
+
+
+4165	none
+
+
+4166	none
+
+
+4167	none
+
+
+4168	false
+
+
+4169	false
+
+
+4170	none
+
+
+4171	none
+
+
+4172	false
+
+
+4173	false
+
+
+4174	true
+
+
+4175	false
+
+
+4176	false
+
+
+4177	true
+
+
+4178	false
+
+
+4179	false
+
+
+4180	false
+
+
+4181	true
+
+
+4182	false
+
+
+4183	false
+
+
+4184	none
+
+
+4185	false
+
+
+4186	none
+
+
+4187	false
+
+
+4188	false
+
+
+4189	true
+
+
+4190	false
+
+
+4191	none
+
+
+4192	false
+
+
+4193	false
+
+
+4194	none
+
+
+4195	none
+
+
+4196	false
+
+
+4197	false
+
+
+4198	none
+
+
+4199	none
+
+
+4200	false
+
+
+4201	none
+
+
+4202	false
+
+
+4203	none
+
+
+4204	none
+
+
+4205	false
+
+
+4206	true
+
+
+4207	none
+
+
+4208	none
+
+
+4209	none
+
+
+4210	false
+
+
+4211	none
+
+
+4212	none
+
+
+4213	false
+
+
+4214	true
+
+
+4215	none
+
+
+4216	none
+
+
+4217	none
+
+
+4218	none
+
+
+4219	none
+
+
+4220	none
+
+
+4221	none
+
+
+4222	none
+
+
+4223	none
+
+
+4224	none
+
+
+4225	none
+
+
+4226	false
+
+
+4227	false
+
+
+4228	none
+
+
+4229	none
+
+
+4230	none
+
+
+4231	none
+
+
+4232	none
+
+
+4233	none
+
+
+4234	none
+
+
+4235	none
+
+
+4236	none
+
+
+4237	none
+
+
+4238	none
+
+
+4239	true
+
+
+4240	none
+
+
+4241	none
+
+
+4242	none
+
+
+4243	none
+
+
+4244	none
+
+
+4245	none
+
+
+4246	none
+
+
+4247	none
+
+
+4248	false
+
+
+4249	none
+
+
+4250	none
+
+
+4251	true
+
+
+4252	none
+
+
+4253	false
+
+
+4254	none
+
+
+4255	none
+
+
+4256	none
+
+
+4257	none
+
+
+4258	none
+
+
+4259	none
+
+
+4260	none
+
+
+4261	none
+
+
+4262	none
+
+
+4263	none
+
+
+4264	none
+
+
+4265	none
+
+
+4266	none
+
+
+4267	none
+
+
+4268	none
+
+
+4269	none
+
+
+4270	none
+
+
+4271	false
+
+
+4272	false
+
+
+4273	false
+
+
+4274	false
+
+
+4275	false
+
+
+4276	none
+
+
+4277	false
+
+
+4278	false
+
+
+4279	none
+
+
+4280	none
+
+
+4281	none
+
+
+4282	false
+
+
+4283	none
+
+
+4284	none
+
+
+4285	none
+
+
+4286	none
+
+
+4287	none
+
+
+4288	none
+
+
+4289	none
+
+
+4290	none
+
+
+4291	none
+
+
+4292	none
+
+
+4293	none
+
+
+4294	none
+
+
+4295	none
+
+
+4296	none
+
+
+4297	none
+
+
+4298	none
+
+
+4299	none
+
+
+4300	none
+
+
+4301	none
+
+
+4302	none
+
+
+4303	none
+
+
+4304	none
+
+
+4305	none
+
+
+4306	none
+
+
+4307	none
+
+
+4308	false
+
+
+4309	false
+
+
+4310	false
+
+
+4311	false
+
+
+4312	none
+
+
+4313	false
+
+
+4314	false
+
+
+4315	none
+
+
+4316	none
+
+
+4317	none
+
+
+4318	false
+
+
+4319	false
+
+
+4320	false
+
+
+4321	false
+
+
+4322	none
+
+
+4323	false
+
+
+4324	false
+
+
+4325	none
+
+
+4326	none
+
+
+4327	none
+
+
+4328	false
+
+
+4329	false
+
+
+4330	false
+
+
+4331	none
+
+
+4332	false
+
+
+4333	false
+
+
+4334	none
+
+
+4335	none
+
+
+4336	none
+
+
+4337	false
+
+
+4338	false
+
+
+4339	none
+
+
+4340	false
+
+
+4341	false
+
+
+4342	none
+
+
+4343	none
+
+
+4344	none
+
+
+4345	false
+
+
+4346	false
+
+
+4347	false
+
+
+4348	false
+
+
+4349	none
+
+
+4350	none
+
+
+4351	none
+
+
+4352	false
+
+
+4353	none
+
+
+4354	none
+
+
+4355	none
+
+
+4356	none
+
+
+4357	none
+
+
+4358	none
+
+
+4359	false
+
+
+4360	none
+
+
+4361	none
+
+
+4362	false
+
+
+4363	false
+
+
+4364	none
+
+
+4365	false
+
+
+4366	false
+
+
+4367	false
+
+
+4368	none
+
+
+4369	none
+
+
+4370	none
+
+
+4371	none
+
+
+4372	none
+
+
+4373	none
+
+
+4374	false
+
+
+4375	none
+
+
+4376	false
+
+
+4377	false
+
+
+4378	none
+
+
+4379	false
+
+
+4380	false
+
+
+4381	none
+
+
+4382	none
+
+
+4383	false
+
+
+4384	false
+
+
+4385	true
+
+
+4386	true
+
+
+4387	true
+
+
+4388	false
+
+
+4389	true
+
+
+4390	true
+
+
+4391	true
+
+
+4392	true
+
+
+4393	none
+
+
+4394	none
+
+
+4395	none
+
+
+4396	none
+
+
+4397	none
+
+
+4398	none
+
+
+4399	none
+
+
+4400	none
+
+
+4401	false
+
+
+4402	false
+
+
+4403	false
+
+
+4404	true
+
+
+4405	none
+
+
+4406	none
+
+
+4407	none
+
+
+4408	none
+
+
+4409	none
+
+
+4410	none
+
+
+4411	false
+
+
+4412	false
+
+
+4413	false
+
+
+4414	none
+
+
+4415	false
+
+
+4416	true
+
+
+4417	none
+
+
+4418	true
+
+
+4419	none
+
+
+4420	none
+
+
+4421	none
+
+
+4422	none
+
+
+4423	none
+
+
+4424	none
+
+
+4425	none
+
+
+4426	none
+
+
+4427	none
+
+
+4428	none
+
+
+4429	none
+
+
+4430	none
+
+
+4431	none
+
+
+4432	none
+
+
+4433	none
+
+
+4434	none
+
+
+4435	none
+
+
+4436	none
+
+
+4437	none
+
+
+4438	none
+
+
+4439	none
+
+
+4440	none
+
+
+4441	none
+
+
+4442	none
+
+
+4443	none
+
+
+4444	none
+
+
+4445	none
+
+
+4446	none
+
+
+4447	none
+
+
+4448	none
+
+
+4449	none
+
+
+4450	none
+
+
+4451	false
+
+
+4452	false
+
+
+4453	none
+
+
+4454	none
+
+
+4455	none
+
+
+4456	false
+
+
+4457	none
+
+
+4458	true
+
+
+4459	false
+
+
+4460	none
+
+
+4461	false
+
+
+4462	false
+
+
+4463	none
+
+
+4464	none
+
+
+4465	true
+
+
+4466	none
+
+
+4467	false
+
+
+4468	false
+
+
+4469	none
+
+
+4470	none
+
+
+4471	none
+
+
+4472	none
+
+
+4473	none
+
+
+4474	none
+
+
+4475	none
+
+
+4476	none
+
+
+4477	none
+
+
+4478	none
+
+
+4479	none
+
+
+4480	none
+
+
+4481	none
+
+
+4482	none
+
+
+4483	none
+
+
+4484	false
+
+
+4485	false
+
+
+4486	none
+
+
+4487	none
+
+
+4488	none
+
+
+4489	false
+
+
+4490	false
+
+
+4491	none
+
+
+4492	none
+
+
+4493	none
+
+
+4494	false
+
+
+4495	none
+
+
+4496	none
+
+
+4497	none
+
+
+4498	false
+
+
+4499	none
+
+
+4500	none
+
+
+4501	none
+
+
+4502	none
+
+
+4503	none
+
+
+4504	none
+
+
+4505	none
+
+
+4506	false
+
+
+4507	false
+
+
+4508	none
+
+
+4509	false
+
+
+4510	false
+
+
+4511	false
+
+
+4512	none
+
+
+4513	false
+
+
+4514	false
+
+
+4515	none
+
+
+4516	false
+
+
+4517	false
+
+
+4518	false
+
+
+4519	none
+
+
+4520	false
+
+
+4521	false
+
+
+4522	false
+
+
+4523	false
+
+
+4524	false
+
+
+4525	false
+
+
+4526	false
+
+
+4527	none
+
+
+4528	none
+
+
+4529	false
+
+
+4530	none
+
+
+4531	true
+
+
+4532	false
+
+
+4533	false
+
+
+4534	none
+
+
+4535	false
+
+
+4536	none
+
+
+4537	false
+
+
+4538	false
+
+
+4539	false
+
+
+4540	none
+
+
+4541	false
+
+
+4542	none
+
+
+4543	none
+
+
+4544	none
+
+
+4545	none
+
+
+4546	none
+
+
+4547	false
+
+
+4548	false
+
+
+4549	none
+
+
+4550	false
+
+
+4551	false
+
+
+4552	none
+
+
+4553	none
+
+
+4554	false
+
+
+4555	none
+
+
+4556	none
+
+
+4557	false
+
+
+4558	true
+
+
+4559	none
+
+
+4560	false
+
+
+4561	true
+
+
+4562	false
+
+
+4563	none
+
+
+4564	false
+
+
+4565	true
+
+
+4566	none
+
+
+4567	true
+
+
+4568	false
+
+
+4569	none
+
+
+4570	none
+
+
+4571	true
+
+
+4572	true
+
+
+4573	true
+
+
+4574	true
+
+
+4575	true
+
+
+4576	true
+
+
+4577	false
+
+
+4578	false
+
+
+4579	none
+
+
+4580	true
+
+
+4581	false
+
+
+4582	none
+
+
+4583	true
+
+
+4584	none
+
+
+4585	true
+
+
+4586	none
+
+
+4587	none
+
+
+4588	false
+
+
+4589	false
+
+
+4590	false
+
+
+4591	false
+
+
+4592	none
+
+
+4593	false
+
+
+4594	false
+
+
+4595	false
+
+
+4596	none
+
+
+4597	false
+
+
+4598	false
+
+
+4599	none
+
+
+4600	false
+
+
+4601	none
+
+
+4602	false
+
+
+4603	none
+
+
+4604	none
+
+
+4605	false
+
+
+4606	none
+
+
+4607	none
+
+
+4608	none
+
+
+4609	false
+
+
+4610	none
+
+
+4611	none
+
+
+4612	none
+
+
+4613	false
+
+
+4614	false
+
+
+4615	none
+
+
+4616	none
+
+
+4617	none
+
+
+4618	none
+
+
+4619	false
+
+
+4620	none
+
+
+4621	none
+
+
+4622	false
+
+
+4623	none
+
+
+4624	false
+
+
+4625	false
+
+
+4626	false
+
+
+4627	false
+
+
+4628	true
+
+
+4629	true
+
+
+4630	true
+
+
+4631	false
+
+
+4632	true
+
+
+4633	true
+
+
+4634	false
+
+
+4635	false
+
+
+4636	false
+
+
+4637	false
+
+
+4638	false
+
+
+4639	false
+
+
+4640	false
+
+
+4641	false
+
+
+4642	false
+
+
+4643	false
+
+
+4644	false
+
+
+4645	false
+
+
+4646	false
+
+
+4647	false
+
+
+4648	false
+
+
+4649	false
+
+
+4650	false
+
+
+4651	false
+
+
+4652	none
+
+
+4653	false
+
+
+4654	false
+
+
+4655	false
+
+
+4656	none
+
+
+4657	false
+
+
+4658	false
+
+
+4659	none
+
+
+4660	false
+
+
+4661	none
+
+
+4662	false
+
+
+4663	none
+
+
+4664	none
+
+
+4665	none
+
+
+4666	false
+
+
+4667	false
+
+
+4668	false
+
+
+4669	false
+
+
+4670	true
+
+
+4671	true
+
+
+4672	true
+
+
+4673	true
+
+
+4674	false
+
+
+4675	true
+
+
+4676	true
+
+
+4677	true
+
+
+4678	false
+
+
+4679	false
+
+
+4680	false
+
+
+4681	false
+
+
+4682	false
+
+
+4683	false
+
+
+4684	false
+
+
+4685	none
+
+
+4686	none
+
+
+4687	none
+
+
+4688	none
+
+
+4689	none
+
+
+4690	none
+
+
+4691	none
+
+
+4692	false
+
+
+4693	none
+
+
+4694	false
+
+
+4695	true
+
+
+4696	none
+
+
+4697	true
+
+
+4698	none
+
+
+4699	true
+
+
+4700	none
+
+
+4701	false
+
+
+4702	false
+
+
+4703	none
+
+
+4704	false
+
+
+4705	none
+
+
+4706	none
+
+
+4707	none
+
+
+4708	true
+
+
+4709	true
+
+
+4710	none
+
+
+4711	none
+
+
+4712	true
+
+
+4713	none
+
+
+4714	none
+
+
+4715	none
+
+
+4716	true
+
+
+4717	none
+
+
+4718	false
+
+
+4719	none
+
+
+4720	true
+
+
+4721	none
+
+
+4722	none
+
+
+4723	true
+
+
+4724	none
+
+
+4725	true
+
+
+4726	none
+
+
+4727	true
+
+
+4728	false
+
+
+4729	false
+
+
+4730	false
+
+
+4731	false
+
+
+4732	false
+
+
+4733	none
+
+
+4734	false
+
+
+4735	false
+
+
+4736	false
+
+
+4737	false
+
+
+4738	false
+
+
+4739	false
+
+
+4740	false
+
+
+4741	false
+
+
+4742	false
+
+
+4743	true
+
+
+4744	true
+
+
+4745	false
+
+
+4746	true
+
+
+4747	false
+
+
+4748	false
+
+
+4749	none
+
+
+4750	none
+
+
+4751	true
+
+
+4752	true
+
+
+4753	none
+
+
+4754	none
+
+
+4755	false
+
+
+4756	true
+
+
+4757	true
+
+
+4758	true
+
+
+4759	false
+
+
+4760	false
+
+
+4761	false
+
+
+4762	false
+
+
+4763	false
+
+
+4764	none
+
+
+4765	false
+
+
+4766	none
+
+
+4767	false
+
+
+4768	false
+
+
+4769	false
+
+
+4770	none
+
+
+4771	false
+
+
+4772	false
+
+
+4773	false
+
+
+4774	false
+
+
+4775	false
+
+
+4776	none
+
+
+4777	false
+
+
+4778	false
+
+
+4779	false
+
+
+4780	none
+
+
+4781	false
+
+
+4782	none
+
+
+4783	false
+
+
+4784	false
+
+
+4785	false
+
+
+4786	none
+
+
+4787	false
+
+
+4788	false
+
+
+4789	false
+
+
+4790	false
+
+
+4791	false
+
+
+4792	none
+
+
+4793	false
+
+
+4794	false
+
+
+4795	none
+
+
+4796	false
+
+
+4797	none
+
+
+4798	false
+
+
+4799	false
+
+
+4800	false
+
+
+4801	none
+
+
+4802	false
+
+
+4803	false
+
+
+4804	false
+
+
+4805	false
+
+
+4806	false
+
+
+4807	none
+
+
+4808	none
+
+
+4809	none
+
+
+4810	false
+
+
+4811	none
+
+
+4812	false
+
+
+4813	false
+
+
+4814	false
+
+
+4815	none
+
+
+4816	false
+
+
+4817	false
+
+
+4818	false
+
+
+4819	false
+
+
+4820	false
+
+
+4821	none
+
+
+4822	none
+
+
+4823	none
+
+
+4824	none
+
+
+4825	none
+
+
+4826	none
+
+
+4827	true
+
+
+4828	none
+
+
+4829	none
+
+
+4830	none
+
+
+4831	none
+
+
+4832	none
+
+
+4833	none
+
+
+4834	none
+
+
+4835	none
+
+
+4836	none
+
+
+4837	none
+
+
+4838	none
+
+
+4839	true
+
+
+4840	none
+
+
+4841	none
+
+
+4842	none
+
+
+4843	none
+
+
+4844	none
+
+
+4845	none
+
+
+4846	none
+
+
+4847	none
+
+
+4848	false
+
+
+4849	false
+
+
+4850	true
+
+
+4851	none
+
+
+4852	false
+
+
+4853	true
+
+
+4854	true
+
+
+4855	false
+
+
+4856	false
+
+
+4857	none
+
+
+4858	none
+
+
+4859	none
+
+
+4860	true
+
+
+4861	none
+
+
+4862	none
+
+
+4863	none
+
+
+4864	none
+
+
+4865	none
+
+
+4866	none
+
+
+4867	none
+
+
+4868	false
+
+
+4869	true
+
+
+4870	none
+
+
+4871	false
+
+
+4872	true
+
+
+4873	true
+
+
+4874	false
+
+
+4875	false
+
+
+4876	none
+
+
+4877	true
+
+
+4878	none
+
+
+4879	false
+
+
+4880	true
+
+
+4881	true
+
+
+4882	false
+
+
+4883	false
+
+
+4884	none
+
+
+4885	true
+
+
+4886	false
+
+
+4887	true
+
+
+4888	true
+
+
+4889	true
+
+
+4890	true
+
+
+4891	true
+
+
+4892	none
+
+
+4893	none
+
+
+4894	none
+
+
+4895	none
+
+
+4896	none
+
+
+4897	none
+
+
+4898	false
+
+
+4899	false
+
+
+4900	false
+
+
+4901	false
+
+
+4902	none
+
+
+4903	false
+
+
+4904	true
+
+
+4905	true
+
+
+4906	none
+
+
+4907	true
+
+
+4908	true
+
+
+4909	none
+
+
+4910	false
+
+
+4911	none
+
+
+4912	none
+
+
+4913	true
+
+
+4914	true
+
+
+4915	none
+
+
+4916	true
+
+
+4917	true
+
+
+4918	true
+
+
+4919	false
+
+
+4920	true
+
+
+4921	none
+
+
+4922	none
+
+
+4923	none
+
+
+4924	none
+
+
+4925	none
+
+
+4926	none
+
+
+4927	none
+
+
+4928	none
+
+
+4929	true
+
+
+4930	true
+
+
+4931	true
+
+
+4932	false
+
+
+4933	true
+
+
+4934	none
+
+
+4935	none
+
+
+4936	none
+
+
+4937	none
+
+
+4938	none
+
+
+4939	false
+
+
+4940	false
+
+
+4941	false
+
+
+4942	false
+
+
+4943	false
+
+
+4944	false
+
+
+4945	false
+
+
+4946	false
+
+
+4947	false
+
+
+4948	false
+
+
+4949	false
+
+
+4950	false
+
+
+4951	none
+
+
+4952	false
+
+
+4953	none
+
+
+4954	none
+
+
+4955	none
+
+
+4956	none
+
+
+4957	none
+
+
+4958	none
+
+
+4959	none
+
+
+4960	none
+
+
+4961	none
+
+
+4962	none
+
+
+4963	none
+
+
+4964	none
+
+
+4965	none
+
+
+4966	none
+
+
+4967	true
+
+
+4968	true
+
+
+4969	none
+
+
+4970	false
+
+
+4971	false
+
+
+4972	none
+
+
+4973	none
+
+
+4974	true
+
+
+4975	true
+
+
+4976	true
+
+
+4977	false
+
+
+4978	false
+
+
+4979	none
+
+
+4980	false
+
+
+4981	false
+
+
+4982	none
+
+
+4983	none
+
+
+4984	false
+
+
+4985	false
+
+
+4986	false
+
+
+4987	false
+
+
+4988	none
+
+
+4989	false
+
+
+4990	false
+
+
+4991	none
+
+
+4992	none
+
+
+4993	false
+
+
+4994	false
+
+
+4995	false
+
+
+4996	false
+
+
+4997	none
+
+
+4998	none
+
+
+4999	none
+
+
+5000	none
+
+
+5001	none
+
+
+5002	none
+
+
+5003	none
+
+
+5004	none
+
+
+5005	false
+
+
+5006	none
+
+
+5007	none
+
+
+5008	false
+
+
+5009	false
+
+
+5010	false
+
+
+5011	false
+
+
+5012	false
+
+
+5013	false
+
+
+5014	false
+
+
+5015	false
+
+
+5016	false
+
+
+5017	false
+
+
+5018	none
+
+
+5019	none
+
+
+5020	none
+
+
+5021	none
+
+
+5022	none
+
+
+5023	none
+
+
+5024	none
+
+
+5025	none
+
+
+5026	none
+
+
+5027	false
+
+
+5028	false
+
+
+5029	false
+
+
+5030	false
+
+
+5031	false
+
+
+5032	false
+
+
+5033	none
+
+
+5034	true
+
+
+5035	true
+
+
+5036	none
+
+
+5037	false
+
+
+5038	none
+
+
+5039	none
+
+
+5040	true
+
+
+5041	true
+
+
+5042	false
+
+
+5043	true
+
+
+5044	true
+
+
+5045	true
+
+
+5046	true
+
+
+5047	false
+
+
+5048	true
+
+
+5049	true
+
+
+5050	true
+
+
+5051	true
+
+
+5052	true
+
+
+5053	none
+
+
+5054	none
+
+
+5055	none
+
+
+5056	none
+
+
+5057	none
+
+
+5058	false
+
+
+5059	none
+
+
+5060	none
+
+
+5061	none
+
+
+5062	none
+
+
+5063	none
+
+
+5064	none
+
+
+5065	none
+
+
+5066	none
+
+
+5067	none
+
+
+5068	false
+
+
+5069	none
+
+
+5070	none
+
+
+5071	none
+
+
+5072	none
+
+
+5073	none
+
+
+5074	none
+
+
+5075	none
+
+
+5076	none
+
+
+5077	none
+
+
+5078	false
+
+
+5079	false
+
+
+5080	false
+
+
+5081	true
+
+
+5082	none
+
+
+5083	false
+
+
+5084	false
+
+
+5085	true
+
+
+5086	none
+
+
+5087	false
+
+
+5088	true
+
+
+5089	none
+
+
+5090	true
+
+
+5091	none
+
+
+5092	true
+
+
+5093	false
+
+
+5094	true
+
+
+5095	true
+
+
+5096	false
+
+
+5097	true
+
+
+5098	true
+
+
+5099	false
+
+
+5100	false
+
+
+5101	false
+
+
+5102	true
+
+
+5103	false
+
+
+5104	false
+
+
+5105	true
+
+
+5106	false
+
+
+5107	false
+
+
+5108	true
+
+
+5109	true
+
+
+5110	true
+
+
+5111	true
+
+
+5112	true
+
+
+5113	true
+
+
+5114	true
+
+
+5115	true
+
+
+5116	true
+
+
+5117	false
+
+
+5118	true
+
+
+5119	true
+
+
+5120	none
+
+
+5121	none
+
+
+5122	false
+
+
+5123	false
+
+
+5124	true
+
+
+5125	false
+
+
+5126	none
+
+
+5127	none
+
+
+5128	false
+
+
+5129	false
+
+
+5130	false
+
+
+5131	true
+
+
+5132	true
+
+
+5133	true
+
+
+5134	true
+
+
+5135	none
+
+
+5136	none
+
+
+5137	false
+
+
+5138	false
+
+
+5139	none
+
+
+5140	none
+
+
+5141	none
+
+
+5142	none
+
+
+5143	none
+
+
+5144	false
+
+
+5145	none
+
+
+5146	none
+
+
+5147	none
+
+
+5148	none
+
+
+5149	false
+
+
+5150	false
+
+
+5151	none
+
+
+5152	false
+
+
+5153	none
+
+
+5154	none
+
+
+5155	false
+
+
+5156	none
+
+
+5157	none
+
+
+5158	none
+
+
+5159	none
+
+
+5160	false
+
+
+5161	none
+
+
+5162	none
+
+
+5163	none
+
+
+5164	false
+
+
+5165	none
+
+
+5166	none
+
+
+5167	none
+
+
+5168	none
+
+
+5169	false
+
+
+5170	none
+
+
+5171	none
+
+
+5172	none
+
+
+5173	false
+
+
+5174	none
+
+
+5175	none
+
+
+5176	none
+
+
+5177	none
+
+
+5178	none
+
+
+5179	none
+
+
+5180	none
+
+
+5181	none
+
+
+5182	none
+
+
+5183	none
+
+
+5184	none
+
+
+5185	none
+
+
+5186	none
+
+
+5187	none
+
+
+5188	none
+
+
+5189	none
+
+
+5190	none
+
+
+5191	none
+
+
+5192	none
+
+
+5193	none
+
+
+5194	none
+
+
+5195	none
+
+
+5196	none
+
+
+5197	none
+
+
+5198	none
+
+
+5199	none
+
+
+5200	none
+
+
+5201	none
+
+
+5202	none
+
+
+5203	false
+
+
+5204	none
+
+
+5205	none
+
+
+5206	none
+
+
+5207	none
+
+
+5208	none
+
+
+5209	none
+
+
+5210	none
+
+
+5211	none
+
+
+5212	none
+
+
+5213	false
+
+
+5214	false
+
+
+5215	false
+
+
+5216	none
+
+
+5217	none
+
+
+5218	none
+
+
+5219	none
+
+
+5220	none
+
+
+5221	none
+
+
+5222	true
+
+
+5223	none
+
+
+5224	none
+
+
+5225	none
+
+
+5226	none
+
+
+5227	none
+
+
+5228	none
+
+
+5229	none
+
+
+5230	none
+
+
+5231	none
+
+
+5232	none
+
+
+5233	none
+
+
+5234	none
+
+
+5235	none
+
+
+5236	none
+
+
+5237	false
+
+
+5238	false
+
+
+5239	false
+
+
+5240	none
+
+
+5241	none
+
+
+5242	false
+
+
+5243	none
+
+
+5244	false
+
+
+5245	none
+
+
+5246	none
+
+
+5247	none
+
+
+5248	none
+
+
+5249	none
+
+
+5250	none
+
+
+5251	none
+
+
+5252	none
+
+
+5253	false
+
+
+5254	false
+
+
+5255	none
+
+
+5256	none
+
+
+5257	false
+
+
+5258	none
+
+
+5259	false
+
+
+5260	false
+
+
+5261	none
+
+
+5262	none
+
+
+5263	false
+
+
+5264	none
+
+
+5265	false
+
+
+5266	none
+
+
+5267	none
+
+
+5268	false
+
+
+5269	none
+
+
+5270	false
+
+
+5271	none
+
+
+5272	none
+
+
+5273	none
+
+
+5274	none
+
+
+5275	none
+
+
+5276	none
+
+
+5277	none
+
+
+5278	none
+
+
+5279	false
+
+
+5280	none
+
+
+5281	none
+
+
+5282	false
+
+
+5283	false
+
+
+5284	false
+
+
+5285	none
+
+
+5286	true
+
+
+5287	none
+
+
+5288	false
+
+
+5289	none
+
+
+5290	none
+
+
+5291	none
+
+
+5292	none
+
+
+5293	true
+
+
+5294	none
+
+
+5295	none
+
+
+5296	false
+
+
+5297	false
+
+
+5298	none
+
+
+5299	true
+
+
+5300	none
+
+
+5301	false
+
+
+5302	false
+
+
+5303	none
+
+
+5304	true
+
+
+5305	none
+
+
+5306	false
+
+
+5307	none
+
+
+5308	true
+
+
+5309	none
+
+
+5310	false
+
+
+5311	true
+
+
+5312	none
+
+
+5313	none
+
+
+5314	true
+
+
+5315	false
+
+
+5316	none
+
+
+5317	none
+
+
+5318	none
+
+
+5319	none
+
+
+5320	true
+
+
+5321	none
+
+
+5322	none
+
+
+5323	none
+
+
+5324	true
+
+
+5325	none
+
+
+5326	none
+
+
+5327	true
+
+
+5328	none
+
+
+5329	true
+
+
+5330	none
+
+
+5331	true
+
+
+5332	true
+
+
+5333	true
+
+
+5334	none
+
+
+5335	none
+
+
+5336	true
+
+
+5337	false
+
+
+5338	false
+
+
+5339	none
+
+
+5340	false
+
+
+5341	false
+
+
+5342	false
+
+
+5343	none
+
+
+5344	none
+
+
+5345	none
+
+
+5346	none
+
+
+5347	none
+
+
+5348	none
+
+
+5349	none
+
+
+5350	true
+
+
+5351	true
+
+
+5352	none
+
+
+5353	false
+
+
+5354	true
+
+
+5355	true
+
+
+5356	false
+
+
+5357	none
+
+
+5358	false
+
+
+5359	false
+
+
+5360	false
+
+
+5361	none
+
+
+5362	false
+
+
+5363	false
+
+
+5364	false
+
+
+5365	false
+
+
+5366	false
+
+
+5367	false
+
+
+5368	false
+
+
+5369	false
+
+
+5370	false
+
+
+5371	true
+
+
+5372	true
+
+
+5373	true
+
+
+5374	true
+
+
+5375	true
+
+
+5376	true
+
+
+5377	false
+
+
+5378	false
+
+
+5379	true
+
+
+5380	false
+
+
+5381	false
+
+
+5382	false
+
+
+5383	false
+
+
+5384	false
+
+
+5385	false
+
+
+5386	false
+
+
+5387	false
+
+
+5388	false
+
+
+5389	false
+
+
+5390	false
+
+
+5391	false
+
+
+5392	true
+
+
+5393	true
+
+
+5394	false
+
+
+5395	false
+
+
+5396	false
+
+
+5397	true
+
+
+5398	true
+
+
+5399	true
+
+
+5400	false
+
+
+5401	none
+
+
+5402	none
+
+
+5403	none
+
+
+5404	false
+
+
+5405	true
+
+
+5406	false
+
+
+5407	true
+
+
+5408	false
+
+
+5409	false
+
+
+5410	false
+
+
+5411	false
+
+
+5412	false
+
+
+5413	false
+
+
+5414	false
+
+
+5415	false
+
+
+5416	none
+
+
+5417	none
+
+
+5418	none
+
+
+5419	false
+
+
+5420	false
+
+
+5421	false
+
+
+5422	false
+
+
+5423	false
+
+
+5424	false
+
+
+5425	false
+
+
+5426	false
+
+
+5427	false
+
+
+5428	false
+
+
+5429	false
+
+
+5430	none
+
+
+5431	none
+
+
+5432	none
+
+
+5433	false
+
+
+5434	false
+
+
+5435	false
+
+
+5436	false
+
+
+5437	false
+
+
+5438	false
+
+
+5439	false
+
+
+5440	false
+
+
+5441	false
+
+
+5442	false
+
+
+5443	none
+
+
+5444	none
+
+
+5445	none
+
+
+5446	false
+
+
+5447	false
+
+
+5448	false
+
+
+5449	false
+
+
+5450	false
+
+
+5451	false
+
+
+5452	false
+
+
+5453	false
+
+
+5454	false
+
+
+5455	none
+
+
+5456	none
+
+
+5457	none
+
+
+5458	false
+
+
+5459	false
+
+
+5460	false
+
+
+5461	false
+
+
+5462	false
+
+
+5463	false
+
+
+5464	false
+
+
+5465	false
+
+
+5466	none
+
+
+5467	none
+
+
+5468	none
+
+
+5469	false
+
+
+5470	false
+
+
+5471	false
+
+
+5472	false
+
+
+5473	false
+
+
+5474	false
+
+
+5475	false
+
+
+5476	none
+
+
+5477	none
+
+
+5478	none
+
+
+5479	false
+
+
+5480	false
+
+
+5481	false
+
+
+5482	false
+
+
+5483	false
+
+
+5484	false
+
+
+5485	none
+
+
+5486	none
+
+
+5487	none
+
+
+5488	false
+
+
+5489	false
+
+
+5490	false
+
+
+5491	false
+
+
+5492	false
+
+
+5493	none
+
+
+5494	none
+
+
+5495	none
+
+
+5496	false
+
+
+5497	false
+
+
+5498	false
+
+
+5499	false
+
+
+5500	false
+
+
+5501	false
+
+
+5502	false
+
+
+5503	false
+
+
+5504	false
+
+
+5505	false
+
+
+5506	false
+
+
+5507	none
+
+
+5508	none
+
+
+5509	false
+
+
+5510	none
+
+
+5511	none
+
+
+5512	none
+
+
+5513	none
+
+
+5514	false
+
+
+5515	none
+
+
+5516	none
+
+
+5517	none
+
+
+5518	false
+
+
+5519	none
+
+
+5520	none
+
+
+5521	none
+
+
+5522	false
+
+
+5523	false
+
+
+5524	false
+
+
+5525	false
+
+
+5526	false
+
+
+5527	false
+
+
+5528	true
+
+
+5529	true
+
+
+5530	true
+
+
+5531	none
+
+
+5532	none
+
+
+5533	true
+
+
+5534	true
+
+
+5535	true
+
+
+5536	true
+
+
+5537	true
+
+
+5538	true
+
+
+5539	true
+
+
+5540	true
+
+
+5541	true
+
+
+5542	false
+
+
+5543	none
+
+
+5544	none
+
+
+5545	none
+
+
+5546	none
+
+
+5547	false
+
+
+5548	false
+
+
+5549	none
+
+
+5550	false
+
+
+5551	false
+
+
+5552	false
+
+
+5553	false
+
+
+5554	none
+
+
+5555	false
+
+
+5556	none
+
+
+5557	none
+
+
+5558	none
+
+
+5559	false
+
+
+5560	false
+
+
+5561	none
+
+
+5562	false
+
+
+5563	false
+
+
+5564	false
+
+
+5565	false
+
+
+5566	none
+
+
+5567	none
+
+
+5568	none
+
+
+5569	none
+
+
+5570	none
+
+
+5571	none
+
+
+5572	none
+
+
+5573	none
+
+
+5574	none
+
+
+5575	none
+
+
+5576	none
+
+
+5577	none
+
+
+5578	none
+
+
+5579	none
+
+
+5580	none
+
+
+5581	none
+
+
+5582	none
+
+
+5583	none
+
+
+5584	none
+
+
+5585	none
+
+
+5586	none
+
+
+5587	none
+
+
+5588	none
+
+
+5589	none
+
+
+5590	none
+
+
+5591	none
+
+
+5592	none
+
+
+5593	none
+
+
+5594	none
+
+
+5595	none
+
+
+5596	none
+
+
+5597	none
+
+
+5598	none
+
+
+5599	none
+
+
+5600	none
+
+
+5601	none
+
+
+5602	none
+
+
+5603	none
+
+
+5604	none
+
+
+5605	false
+
+
+5606	none
+
+
+5607	false
+
+
+5608	false
+
+
+5609	false
+
+
+5610	false
+
+
+5611	none
+
+
+5612	none
+
+
+5613	false
+
+
+5614	false
+
+
+5615	false
+
+
+5616	false
+
+
+5617	none
+
+
+5618	none
+
+
+5619	none
+
+
+5620	none
+
+
+5621	none
+
+
+5622	none
+
+
+5623	false
+
+
+5624	false
+
+
+5625	false
+
+
+5626	none
+
+
+5627	false
+
+
+5628	false
+
+
+5629	none
+
+
+5630	false
+
+
+5631	none
+
+
+5632	none
+
+
+5633	none
+
+
+5634	none
+
+
+5635	none
+
+
+5636	none
+
+
+5637	none
+
+
+5638	false
+
+
+5639	none
+
+
+5640	false
+
+
+5641	true
+
+
+5642	none
+
+
+5643	none
+
+
+5644	none
+
+
+5645	none
+
+
+5646	none
+
+
+5647	true
+
+
+5648	none
+
+
+5649	none
+
+
+5650	none
+
+
+5651	true
+
+
+5652	none
+
+
+5653	none
+
+
+5654	false
+
+
+5655	none
+
+
+5656	false
+
+
+5657	none
+
+
+5658	false
+
+
+5659	none
+
+
+5660	none
+
+
+5661	none
+
+
+5662	true
+
+
+5663	true
+
+
+5664	true
+
+
+5665	true
+
+
+5666	none
+
+
+5667	false
+
+
+5668	none
+
+
+5669	none
+
+
+5670	none
+
+
+5671	none
+
+
+5672	none
+
+
+5673	none
+
+
+5674	none
+
+
+5675	false
+
+
+5676	none
+
+
+5677	false
+
+
+5678	false
+
+
+5679	none
+
+
+5680	none
+
+
+5681	none
+
+
+5682	none
+
+
+5683	none
+
+
+5684	none
+
+
+5685	none
+
+
+5686	none
+
+
+5687	none
+
+
+5688	none
+
+
+5689	none
+
+
+5690	false
+
+
+5691	none
+
+
+5692	none
+
+
+5693	false
+
+
+5694	false
+
+
+5695	none
+
+
+5696	false
+
+
+5697	none
+
+
+5698	none
+
+
+5699	none
+
+
+5700	false
+
+
+5701	false
+
+
+5702	none
+
+
+5703	false
+
+
+5704	none
+
+
+5705	none
+
+
+5706	false
+
+
+5707	none
+
+
+5708	false
+
+
+5709	none
+
+
+5710	none
+
+
+5711	none
+
+
+5712	none
+
+
+5713	none
+
+
+5714	none
+
+
+5715	none
+
+
+5716	none
+
+
+5717	none
+
+
+5718	none
+
+
+5719	none
+
+
+5720	false
+
+
+5721	none
+
+
+5722	none
+
+
+5723	false
+
+
+5724	false
+
+
+5725	none
+
+
+5726	none
+
+
+5727	none
+
+
+5728	none
+
+
+5729	none
+
+
+5730	none
+
+
+5731	none
+
+
+5732	false
+
+
+5733	false
+
+
+5734	none
+
+
+5735	none
+
+
+5736	none
+
+
+5737	none
+
+
+5738	none
+
+
+5739	false
+
+
+5740	none
+
+
+5741	false
+
+
+5742	none
+
+
+5743	none
+
+
+5744	none
+
+
+5745	none
+
+
+5746	none
+
+
+5747	none
+
+
+5748	none
+
+
+5749	none
+
+
+5750	none
+
+
+5751	false
+
+
+5752	false
+
+
+5753	none
+
+
+5754	none
+
+
+5755	none
+
+
+5756	none
+
+
+5757	none
+
+
+5758	none
+
+
+5759	none
+
+
+5760	none
+
+
+5761	false
+
+
+5762	none
+
+
+5763	none
+
+
+5764	true
+
+
+5765	true
+
+
+5766	false
+
+
+5767	false
+
+
+5768	false
+
+
+5769	false
+
+
+5770	none
+
+
+5771	false
+
+
+5772	false
+
+
+5773	none
+
+
+5774	none
+
+
+5775	false
+
+
+5776	false
+
+
+5777	none
+
+
+5778	none
+
+
+5779	false
+
+
+5780	none
+
+
+5781	none
+
+
+5782	false
+
+
+5783	none
+
+
+5784	none
+
+
+5785	none
+
+
+5786	true
+
+
+5787	true
+
+
+5788	false
+
+
+5789	none
+
+
+5790	false
+
+
+5791	none
+
+
+5792	false
+
+
+5793	none
+
+
+5794	none
+
+
+5795	true
+
+
+5796	true
+
+
+5797	true
+
+
+5798	none
+
+
+5799	none
+
+
+5800	none
+
+
+5801	false
+
+
+5802	false
+
+
+5803	false
+
+
+5804	false
+
+
+5805	false
+
+
+5806	false
+
+
+5807	false
+
+
+5808	false
+
+
+5809	false
+
+
+5810	false
+
+
+5811	none
+
+
+5812	true
+
+
+5813	true
+
+
+5814	true
+
+
+5815	true
+
+
+5816	none
+
+
+5817	none
+
+
+5818	none
+
+
+5819	true
+
+
+5820	false
+
+
+5821	none
+
+
+5822	true
+
+
+5823	false
+
+
+5824	true
+
+
+5825	true
+
+
+5826	none
+
+
+5827	none
+
+
+5828	none
+
+
+5829	none
+
+
+5830	none
+
+
+5831	none
+
+
+5832	none
+
+
+5833	none
+
+
+5834	true
+
+
+5835	none
+
+
+5836	false
+
+
+5837	false
+
+
+5838	false
+
+
+5839	false
+
+
+5840	false
+
+
+5841	none
+
+
+5842	true
+
+
+5843	true
+
+
+5844	true
+
+
+5845	true
+
+
+5846	true
+
+
+5847	none
+
+
+5848	none
+
+
+5849	none
+
+
+5850	none
+
+
+5851	none
+
+
+5852	false
+
+
+5853	false
+
+
+5854	false
+
+
+5855	false
+
+
+5856	false
+
+
+5857	false
+
+
+5858	false
+
+
+5859	false
+
+
+5860	false
+
+
+5861	false
+
+
+5862	false
+
+
+5863	false
+
+
+5864	false
+
+
+5865	false
+
+
+5866	false
+
+
+5867	false
+
+
+5868	false
+
+
+5869	false
+
+
+5870	false
+
+
+5871	false
+
+
+5872	false
+
+
+5873	false
+
+
+5874	false
+
+
+5875	false
+
+
+5876	false
+
+
+5877	false
+
+
+5878	none
+
+
+5879	false
+
+
+5880	false
+
+
+5881	false
+
+
+5882	false
+
+
+5883	true
+
+
+5884	false
+
+
+5885	none
+
+
+5886	none
+
+
+5887	none
+
+
+5888	none
+
+
+5889	none
+
+
+5890	none
+
+
+5891	false
+
+
+5892	false
+
+
+5893	false
+
+
+5894	true
+
+
+5895	false
+
+
+5896	false
+
+
+5897	false
+
+
+5898	true
+
+
+5899	false
+
+
+5900	false
+
+
+5901	true
+
+
+5902	false
+
+
+5903	true
+
+
+5904	false
+
+
+5905	false
+
+
+5906	false
+
+
+5907	false
+
+
+5908	false
+
+
+5909	false
+
+
+5910	false
+
+
+5911	false
+
+
+5912	none
+
+
+5913	none
+
+
+5914	none
+
+
+5915	false
+
+
+5916	none
+
+
+5917	none
+
+
+5918	none
+
+
+5919	none
+
+
+5920	none
+
+
+5921	none
+
+
+5922	true
+
+
+5923	true
+
+
+5924	true
+
+
+5925	false
+
+
+5926	none
+
+
+5927	none
+
+
+5928	none
+
+
+5929	none
+
+
+5930	none
+
+
+5931	none
+
+
+5932	none
+
+
+5933	false
+
+
+5934	none
+
+
+5935	false
+
+
+5936	false
+
+
+5937	none
+
+
+5938	none
+
+
+5939	none
+
+
+5940	none
+
+
+5941	none
+
+
+5942	false
+
+
+5943	false
+
+
+5944	none
+
+
+5945	none
+
+
+5946	false
+
+
+5947	none
+
+
+5948	none
+
+
+5949	none
+
+
+5950	true
+
+
+5951	false
+
+
+5952	false
+
+
+5953	none
+
+
+5954	none
+
+
+5955	false
+
+
+5956	false
+
+
+5957	none
+
+
+5958	none
+
+
+5959	false
+
+
+5960	none
+
+
+5961	none
+
+
+5962	none
+
+
+5963	none
+
+
+5964	none
+
+
+5965	none
+
+
+5966	none
+
+
+5967	none
+
+
+5968	none
+
+
+5969	none
+
+
+5970	none
+
+
+5971	none
+
+
+5972	none
+
+
+5973	none
+
+
+5974	false
+
+
+5975	none
+
+
+5976	none
+
+
+5977	false
+
+
+5978	none
+
+
+5979	none
+
+
+5980	none
+
+
+5981	false
+
+
+5982	none
+
+
+5983	none
+
+
+5984	none
+
+
+5985	none
+
+
+5986	none
+
+
+5987	none
+
+
+5988	none
+
+
+5989	false
+
+
+5990	none
+
+
+5991	none
+
+
+5992	none
+
+
+5993	none
+
+
+5994	false
+
+
+5995	none
+
+
+5996	none
+
+
+5997	none
+
+
+5998	none
+
+
+5999	false
+
+
+6000	none
+
+
+6001	none
+
+
+6002	none
+
+
+6003	none
+
+
+6004	none
+
+
+6005	none
+
+
+6006	none
+
+
+6007	none
+
+
+6008	false
+
+
+6009	false
+
+
+6010	false
+
+
+6011	false
+
+
+6012	none
+
+
+6013	false
+
+
+6014	false
+
+
+6015	false
+
+
+6016	none
+
+
+6017	none
+
+
+6018	false
+
+
+6019	none
+
+
+6020	false
+
+
+6021	false
+
+
+6022	false
+
+
+6023	none
+
+
+6024	none
+
+
+6025	none
+
+
+6026	false
+
+
+6027	false
+
+
+6028	false
+
+
+6029	none
+
+
+6030	none
+
+
+6031	none
+
+
+6032	none
+
+
+6033	none
+
+
+6034	none
+
+
+6035	none
+
+
+6036	false
+
+
+6037	false
+
+
+6038	none
+
+
+6039	none
+
+
+6040	false
+
+
+6041	none
+
+
+6042	none
+
+
+6043	none
+
+
+6044	none
+
+
+6045	none
+
+
+6046	false
+
+
+6047	none
+
+
+6048	none
+
+
+6049	none
+
+
+6050	false
+
+
+6051	none
+
+
+6052	false
+
+
+6053	none
+
+
+6054	none
+
+
+6055	false
+
+
+6056	none
+
+
+6057	none
+
+
+6058	none
+
+
+6059	none
+
+
+6060	none
+
+
+6061	none
+
+
+6062	none
+
+
+6063	none
+
+
+6064	none
+
+
+6065	none
+
+
+6066	none
+
+
+6067	none
+
+
+6068	false
+
+
+6069	false
+
+
+6070	none
+
+
+6071	none
+
+
+6072	false
+
+
+6073	none
+
+
+6074	false
+
+
+6075	none
+
+
+6076	none
+
+
+6077	false
+
+
+6078	false
+
+
+6079	none
+
+
+6080	false
+
+
+6081	false
+
+
+6082	none
+
+
+6083	false
+
+
+6084	none
+
+
+6085	false
+
+
+6086	none
+
+
+6087	none
+
+
+6088	none
+
+
+6089	none
+
+
+6090	none
+
+
+6091	none
+
+
+6092	none
+
+
+6093	none
+
+
+6094	false
+
+
+6095	false
+
+
+6096	false
+
+
+6097	false
+
+
+6098	none
+
+
+6099	false
+
+
+6100	none
+
+
+6101	none
+
+
+6102	none
+
+
+6103	none
+
+
+6104	false
+
+
+6105	false
+
+
+6106	false
+
+
+6107	none
+
+
+6108	false
+
+
+6109	false
+
+
+6110	none
+
+
+6111	false
+
+
+6112	none
+
+
+6113	false
+
+
+6114	false
+
+
+6115	none
+
+
+6116	none
+
+
+6117	false
+
+
+6118	none
+
+
+6119	false
+
+
+6120	none
+
+
+6121	none
+
+
+6122	none
+
+
+6123	none
+
+
+6124	none
+
+
+6125	none
+
+
+6126	none
+
+
+6127	none
+
+
+6128	none
+
+
+6129	none
+
+
+6130	none
+
+
+6131	false
+
+
+6132	none
+
+
+6133	none
+
+
+6134	none
+
+
+6135	none
+
+
+6136	none
+
+
+6137	none
+
+
+6138	none
+
+
+6139	none
+
+
+6140	false
+
+
+6141	true
+
+
+6142	false
+
+
+6143	true
+
+
+6144	none
+
+
+6145	none
+
+
+6146	none
+
+
+6147	none
+
+
+6148	none
+
+
+6149	none
+
+
+6150	none
+
+
+6151	none
+
+
+6152	none
+
+
+6153	none
+
+
+6154	none
+
+
+6155	none
+
+
+6156	none
+
+
+6157	none
+
+
+6158	none
+
+
+6159	true
+
+
+6160	false
+
+
+6161	true
+
+
+6162	true
+
+
+6163	false
+
+
+6164	true
+
+
+6165	false
+
+
+6166	none
+
+
+6167	false
+
+
+6168	false
+
+
+6169	none
+
+
+6170	false
+
+
+6171	false
+
+
+6172	none
+
+
+6173	none
+
+
+6174	false
+
+
+6175	none
+
+
+6176	none
+
+
+6177	none
+
+
+6178	none
+
+
+6179	none
+
+
+6180	false
+
+
+6181	none
+
+
+6182	false
+
+
+6183	none
+
+
+6184	none
+
+
+6185	none
+
+
+6186	false
+
+
+6187	false
+
+
+6188	none
+
+
+6189	none
+
+
+6190	none
+
+
+6191	none
+
+
+6192	none
+
+
+6193	none
+
+
+6194	none
+
+
+6195	none
+
+
+6196	none
+
+
+6197	false
+
+
+6198	false
+
+
+6199	none
+
+
+6200	none
+
+
+6201	none
+
+
+6202	none
+
+
+6203	none
+
+
+6204	none
+
+
+6205	none
+
+
+6206	none
+
+
+6207	none
+
+
+6208	none
+
+
+6209	none
+
+
+6210	true
+
+
+6211	none
+
+
+6212	true
+
+
+6213	true
+
+
+6214	true
+
+
+6215	none
+
+
+6216	none
+
+
+6217	none
+
+
+6218	none
+
+
+6219	none
+
+
+6220	none
+
+
+6221	false
+
+
+6222	false
+
+
+6223	none
+
+
+6224	false
+
+
+6225	true
+
+
+6226	none
+
+
+6227	false
+
+
+6228	none
+
+
+6229	true
+
+
+6230	none
+
+
+6231	false
+
+
+6232	none
+
+
+6233	false
+
+
+6234	none
+
+
+6235	none
+
+
+6236	none
+
+
+6237	none
+
+
+6238	false
+
+
+6239	false
+
+
+6240	false
+
+
+6241	none
+
+
+6242	true
+
+
+6243	false
+
+
+6244	false
+
+
+6245	none
+
+
+6246	true
+
+
+6247	false
+
+
+6248	none
+
+
+6249	true
+
+
+6250	none
+
+
+6251	true
+
+
+6252	none
+
+
+6253	false
+
+
+6254	false
+
+
+6255	false
+
+
+6256	none
+
+
+6257	false
+
+
+6258	false
+
+
+6259	none
+
+
+6260	false
+
+
+6261	none
+
+
+6262	none
+
+
+6263	none
+
+
+6264	none
+
+
+6265	none
+
+
+6266	none
+
+
+6267	none
+
+
+6268	none
+
+
+6269	false
+
+
+6270	false
+
+
+6271	false
+
+
+6272	none
+
+
+6273	false
+
+
+6274	none
+
+
+6275	none
+
+
+6276	none
+
+
+6277	none
+
+
+6278	false
+
+
+6279	none
+
+
+6280	none
+
+
+6281	none
+
+
+6282	none
+
+
+6283	false
+
+
+6284	false
+
+
+6285	false
+
+
+6286	none
+
+
+6287	none
+
+
+6288	none
+
+
+6289	none
+
+
+6290	false
+
+
+6291	false
+
+
+6292	false
+
+
+6293	none
+
+
+6294	none
+
+
+6295	none
+
+
+6296	none
+
+
+6297	none
+
+
+6298	none
+
+
+6299	none
+
+
+6300	none
+
+
+6301	none
+
+
+6302	none
+
+
+6303	none
+
+
+6304	none
+
+
+6305	none
+
+
+6306	none
+
+
+6307	none
+
+
+6308	none
+
+
+6309	none
+
+
+6310	none
+
+
+6311	false
+
+
+6312	false
+
+
+6313	false
+
+
+6314	false
+
+
+6315	none
+
+
+6316	none
+
+
+6317	none
+
+
+6318	false
+
+
+6319	none
+
+
+6320	false
+
+
+6321	false
+
+
+6322	false
+
+
+6323	none
+
+
+6324	none
+
+
+6325	none
+
+
+6326	false
+
+
+6327	none
+
+
+6328	false
+
+
+6329	false
+
+
+6330	false
+
+
+6331	none
+
+
+6332	none
+
+
+6333	none
+
+
+6334	none
+
+
+6335	none
+
+
+6336	none
+
+
+6337	none
+
+
+6338	none
+
+
+6339	none
+
+
+6340	none
+
+
+6341	none
+
+
+6342	none
+
+
+6343	none
+
+
+6344	none
+
+
+6345	none
+
+
+6346	none
+
+
+6347	none
+
+
+6348	none
+
+
+6349	none
+
+
+6350	false
+
+
+6351	false
+
+
+6352	false
+
+
+6353	none
+
+
+6354	none
+
+
+6355	none
+
+
+6356	false
+
+
+6357	false
+
+
+6358	false
+
+
+6359	none
+
+
+6360	none
+
+
+6361	none
+
+
+6362	none
+
+
+6363	false
+
+
+6364	false
+
+
+6365	false
+
+
+6366	none
+
+
+6367	none
+
+
+6368	none
+
+
+6369	none
+
+
+6370	none
+
+
+6371	none
+
+
+6372	none
+
+
+6373	none
+
+
+6374	none
+
+
+6375	none
+
+
+6376	none
+
+
+6377	none
+
+
+6378	none
+
+
+6379	none
+
+
+6380	none
+
+
+6381	none
+
+
+6382	none
+
+
+6383	none
+
+
+6384	false
+
+
+6385	false
+
+
+6386	false
+
+
+6387	none
+
+
+6388	none
+
+
+6389	none
+
+
+6390	false
+
+
+6391	false
+
+
+6392	false
+
+
+6393	none
+
+
+6394	none
+
+
+6395	none
+
+
+6396	none
+
+
+6397	none
+
+
+6398	none
+
+
+6399	none
+
+
+6400	none
+
+
+6401	none
+
+
+6402	false
+
+
+6403	none
+
+
+6404	none
+
+
+6405	none
+
+
+6406	false
+
+
+6407	none
+
+
+6408	none
+
+
+6409	false
+
+
+6410	none
+
+
+6411	false
+
+
+6412	none
+
+
+6413	false
+
+
+6414	none
+
+
+6415	none
+
+
+6416	none
+
+
+6417	false
+
+
+6418	none
+
+
+6419	none
+
+
+6420	true
+
+
+6421	none
+
+
+6422	true
+
+
+6423	none
+
+
+6424	false
+
+
+6425	none
+
+
+6426	false
+
+
+6427	none
+
+
+6428	none
+
+
+6429	none
+
+
+6430	false
+
+
+6431	none
+
+
+6432	none
+
+
+6433	none
+
+
+6434	false
+
+
+6435	none
+
+
+6436	none
+
+
+6437	none
+
+
+6438	none
+
+
+6439	none
+
+
+6440	none
+
+
+6441	none
+
+
+6442	none
+
+
+6443	none
+
+
+6444	none
+
+
+6445	none
+
+
+6446	none
+
+
+6447	none
+
+
+6448	none
+
+
+6449	none
+
+
+6450	none
+
+
+6451	none
+
+
+6452	none
+
+
+6453	none
+
+
+6454	none
+
+
+6455	none
+
+
+6456	none
+
+
+6457	none
+
+
+6458	none
+
+
+6459	none
+
+
+6460	false
+
+
+6461	none
+
+
+6462	none
+
+
+6463	none
+
+
+6464	none
+
+
+6465	none
+
+
+6466	none
+
+
+6467	none
+
+
+6468	none
+
+
+6469	false
+
+
+6470	none
+
+
+6471	none
+
+
+6472	none
+
+
+6473	false
+
+
+6474	none
+
+
+6475	none
+
+
+6476	none
+
+
+6477	false
+
+
+6478	none
+
+
+6479	none
+
+
+6480	none
+
+
+6481	none
+
+
+6482	none
+
+
+6483	none
+
+
+6484	false
+
+
+6485	none
+
+
+6486	none
+
+
+6487	none
+
+
+6488	none
+
+
+6489	none
+
+
+6490	none
+
+
+6491	none
+
+
+6492	none
+
+
+6493	none
+
+
+6494	false
+
+
+6495	none
+
+
+6496	none
+
+
+6497	none
+
+
+6498	none
+
+
+6499	false
+
+
+6500	none
+
+
+6501	none
+
+
+6502	none
+
+
+6503	none
+
+
+6504	none
+
+
+6505	true
+
+
+6506	none
+
+
+6507	none
+
+
+6508	none
+
+
+6509	none
+
+
+6510	none
+
+
+6511	none
+
+
+6512	none
+
+
+6513	none
+
+
+6514	none
+
+
+6515	none
+
+
+6516	none
+
+
+6517	none
+
+
+6518	none
+
+
+6519	none
+
+
+6520	none
+
+
+6521	none
+
+
+6522	none
+
+
+6523	false
+
+
+6524	none
+
+
+6525	false
+
+
+6526	none
+
+
+6527	false
+
+
+6528	false
+
+
+6529	none
+
+
+6530	none
+
+
+6531	false
+
+
+6532	none
+
+
+6533	false
+
+
+6534	none
+
+
+6535	none
+
+
+6536	none
+
+
+6537	none
+
+
+6538	none
+
+
+6539	none
+
+
+6540	none
+
+
+6541	none
+
+
+6542	none
+
+
+6543	none
+
+
+6544	none
+
+
+6545	none
+
+
+6546	none
+
+
+6547	none
+
+
+6548	none
+
+
+6549	none
+
+
+6550	none
+
+
+6551	none
+
+
+6552	none
+
+
+6553	none
+
+
+6554	none
+
+
+6555	none
+
+
+6556	none
+
+
+6557	none
+
+
+6558	false
+
+
+6559	none
+
+
+6560	false
+
+
+6561	false
+
+
+6562	none
+
+
+6563	none
+
+
+6564	false
+
+
+6565	none
+
+
+6566	false
+
+
+6567	none
+
+
+6568	none
+
+
+6569	none
+
+
+6570	none
+
+
+6571	none
+
+
+6572	none
+
+
+6573	none
+
+
+6574	none
+
+
+6575	none
+
+
+6576	none
+
+
+6577	false
+
+
+6578	false
+
+
+6579	none
+
+
+6580	none
+
+
+6581	false
+
+
+6582	none
+
+
+6583	false
+
+
+6584	none
+
+
+6585	none
+
+
+6586	none
+
+
+6587	none
+
+
+6588	none
+
+
+6589	none
+
+
+6590	none
+
+
+6591	false
+
+
+6592	none
+
+
+6593	none
+
+
+6594	false
+
+
+6595	none
+
+
+6596	false
+
+
+6597	none
+
+
+6598	none
+
+
+6599	false
+
+
+6600	none
+
+
+6601	false
+
+
+6602	none
+
+
+6603	false
+
+
+6604	none
+
+
+6605	none
+
+
+6606	none
+
+
+6607	none
+
+
+6608	none
+
+
+6609	none
+
+
+6610	false
+
+
+6611	none
+
+
+6612	none
+
+
+6613	none
+
+
+6614	none
+
+
+6615	none
+
+
+6616	none
+
+
+6617	none
+
+
+6618	none
+
+
+6619	none
+
+
+6620	none
+
+
+6621	none
+
+
+6622	none
+
+
+6623	none
+
+
+6624	none
+
+
+6625	none
+
+
+6626	none
+
+
+6627	none
+
+
+6628	none
+
+
+6629	none
+
+
+6630	none
+
+
+6631	none
+
+
+6632	none
+
+
+6633	false
+
+
+6634	none
+
+
+6635	none
+
+
+6636	none
+
+
+6637	none
+
+
+6638	none
+
+
+6639	none
+
+
+6640	none
+
+
+6641	false
+
+
+6642	false
+
+
+6643	none
+
+
+6644	none
+
+
+6645	false
+
+
+6646	none
+
+
+6647	none
+
+
+6648	none
+
+
+6649	false
+
+
+6650	false
+
+
+6651	false
+
+
+6652	true
+
+
+6653	true
+
+
+6654	true
+
+
+6655	none
+
+
+6656	none
+
+
+6657	none
+
+
+6658	none
+
+
+6659	false
+
+
+6660	false
+
+
+6661	true
+
+
+6662	true
+
+
+6663	true
+
+
+6664	true
+
+
+6665	true
+
+
+6666	false
+
+
+6667	true
+
+
+6668	none
+
+
+6669	none
+
+
+6670	true
+
+
+6671	none
+
+
+6672	none
+
+
+6673	none
+
+
+6674	none
+
+
+6675	none
+
+
+6676	true
+
+
+6677	none
+
+
+6678	false
+
+
+6679	none
+
+
+6680	none
+
+
+6681	none
+
+
+6682	none
+
+
+6683	true
+
+
+6684	none
+
+
+6685	false
+
+
+6686	none
+
+
+6687	none
+
+
+6688	false
+
+
+6689	none
+
+
+6690	none
+
+
+6691	none
+
+
+6692	none
+
+
+6693	none
+
+
+6694	false
+
+
+6695	false
+
+
+6696	false
+
+
+6697	false
+
+
+6698	false
+
+
+6699	false
+
+
+6700	false
+
+
+6701	false
+
+
+6702	false
+
+
+6703	false
+
+
+6704	false
+
+
+6705	false
+
+
+6706	false
+
+
+6707	false
+
+
+6708	false
