@@ -10,9 +10,9 @@ def parse_args():
 
     # Data loading params
     parser.add_argument("--train_path",
-                        default="clinic_data/train_has_ID_all_1_1000(new)_test.txt",
+                        default="clinic_data/train_has_ID_all_1_1000(new).txt",
                         type=str, help="Path of train data")  # default del_1960_train.txt
-    parser.add_argument("--test_path", default="clinic_data/test_has_ID_all(new)_test.txt",
+    parser.add_argument("--test_path", default="clinic_data/test_has_ID_all(new).txt",
                         type=str, help="Path of test data")  # default del_840_test.txt #our_test.txt
     parser.add_argument("--max_sentence_length", default=300,
                         type=int, help="Max sentence length in data")
@@ -24,7 +24,7 @@ def parse_args():
     parser.add_argument("--test_etype_path", default="/wordvector/test_has_ID_all(new)_forEtypeTrain_etype_v1.1.txt",
                         type=str, help="Path of train_etype data")  # default del_840_test.txt #our_test.txt
 
-    parser.add_argument("--test_refix_path", default="clinic_data/test_has_ID_all(new)_test_flag.txt",
+    parser.add_argument("--test_refix_path", default="clinic_data/test_has_ID_all(new)_refixFlag_v1.4.txt",
                         type=str, help="Path of test_refix data")
     
 
@@ -40,10 +40,10 @@ def parse_args():
 
     # Model Hyper-parameters
     # Embeddings
-    # parser.add_argument("--embedding_path", default="/wordvector/cc.zh.300.vec",
-    #                     type=str, help="Path of pre-trained word embeddings (glove)")
-    parser.add_argument("--embedding_path", default="",
+    parser.add_argument("--embedding_path", default="/wordvector/cc.zh.300.vec",
                         type=str, help="Path of pre-trained word embeddings (glove)")
+    # parser.add_argument("--embedding_path", default="",
+    #                     type=str, help="Path of pre-trained word embeddings (glove)")
     parser.add_argument("--embedding_dim", default=300,
                         type=int, help="Dimensionality of word embedding (default: 100)")
     parser.add_argument("--emb_dropout_keep_prob", default=0.7,
