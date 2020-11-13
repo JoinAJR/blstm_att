@@ -14,4 +14,5 @@ RUN pip install -r requirements.txt
 
 # step5 设置容器启动时的运行命令，这里我们直接运行python程序
 # CMD ["/home/blstm_att/runshell.sh"]
-ENTRYPOINT ["python", "/home/blstm_att/train_origin.py"]
+# ENTRYPOINT ["python", "/home/blstm_att/train_origin.py"]
+ENTRYPOINT ["python", "/home/blstm_att/example/train_temporal_chinese_bert_softmax.py"]
